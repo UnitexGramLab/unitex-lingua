@@ -1,0 +1,1690 @@
+all,.DET+PREDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+allen,alle.DET+PREDET:dmUx:dmUy
+alle,.DET+PREDET:amUx:amUy:nmUx:nmUy
+aller,alle.DET+PREDET:gmUx:gmUy
+allerart,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+allen,aller.DET:aeMx:aeMy:dmUx:dmUy
+alle,aller.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+aller,.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+allem,aller.DET:deMx:deMy:deNx:deNy
+alles,aller.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+allerhand,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+allerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+anderlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+deine,dein.DET:aeFz:amUz:neFz:nmUz
+deinem,dein.DET:deMz:deNz
+deiner,dein.DET:deFz:geFz:gmUz
+deinen,dein.DET:aeMz:dmUz
+deines,dein.DET:geMz:geNz
+dein,.DET:aeNz:neMz:neNz
+deiniges,deinige.DET:aeNx:aeNz:neNx:neNz
+deinige,.DET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx:up
+deinigen,deinige.DET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+deinigem,deinige.DET:deMx:deNx
+deiniger,deinige.DET:deFx:geFx:gmUx:neMx:neMz
+derartigen,derartige.DET:dmUx
+derartige,.DET:amUx:nmUx
+derartiger,derartige.DET:gmUx
+der,d.DET:deFy:geFy:gmUy:neMy
+den,d.DET:aeMy:dmUy
+das,d.DET:aeNy:neNy
+des,d.DET:geMy:geNy
+die,d.DET:aeFy:amUy:neFy:nmUy
+dem,d.DET:deMy:deNy
+der,.DET:deFy:geFy:gmUy:neMy
+den,der.DET:aeMy:dmUy
+das,der.DET:aeNy:neNy
+des,der.DET:geMy:geNy
+die,der.DET:aeFy:amUy:neFy:nmUy
+dem,der.DET:deMy:deNy
+deren,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+dern,deren.DET:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+dren,deren.DET:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+denjenigen,derjenige.DET:aeMy:dmUy
+derjenige,.DET:neMy
+derjenigen,derjenige.DET:deFy:geFy:gmUy
+diejenige,derjenige.DET:aeFy:neFy
+demjenigen,derjenige.DET:deMy:deNy
+desjenigen,derjenige.DET:geMy:geNy
+dasjenige,derjenige.DET:aeNy:neNy
+diejenigen,derjenige.DET:amUy:nmUy
+denjenigen,d_jenig.DET:aeMy:dmUy
+derjenige,d_jenig.DET:neMy
+derjenigen,d_jenig.DET:deFy:geFy:gmUy
+diejenige,d_jenig.DET:aeFy:neFy
+desjenigen,d_jenig.DET:geMy:geNy
+demjenigen,d_jenig.DET:deMy:deNy
+dasjenige,d_jenig.DET:aeNy:neNy
+diejenigen,d_jenig.DET:amUy:nmUy
+derlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+derselben,derselbe.DET:deFy:geFy:gmUy
+dieselben,derselbe.DET:amUy:nmUy
+dieselbe,derselbe.DET:aeFy:neFy
+desselben,derselbe.DET:geMy:geNy
+dasselbe,derselbe.DET:aeNy:neNy
+demselben,derselbe.DET:deMy:deNy
+derselbe,.DET:neMy
+denselben,derselbe.DET:aeMy:dmUy
+derselben,d_selb.DET:deFy:geFy:gmUy
+dieselben,d_selb.DET:amUy:nmUy
+dieselbe,d_selb.DET:aeFy:neFy
+desselben,d_selb.DET:geMy:geNy
+dasselbe,d_selb.DET:aeNy:neNy
+demselben,d_selb.DET:deMy:deNy
+derselbe,d_selb.DET:neMy
+denselben,d_selb.DET:aeMy:dmUy
+dieselbigen,derselbige.DET:amUy:nmUy
+demselbigen,derselbige.DET:deMy:deNy
+derselbigen,derselbige.DET:deFy:geFy:gmUy
+derselbige,.DET:neMy
+denselbigen,derselbige.DET:aeMy:dmUy
+desselbigen,derselbige.DET:geMy:geNy
+dasselbige,derselbige.DET:aeNy:neNy
+dieselbige,derselbige.DET:aeFy:neFy
+dessen,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+dies,dieser.DET:aeNy:neNy
+dieses,dieser.DET:aeNy:geMy:geNy:neNy
+diese,dieser.DET:aeFy:amUy:neFy:nmUy
+diesen,dieser.DET:aeMy:dmUy
+diesem,dieser.DET:deMy:deNy
+dieser,.DET:deFy:geFy:gmUy:neMy
+dies,.DET:aeNy:neNy
+dieses,dies.DET:aeNy:geMy:geNy:neNy
+diese,dies.DET:aeFy:amUy:neFy:nmUy
+diesen,dies.DET:aeMy:dmUy
+diesem,dies.DET:deMy:deNy
+dieser,dies.DET:deFy:geFy:gmUy:neMy
+ebenderjenigen,ebenderjenige.DET:deFy:geFy:gmUy
+ebendenjenigen,ebenderjenige.DET:aeMy:dmUy
+ebendiejenige,ebenderjenige.DET:aeFy:neFy
+ebenderjenige,.DET:neMy
+ebendasjenige,ebenderjenige.DET:aeNy:neNy
+ebendesjenigen,ebenderjenige.DET:geMy:geNy
+ebendemjenigen,ebenderjenige.DET:deMy:deNy
+ebendiejenigen,ebenderjenige.DET:amUy:nmUy
+ebenderjenigen,ebend_jenig.DET:deFy:geFy:gmUy
+ebendenjenigen,ebend_jenig.DET:aeMy:dmUy
+ebendiejenige,ebend_jenig.DET:aeFy:neFy
+ebenderjenige,ebend_jenig.DET:neMy
+ebendasjenige,ebend_jenig.DET:aeNy:neNy
+ebendesjenigen,ebend_jenig.DET:geMy:geNy
+ebendemjenigen,ebend_jenig.DET:deMy:deNy
+ebendiejenigen,ebend_jenig.DET:amUy:nmUy
+ebendesselben,ebenderselbe.DET:geMy:geNy
+ebendenselben,ebenderselbe.DET:aeMy:dmUy
+ebendasselbe,ebenderselbe.DET:aeNy:neNy
+ebenderselben,ebenderselbe.DET:deFy:geFy:gmUy
+ebendemselben,ebenderselbe.DET:deMy:deNy
+ebendieselben,ebenderselbe.DET:amUy:nmUy
+ebenderselbe,.DET:neMy
+ebendieselbe,ebenderselbe.DET:aeFy:neFy
+ebendiese,ebendieser.DET:aeFy:amUy:neFy:nmUy
+ebendiesen,ebendieser.DET:aeMy:dmUy
+ebendieses,ebendieser.DET:aeNy:geMy:geNy:neNy
+ebendiesem,ebendieser.DET:deMy:deNy
+ebendieser,.DET:deFy:geFy:gmUy:neMy
+ebendies,ebendieser.DET:aeNy:neNy
+ebendiese,ebendies.DET:aeFy:amUy:neFy:nmUy
+ebendiesen,ebendies.DET:aeMy:dmUy
+ebendieses,ebendies.DET:aeNy:geMy:geNy:neNy
+ebendiesem,ebendies.DET:deMy:deNy
+ebendieser,ebendies.DET:deFy:geFy:gmUy:neMy
+ebendies,.DET:aeNy:neNy
+ebenjene,ebenjener.DET:aeFy:amUy:neFy:nmUy
+ebenjenen,ebenjener.DET:aeMy:dmUy
+ebenjenes,ebenjener.DET:aeNy:geMy:geNy:neNy
+ebenjener,.DET:deFy:geFy:gmUy:neMy
+ebenjenem,ebenjener.DET:deMy:deNy
+ebensolchem,ebensolcher.DET:deMx:deMy:deNx:deNy
+ebensolche,ebensolcher.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+ebensolcher,.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+ebensolches,ebensolcher.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+ebensolchen,ebensolcher.DET:aeMx:aeMy:dmUx:dmUy
+ebensolchem,ebensolch.DET:deMx:deMy:deNx:deNy
+ebensolche,ebensolch.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+ebensolcher,ebensolch.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+ebensolches,ebensolch.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+ebensolchen,ebensolch.DET:aeMx:aeMy:dmUx:dmUy
+ebensovielen,ebensoviel.DET:dmUx
+ebensovieler,ebensoviel.DET:gmUx
+ebensoviele,ebensoviel.DET:amUx:nmUx
+ebensoviel,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+ebensowenig,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+ebensowenige,ebensowenig.DET:amUx:nmUx
+ebensoweniger,ebensowenig.DET:gmUx
+ebensowenigen,ebensowenig.DET:dmUx
+genausovielen,genausoviel.DET:dmUx
+genausoviel,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+genausoviele,genausoviel.DET:amUx:nmUx
+genausovieler,genausoviel.DET:gmUx
+soundsoviel,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+soundsoviele,soundsoviel.DET:amUx:nmUx
+soundsovieler,soundsoviel.DET:gmUx
+soundsovielen,soundsoviel.DET:dmUx
+so und so viele,soundsoviel.DET:amUx:nmUx
+so und so viel,soundsoviel.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+so und so vielen,soundsoviel.DET:dmUx
+so und so vieler,soundsoviel.DET:gmUx
+soundso viele,soundsoviel.DET:amUx:nmUx
+soundso vieler,soundsoviel.DET:gmUx
+soundso viel,soundsoviel.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+soundso vielen,soundsoviel.DET:dmUx
+genausoweniger,genausowenig.DET:gmUx
+genausowenig,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+genausowenigen,genausowenig.DET:dmUx
+genausowenige,genausowenig.DET:amUx:nmUx
+sovieler,so viel.DET:gmUx
+sovielen,so viel.DET:dmUx
+soviel,so viel.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+soviele,so viel.DET:amUx:nmUx
+sowenigen,so wenig.DET:dmUx
+soweniger,so wenig.DET:gmUx
+sowenige,so wenig.DET:amUx:nmUx
+sowenig,so wenig.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+so wenige,so wenig.DET:amUx:nmUx
+so wenig,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+so weniger,so wenig.DET:gmUx
+so wenigen,so wenig.DET:dmUx
+so vieler,so viel.DET:gmUx
+so vielen,so viel.DET:dmUx
+so viel,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+so viele,so viel.DET:amUx:nmUx
+ein,.DET:aeNz:neMz:neNz
+einer,ein.DET:deFz:geFz
+eine,ein.DET:aeFz:neFz
+einen,ein.DET:aeMz
+eines,ein.DET:geMz:geNz
+einem,ein.DET:deMz:deNz
+ein,.DET+Num:aeNz:neMz:neNz
+einer,ein.DET+Num:deFz:geFz
+eine,ein.DET+Num:aeFz:neFz
+einen,ein.DET+Num:aeMz
+eines,ein.DET+Num:geMz:geNz
+einem,ein.DET+Num:deMz:deNz
+einiger,einig.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+einigen,einig.DET:aeMx:aeMy:dmUx:dmUy
+einigem,einig.DET:deMx:deMy:deNx:deNy
+einiges,einig.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+einige,einig.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+einiger,einige.DET:gmUx:gmUy
+einigen,einige.DET:dmUx:dmUy
+einige,.DET:amUx:amUy:nmUx:nmUy
+etlich,.DET+PREDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+etlicher,etliche.DET+PREDET:gmUx:gmUy
+etliche,.DET+PREDET:amUx:amUy:nmUx:nmUy
+etlichen,etliche.DET+PREDET:dmUx:dmUy
+etlicher,.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+etliche,etlicher.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+etliches,etlicher.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+etlichen,etlicher.DET:aeMx:aeMy:dmUx:dmUy
+etlichem,etlicher.DET:deMx:deMy:deNx:deNy
+etwas,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+eures,euer.DET:geMz:geNz
+eueren,euer.DET:aeMz:dmUz
+eurer,euer.DET:deFz:geFz:gmUz
+euerm,euer.DET:deMz:deNz
+euere,euer.DET:aeFz:amUz:neFz:nmUz
+euerer,euer.DET:deFz:geFz:gmUz
+eueres,euer.DET:geMz:geNz
+euern,euer.DET:aeMz:dmUz
+eure,euer.DET:aeFz:amUz:neFz:nmUz
+euerem,euer.DET:deMz:deNz
+eurem,euer.DET:deMz:deNz
+euer,.DET:aeNz:neMz:neNz
+euren,euer.DET:aeMz:dmUz
+euriger,eurige.DET:deFx:geFx:gmUx:neMx:neMz
+eurigen,eurige.DET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+euriges,eurige.DET:aeNx:aeNz:neNx:neNz
+eurigem,eurige.DET:deMx:deNx
+eurige,.DET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx:up
+höchstderselben,höchstderselbe.DET:deFy:geFy:gmUy
+höchstdemselben,höchstderselbe.DET:deMy:deNy
+höchstdieselben,höchstderselbe.DET:amUy:nmUy
+höchstderselbe,.DET:neMy
+höchstdenselben,höchstderselbe.DET:aeMy:dmUy
+höchstdesselben,höchstderselbe.DET:geMy:geNy
+höchstdasselbe,höchstderselbe.DET:aeNy:neNy
+höchstdieselbe,höchstderselbe.DET:aeFy:neFy
+ihr,.DET:aeNz:neMz:neNz
+ihren,ihr.DET:aeMz:dmUz
+ihrer,ihr.DET:deFz:geFz:gmUz
+ihrem,ihr.DET:deMz:deNz
+ihres,ihr.DET:geMz:geNz
+ihre,ihr.DET:aeFz:amUz:neFz:nmUz
+ihrigem,ihrige.DET:deMx:deNx
+ihriges,ihrige.DET:aeNx:aeNz:neNx:neNz
+ihrigen,ihrige.DET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+ihriger,ihrige.DET:deFx:geFx:gmUx:neMx:neMz
+ihrige,.DET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx:up
+irgendeiner,irgendein.DET:deFz:geFz
+irgendein,.DET:aeNz:neMz:neNz
+irgendeinem,irgendein.DET:deMz:deNz
+irgendeinen,irgendein.DET:aeMz
+irgendeine,irgendein.DET:aeFz:neFz
+irgendeines,irgendein.DET:geMz:geNz
+irgendwelcher,.DET:deFx:geFx:gmUx:neMx
+irgendwelchem,irgendwelcher.DET:deMx:deNx
+irgendwelche,irgendwelcher.DET:aeFx:amUx:neFx:nmUx
+irgendwelchen,irgendwelcher.DET:aeMx:dmUx
+irgendwelches,irgendwelcher.DET:aeNx:geMx:geNx:neNx
+irgendwelcher,.DET:deFy:geFy:gmUy:neMy
+irgendwelchem,irgendwelcher.DET:deMy:deNy
+irgendwelche,irgendwelcher.DET:aeFy:amUy:neFy:nmUy
+irgendwelchen,irgendwelcher.DET:aeMy:dmUy
+irgendwelches,irgendwelcher.DET:aeNy:geMy:geNy:neNy
+jederart,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+jeder,.DET:deFy:geFy:gmUy:neMy
+jedem,jeder.DET:deMy:deNy
+jedes,jeder.DET:aeNy:geMy:geNy:neNy
+jede,jeder.DET:aeFy:amUy:neFy:nmUy
+jeden,jeder.DET:aeMy:dmUy
+jeder,jed.DET:deFy:geFy:gmUy:neMy
+jedem,jed.DET:deMy:deNy
+jedes,jed.DET:aeNy:geMy:geNy:neNy
+jede,jed.DET:aeFy:amUy:neFy:nmUy
+jeden,jed.DET:aeMy:dmUy
+jederlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+jedwedes,jedweder.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+jedwede,jedweder.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+jedwedem,jedweder.DET:deMx:deMy:deNx:deNy
+jedweder,.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+jedweden,jedweder.DET:aeMx:aeMy:dmUx:dmUy
+jedwedes,jedwed.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+jedwede,jedwed.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+jedwedem,jedwed.DET:deMx:deMy:deNx:deNy
+jedweder,jedwed.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+jedweden,jedwed.DET:aeMx:aeMy:dmUx:dmUy
+jenes,jen.DET:aeNy:geMy:geNy:neNy
+jene,jen.DET:aeFy:amUy:neFy:nmUy
+jenen,jen.DET:aeMy:dmUy
+jenem,jen.DET:deMy:deNy
+jener,jen.DET:deFy:geFy:gmUy:neMy
+jenes,jener.DET:aeNy:geMy:geNy:neNy
+jene,jener.DET:aeFy:amUy:neFy:nmUy
+jenen,jener.DET:aeMy:dmUy
+jenem,jener.DET:deMy:deNy
+jener,.DET:deFy:geFy:gmUy:neMy
+kaum,.DET:X:amUx:dmUx:gmUx:nmUx
+keine,kein.DET:aeFz:amUz:neFz:nmUz
+keinem,kein.DET:deMz:deNz
+keinen,kein.DET:aeMz:dmUz
+keiner,kein.DET:deFz:geFz:gmUz
+keines,kein.DET:geMz:geNz
+kein,.DET:aeNz:neMz:neNz
+keinerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+lauter,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+
+manch,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+manches,mancher.DET:aeNx:geMx:geNx:neNx
+mancher,.DET:deFx:geFx:gmUx:neMx
+manche,mancher.DET:aeFx:amUx:neFx:nmUx
+manchem,mancher.DET:deMx:deNx
+manchen,mancher.DET:aeMx:dmUx
+manches,mancher.DET:aeNy:geMy:geNy:neNy
+mancher,.DET:deFy:geFy:gmUy:neMy
+manche,mancher.DET:aeFy:amUy:neFy:nmUy
+manchem,mancher.DET:deMy:deNy
+manchen,mancher.DET:aeMy:dmUy
+mancherlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+manches,manch.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+mancher,manch.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+manche,manch.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+manchem,manch.DET:deMx:deMy:deNx:deNy
+manchen,manch.DET:aeMx:aeMy:dmUx:dmUy
+mehr,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+mehreren,mehrere.DET:dmUx
+mehrere,.DET:amUx:nmUx
+mehrerer,mehrere.DET:gmUx
+mehrerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+mein,.DET:aeNz:neMz:neNz
+meiner,mein.DET:deFz:geFz:gmUz
+meinem,mein.DET:deMz:deNz
+meines,mein.DET:geMz:geNz
+meinen,mein.DET:aeMz:dmUz
+meine,mein.DET:aeFz:amUz:neFz:nmUz
+meiniger,meinige.DET:deFx:geFx:gmUx:neMx:neMz
+meinigen,meinige.DET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+meinigem,meinige.DET:deMx:deNx
+meiniges,meinige.DET:aeNx:aeNz:neNx:neNz
+meinige,.DET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx:up
+reichlich,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+sämtlichen,sämtlicher.DET:aeMy:dmUy
+sämtlicher,.DET:deFy:geFy:gmUy:neMy
+sämtlichem,sämtlicher.DET:deMy:deNy
+sämtliches,sämtlicher.DET:aeNy:geMy:geNy:neNy
+sämtliche,sämtlicher.DET:aeFy:amUy:neFy:nmUy
+sämtlichen,sämtlich.DET:aeMy:dmUy
+sämtlicher,sämtlich.DET:deFy:geFy:gmUy:neMy
+sämtlichem,sämtlich.DET:deMy:deNy
+sämtliches,sämtlich.DET:aeNy:geMy:geNy:neNy
+sämtliche,sämtlich.DET:aeFy:amUy:neFy:nmUy
+seiner,sein.DET:deFz:geFz:gmUz
+seinem,sein.DET:deMz:deNz
+seines,sein.DET:geMz:geNz
+seine,sein.DET:aeFz:amUz:neFz:nmUz
+sein,.DET:aeNz:neMz:neNz
+seinen,sein.DET:aeMz:dmUz
+seiniger,seinige.DET:deFx:geFx:gmUx:neMx:neMz
+seiniges,seinige.DET:aeNx:aeNz:neNx:neNz
+seinigen,seinige.DET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+seinige,.DET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx:up
+seinigem,seinige.DET:deMx:deNx
+
+solch,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+solches,solcher.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+solchen,solcher.DET:aeMx:aeMy:dmUx:dmUy
+solchem,solcher.DET:deMx:deMy:deNx:deNy
+solche,solcher.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+solcher,.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+solcherlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+solches,solch.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+solchen,solch.DET:aeMx:aeMy:dmUx:dmUy
+solchem,solch.DET:deMx:deMy:deNx:deNy
+solche,solch.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+solcher,solch.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+unsres,unser.DET:geMz:geNz
+unserer,unser.DET:deFz:geFz:gmUz
+unsere,unser.DET:aeFz:amUz:neFz:nmUz
+unserem,unser.DET:deMz:deNz
+unseres,unser.DET:geMz:geNz
+unsre,unser.DET:aeFz:amUz:neFz:nmUz
+unsrer,unser.DET:deFz:geFz:gmUz
+unsern,unser.DET:aeMz:dmUz
+unsren,unser.DET:aeMz:dmUz
+unseren,unser.DET:aeMz:dmUz
+unsrem,unser.DET:deMz:deNz
+unser,.DET:aeNz:neMz:neNz
+unserm,unser.DET:deMz:deNz
+
+unsrigem,unsrige.DET:deMx:deNx
+unsriges,unsrige.DET:aeNx:aeNz:neNx:neNz
+unsriger,unsrige.DET:deFx:geFx:gmUx:neMx:neMz
+unsrigen,unsrige.DET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+unsrige,.DET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx:up
+verschiedenerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+viel,.DET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+vielem,viel.DET:deMz:deNz
+vieles,viel.DET:geMz:geNz
+viele,viel.DET:aeFz:amUz:neFz:nmUz
+vieler,viel.DET:deFz:geFz:gmUz
+vielen,viel.DET:aeMz:dmUz
+vielerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+welch,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+welche,welcher.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+welchen,welcher.DET:aeMx:aeMy:dmUx:dmUy
+welches,welcher.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+welchem,welcher.DET:deMx:deMy:deNx:deNy
+welcher,.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+weniges,wenig.DET:geMz:geNz
+wenigem,wenig.DET:deMz:deNz
+weniger,wenig.DET:deFz:geFz:gmUz
+wenige,wenig.DET:aeFz:amUz:neFz:nmUz
+wenig,.DET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+wenigen,wenig.DET:aeMz:dmUz
+weniger,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+wieviel,.DET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+wievielem,wieviel.DET:deMz:deNz
+wievieler,wieviel.DET:deFz:geFz:gmUz
+wieviele,wieviel.DET:aeFz:amUz:neFz:nmUz
+wievieles,wieviel.DET:geMz:geNz
+wievielen,wieviel.DET:aeMz:dmUz
+wievielerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+kaum einer,kaum ein.DET+CDET:deFz:geFz
+kaum einen,kaum ein.DET+CDET:aeMz
+kaum eines,kaum ein.DET+CDET:geMz:geNz
+kaum einem,kaum ein.DET+CDET:deMz:deNz
+kaum ein,.DET+CDET:aeNz:neMz:neNz
+kaum eine,kaum ein.DET+CDET:aeFz:neFz
+manch ein,.DET+CDET:aeNz:neMz:neNz
+manch eines,manch ein.DET+CDET:geMz:geNz
+manch einen,manch ein.DET+CDET:aeMz
+manch eine,manch ein.DET+CDET:aeFz:neFz
+manch einem,manch ein.DET+CDET:deMz:deNz
+manch einer,manch ein.DET+CDET:deFz:geFz
+solch einem,solch ein.DET+CDET:deMz:deNz
+solch einen,solch ein.DET+CDET:aeMz
+solch eine,solch ein.DET+CDET:aeFz:neFz
+solch eines,solch ein.DET+CDET:geMz:geNz
+solch ein,.DET+CDET:aeNz:neMz:neNz
+solch einer,solch ein.DET+CDET:deFz:geFz
+welch eines,welch ein.DET+CDET:geMz:geNz
+welch einer,welch ein.DET+CDET:deFz:geFz
+welch einen,welch ein.DET+CDET:aeMz
+welch eine,welch ein.DET+CDET:aeFz:neFz
+welch ein,.DET+CDET:aeNz:neMz:neNz
+welch einem,welch ein.DET+CDET:deMz:deNz
+was für,.DET+CDET:X:amUx:dmUx:gmUx:nmUx
+was für einer,was für ein.DET+CDET:deFz:geFz
+was für ein,.DET+CDET:aeNz:neMz:neNz
+was für einen,was für ein.DET+CDET:aeMz
+was für eines,was für ein.DET+CDET:geMz:geNz
+was für einem,was für ein.DET+CDET:deMz:deNz
+was für eine,was für ein.DET+CDET:aeFz:neFz
+was für welcher,was für welche.DET+CDET:gmUy
+was für welche,.DET+CDET:amUy:nmUy
+was für welchen,was für welche.DET+CDET:dmUy
+achterlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+beiderlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+dererlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+dreierlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+einerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+elferlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+fünferlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+neunerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+sechserlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+siebenerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+viererlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+welcherlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zehnerlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zweierlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zwölferlei,.DET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+beider,beide.DET+Num:gmUx:gmUz
+beide,.DET+Num:amUx:amUz:nmUx:nmUz
+beiden,beide.DET+Num:dmUx:dmUz
+zweien,zweie.DET+Num:dmUx
+zweie,.DET+Num:amUx:nmUx
+zweier,zweie.DET+Num:gmUx
+zweien,zwei.DET+Num:dmUx
+zweie,zwei.DET+Num:amUx:nmUx
+zweier,zwei.DET+Num:gmUx
+dreier,dreie.DET+Num:gmUx
+dreie,.DET+Num:amUx:nmUx
+dreien,dreie.DET+Num:dmUx
+dreier,drei.DET+Num:gmUx
+dreie,drei.DET+Num:amUx:nmUx
+dreien,drei.DET+Num:dmUx
+viere,.DET+Num:amUx:nmUx
+virer,viere.DET+Num:gmUx
+vieren,viere.DET+Num:dmUx
+vierer,viere.DET+Num:gmUx
+vire,viere.DET+Num:amUx:nmUx
+viern,viere.DET+Num:dmUx
+viren,viere.DET+Num:dmUx
+viere,vier.DET+Num:amUx:nmUx
+virer,vier.DET+Num:gmUx
+vieren,vier.DET+Num:dmUx
+vierer,vier.DET+Num:gmUx
+vire,vier.DET+Num:amUx:nmUx
+viern,vier.DET+Num:dmUx
+viren,vier.DET+Num:dmUx
+fünfe,.DET+Num:amUx:nmUx
+fünfen,fünfe.DET+Num:dmUx
+fünfer,fünfe.DET+Num:gmUx
+fünfe,fünf.DET+Num:amUx:nmUx
+fünfen,fünf.DET+Num:dmUx
+fünfer,fünf.DET+Num:gmUx
+sechse,.DET+Num:amUx:nmUx
+sechser,sechse.DET+Num:gmUx
+sechsen,sechse.DET+Num:dmUx
+sechse,sechs.DET+Num:amUx:nmUx
+sechser,sechs.DET+Num:gmUx
+sechsen,sechs.DET+Num:dmUx
+siebenen,siebene.DET+Num:dmUx
+siebene,.DET+Num:amUx:nmUx
+siebener,siebene.DET+Num:gmUx
+siebenen,sieben.DET+Num:dmUx
+siebene,sieben.DET+Num:amUx:nmUx
+siebener,sieben.DET+Num:gmUx
+achte,.DET+Num:amUx:nmUx
+achten,achte.DET+Num:dmUx
+achter,achte.DET+Num:gmUx
+achte,acht.DET+Num:amUx:nmUx
+achten,acht.DET+Num:dmUx
+achter,acht.DET+Num:gmUx
+neune,.DET+Num:amUx:nmUx
+neuner,neune.DET+Num:gmUx
+neunen,neune.DET+Num:dmUx
+neune,neun.DET+Num:amUx:nmUx
+neuner,neun.DET+Num:gmUx
+neunen,neun.DET+Num:dmUx
+zehnen,zehne.DET+Num:dmUx
+zehne,.DET+Num:amUx:nmUx
+zehner,zehne.DET+Num:gmUx
+zehnen,zehn.DET+Num:dmUx
+zehne,zehn.DET+Num:amUx:nmUx
+zehner,zehn.DET+Num:gmUx
+elfe,.DET+Num:amUx:nmUx
+elfer,elfe.DET+Num:gmUx
+elfen,elfe.DET+Num:dmUx
+elfe,elf.DET+Num:amUx:nmUx
+elfer,elf.DET+Num:gmUx
+elfen,elf.DET+Num:dmUx
+zwölfen,zwölfe.DET+Num:dmUx
+zwölfe,.DET+Num:amUx:nmUx
+zwölfer,zwölfe.DET+Num:gmUx
+zwölfen,zwölf.DET+Num:dmUx
+zwölfe,zwölf.DET+Num:amUx:nmUx
+zwölfer,zwölf.DET+Num:gmUx
+einem halben,ein halber.DET+Num:deMz:deNz
+einen halben,ein halber.DET+Num:aeMz
+ein halber,.DET+Num:neMz
+einer halben,ein halber.DET+Num:deFz:geFz
+ein halbes,ein halber.DET+Num:aeNz:neNz
+eines halben,ein halber.DET+Num:geMz:geNz
+eine halbe,ein halber.DET+Num:aeFz:neFz
+einem halben,ein halber.DET+Num:deMz:deNz
+einen halben,ein halber.DET+Num:aeMz
+ein halber,.DET+Num:neMz
+einer halben,ein halber.DET+Num:deFz:geFz
+ein halbes,ein halber.DET+Num:aeNz:neNz
+eines halben,ein halber.DET+Num:geMz:geNz
+eine halbe,ein halber.DET+Num:aeFz:neFz
+alle beiden,.DET+CDET+Num:amUy:nmUy
+aller beiden,alle beiden.DET+CDET+Num:gmUy
+allen beiden,alle beiden.DET+CDET+Num:dmUy
+aller beider,alle beide.DET+CDET+Num:gmUx
+alle beide,.DET+CDET+Num:amUx:nmUx
+allen beiden,alle beide.DET+CDET+Num:dmUx
+deinen beiden,deine beiden.DET+CDET+Num:dmUz
+deiner beiden,deine beiden.DET+CDET+Num:gmUz
+deine beiden,.DET+CDET+Num:amUz:nmUz
+den beiden,die beiden.DET+CDET+Num:dmUy
+die beiden,.DET+CDET+Num:amUy:nmUy
+der beiden,die beiden.DET+CDET+Num:gmUy
+dieser beiden,diese beiden.DET+CDET+Num:gmUy
+diese beiden,.DET+CDET+Num:amUy:nmUy
+diesen beiden,diese beiden.DET+CDET+Num:dmUy
+eurer beiden,eure beiden.DET+CDET+Num:gmUz
+euren beiden,eure beiden.DET+CDET+Num:dmUz
+eure beiden,.DET+CDET+Num:amUz:nmUz
+ihren beiden,ihre beiden.DET+CDET+Num:dmUz
+ihre beiden,.DET+CDET+Num:amUz:nmUz
+ihrer beiden,ihre beiden.DET+CDET+Num:gmUz
+meinen beiden,meine beiden.DET+CDET+Num:dmUz
+meiner beiden,meine beiden.DET+CDET+Num:gmUz
+meine beiden,.DET+CDET+Num:amUz:nmUz
+seine beiden,.DET+CDET+Num:amUz:nmUz
+seinen beiden,seine beiden.DET+CDET+Num:dmUz
+seiner beiden,seine beiden.DET+CDET+Num:gmUz
+unsre beiden,unsere beiden.DET+CDET+Num:amUz:nmUz
+unseren beiden,unsere beiden.DET+CDET+Num:dmUz
+unserer beiden,unsere beiden.DET+CDET+Num:gmUz
+unsern beiden,unsere beiden.DET+CDET+Num:dmUz
+unsren beiden,unsere beiden.DET+CDET+Num:dmUz
+unsrer beiden,unsere beiden.DET+CDET+Num:gmUz
+unsere beiden,.DET+CDET+Num:amUz:nmUz
+am meisten,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+am wenigsten,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+den wenigsten,die wenigsten.DET+CDET:dmUy
+die wenigsten,.DET+CDET:amUy:nmUy
+der wenigsten,die wenigsten.DET+CDET:gmUy
+der meisten,die meisten.DET+CDET:gmUy
+den meisten,die meisten.DET+CDET:dmUy
+die meisten,.DET+CDET:amUy:nmUy
+den wenigsten,die wenigsten.DET+CDET:dmUy
+die wenigsten,.DET+CDET:amUy:nmUy
+der wenigsten,die wenigsten.DET+CDET:gmUy
+der weitaus meisten,die weitaus meisten.DET+CDET:gmUy
+die weitaus meisten,.DET+CDET:amUy:nmUy
+den weitaus meisten,die weitaus meisten.DET+CDET:dmUy
+der allerwenigsten,die allerwenigsten.DET+CDET:gmUy
+die allerwenigsten,.DET+CDET:amUy:nmUy
+den allerwenigsten,die allerwenigsten.DET+CDET:dmUy
+den allermeisten,die allermeisten.DET+CDET:dmUy
+der allermeisten,die allermeisten.DET+CDET:gmUy
+die allermeisten,.DET+CDET:amUy:nmUy
+ein wenig,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+ein paar,.DET+CDET:X:amUx:dmUx:gmUx:nmUx
+die paar,.DET+CDET:amUy:nmUy
+den paar,die paar.DET+CDET:dmUy
+der paar,die paar.DET+CDET:gmUy
+etwas zuwenig,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zu wenig,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+etwas zu wenig,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zuwenigen,zuwenige.DET+CDET:dmUx
+zuwenige,.DET+CDET:amUx:nmUx
+zuweniger,zuwenige.DET+CDET:gmUx
+zu wenige,.DET+CDET:amUx:nmUx
+zu weniger,zu wenige.DET+CDET:gmUx
+zu wenigen,zu wenige.DET+CDET:dmUx
+etwas zuviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zu viel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zu viele,.DET+CDET:amUx:nmUx
+zu vielen,zu viele.DET+CDET:dmUx
+zu vieler,zu viele.DET+CDET:gmUx
+etwas zu viel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+zuvielen,zuviele.DET+CDET:dmUx
+zuvieler,zuviele.DET+CDET:gmUx
+zuviele,.DET+CDET:amUx:nmUx
+so einen,so ein.DET+CDET:aeMz:dmUz
+so einem,so ein.DET+CDET:deMz:deNz
+so eine,so ein.DET+CDET:aeFz:amUz:neFz:nmUz
+so eines,so ein.DET+CDET:geMz:geNz
+so ein,.DET+CDET:aeNz:neMz:neNz
+so einer,so ein.DET+CDET:deFz:geFz:gmUz
+einige wenige,.DET+CDET:amUx:nmUx
+einigen wenigen,einige wenige.DET+CDET:dmUx
+einiger weniger,einige wenige.DET+CDET:gmUx
+einiger andrer,einige andere.DET+CDET:gmUx
+einigen andern,einige andere.DET+CDET:dmUx
+einigen anderen,einige andere.DET+CDET:dmUx
+einige andere,.DET+CDET:amUx:nmUx
+einige andre,einige andere.DET+CDET:amUx:nmUx
+einiger anderer,einige andere.DET+CDET:gmUx
+einigen andren,einige andere.DET+CDET:dmUx
+zuviele solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+zuvielen solchen,zuviele solche.DET+CDET:dmUx:dmUy
+zuvieler solcher,zuviele solche.DET+CDET:gmUx:gmUy
+zuviele andere,.DET+CDET:amUx:amUy:nmUx:nmUy
+zuvielen anderen,zuviele andere.DET+CDET:dmUx:dmUy
+zuvieler anderer,zuviele andere.DET+CDET:gmUx:gmUy
+zuvieler andrer,zuviele andere.DET+CDET:gmUx:gmUy
+zuvielen andern,zuviele andere.DET+CDET:dmUx:dmUy
+zuviele andre,zuviele andere.DET+CDET:amUx:amUy:nmUx:nmUy
+zuvielen andren,zuviele andere.DET+CDET:dmUx:dmUy
+zuvieler derartiger,zuviele derartige.DET+CDET:gmUx:gmUy
+zuvielen derartigen,zuviele derartige.DET+CDET:dmUx:dmUy
+zuviele derartige,.DET+CDET:amUx:amUy:nmUx:nmUy
+vielen derartigen,viele derartige.DET+CDET:dmUx:dmUy
+vieler derartiger,viele derartige.DET+CDET:gmUx:gmUy
+viele derartige,.DET+CDET:amUx:amUy:nmUx:nmUy
+mehr derartige,.DET+CDET:amUx:amUy:nmUx:nmUy
+mehr derartigen,mehr derartige.DET+CDET:dmUx:dmUy
+mehr derartiger,mehr derartige.DET+CDET:gmUx:gmUy
+mehreren derartigen,mehrere derartige.DET+CDET:dmUx:dmUy
+mehrerer derartiger,mehrere derartige.DET+CDET:gmUx:gmUy
+mehrere derartige,.DET+CDET:amUx:amUy:nmUx:nmUy
+mehreren solchen,mehrere solche.DET+CDET:dmUx:dmUy
+mehrerer solcher,mehrere solche.DET+CDET:gmUx:gmUy
+mehrere solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+vieler anderer,viele andere.DET+CDET:gmUx:gmUy
+vielen andren,viele andere.DET+CDET:dmUx:dmUy
+viele andre,viele andere.DET+CDET:amUx:amUy:nmUx:nmUy
+vielen andern,viele andere.DET+CDET:dmUx:dmUy
+vieler andrer,viele andere.DET+CDET:gmUx:gmUy
+viele andere,.DET+CDET:amUx:amUy:nmUx:nmUy
+vielen anderen,viele andere.DET+CDET:dmUx:dmUy
+etliche solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+etlicher solcher,etliche solche.DET+CDET:gmUx:gmUy
+etlichen solchen,etliche solche.DET+CDET:dmUx:dmUy
+etlicher andrer,etliche andere.DET+CDET:gmUx:gmUy
+etliche andere,.DET+CDET:amUx:amUy:nmUx:nmUy
+etlicher anderer,etliche andere.DET+CDET:gmUx:gmUy
+etlichen andren,etliche andere.DET+CDET:dmUx:dmUy
+etlichen andern,etliche andere.DET+CDET:dmUx:dmUy
+etlichen anderen,etliche andere.DET+CDET:dmUx:dmUy
+etliche andre,etliche andere.DET+CDET:amUx:amUy:nmUx:nmUy
+aller solcher,alle solche.DET+CDET:gmUx:gmUy
+alle solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+allen solchen,alle solche.DET+CDET:dmUx:dmUy
+vieler solcher,viele solche.DET+CDET:gmUx:gmUy
+vielen solchen,viele solche.DET+CDET:dmUx:dmUy
+viele solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+wievieler solcher,wieviele solche.DET+CDET:gmUx:gmUy
+wieviele solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+wievielen solchen,wieviele solche.DET+CDET:dmUx:dmUy
+wenigen solchen,wenige solche.DET+CDET:dmUx:dmUy
+weniger solcher,wenige solche.DET+CDET:gmUx:gmUy
+wenige solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+mehr solchen,mehr solch.DET+CDET:dmUx:dmUy
+mehr solcher,mehr solch.DET+CDET:gmUx:gmUy
+mehr solche,mehr solch.DET+CDET:amUx:amUy:nmUx:nmUy
+viel solchen,viel solch.DET+CDET:dmUx:dmUy
+viel solche,viel solch.DET+CDET:amUx:amUy:nmUx:nmUy
+viel solcher,viel solch.DET+CDET:gmUx:gmUy
+lauter solcher,lauter solch.DET+CDET:gmUx:gmUy
+lauter solchen,lauter solch.DET+CDET:dmUx:dmUy
+lauter solche,lauter solch.DET+CDET:amUx:amUy:nmUx:nmUy
+wenig solchen,wenig solch.DET+CDET:dmUx:dmUy
+wenig solche,wenig solch.DET+CDET:amUx:amUy:nmUx:nmUy
+wenig solcher,wenig solch.DET+CDET:gmUx:gmUy
+gar solche,gar solch.DET+CDET:amUx:amUy:nmUx:nmUy
+gar solchen,gar solch.DET+CDET:dmUx:dmUy
+gar solcher,gar solch.DET+CDET:gmUx:gmUy
+ein paar derartigen,ein paar derartige.DET+CDET:dmUx
+ein paar derartiger,ein paar derartige.DET+CDET:gmUx
+ein paar derartige,.DET+CDET:amUx:nmUx
+ein paar solcher,ein paar solche.DET+CDET:gmUx:gmUy
+ein paar solchen,ein paar solche.DET+CDET:dmUx:dmUy
+ein paar solche,.DET+CDET:amUx:amUy:nmUx:nmUy
+ein paar anderer,ein paar andere.DET+CDET:gmUx
+ein paar andren,ein paar andere.DET+CDET:dmUx
+ein paar andre,ein paar andere.DET+CDET:amUx:nmUx
+ein paar andern,ein paar andere.DET+CDET:dmUx
+ein paar andere,.DET+CDET:amUx:nmUx
+ein paar anderen,ein paar andere.DET+CDET:dmUx
+ein paar andrer,ein paar andere.DET+CDET:gmUx
+ausgesprochen vielen,ausgesprochen viel.DET+CDET:aeMz:dmUz
+ausgesprochen viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ausgesprochen viele,ausgesprochen viel.DET+CDET:aeFz:amUz:neFz:nmUz
+ausgesprochen vieles,ausgesprochen viel.DET+CDET:geMz:geNz
+ausgesprochen vieler,ausgesprochen viel.DET+CDET:deFz:geFz:gmUz
+ausgesprochen vielem,ausgesprochen viel.DET+CDET:deMz:deNz
+ausgesprochen wenigem,ausgesprochen wenig.DET+CDET:deMz:deNz
+ausgesprochen weniger,ausgesprochen wenig.DET+CDET:deFz:geFz:gmUz
+ausgesprochen wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ausgesprochen wenigen,ausgesprochen wenig.DET+CDET:aeMz:dmUz
+ausgesprochen wenige,ausgesprochen wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+ausgesprochen weniges,ausgesprochen wenig.DET+CDET:geMz:geNz
+außergewöhnlich viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+außergewöhnlich vielen,außergewöhnlich viel.DET+CDET:aeMz:dmUz
+außergewöhnlich vieles,außergewöhnlich viel.DET+CDET:geMz:geNz
+außergewöhnlich vielem,außergewöhnlich viel.DET+CDET:deMz:deNz
+außergewöhnlich vieler,außergewöhnlich viel.DET+CDET:deFz:geFz:gmUz
+außergewöhnlich viele,außergewöhnlich viel.DET+CDET:aeFz:amUz:neFz:nmUz
+außergewöhnlich wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+außergewöhnlich wenigem,außergewöhnlich wenig.DET+CDET:deMz:deNz
+außergewöhnlich weniger,außergewöhnlich wenig.DET+CDET:deFz:geFz:gmUz
+außergewöhnlich wenige,außergewöhnlich wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+außergewöhnlich weniges,außergewöhnlich wenig.DET+CDET:geMz:geNz
+außergewöhnlich wenigen,außergewöhnlich wenig.DET+CDET:aeMz:dmUz
+außerordentlich vieler,außerordentlich viel.DET+CDET:deFz:geFz:gmUz
+außerordentlich viele,außerordentlich viel.DET+CDET:aeFz:amUz:neFz:nmUz
+außerordentlich viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+außerordentlich vielem,außerordentlich viel.DET+CDET:deMz:deNz
+außerordentlich vieles,außerordentlich viel.DET+CDET:geMz:geNz
+außerordentlich vielen,außerordentlich viel.DET+CDET:aeMz:dmUz
+außerordentlich wenigem,außerordentlich wenig.DET+CDET:deMz:deNz
+außerordentlich weniger,außerordentlich wenig.DET+CDET:deFz:geFz:gmUz
+außerordentlich wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+außerordentlich weniges,außerordentlich wenig.DET+CDET:geMz:geNz
+außerordentlich wenigen,außerordentlich wenig.DET+CDET:aeMz:dmUz
+außerordentlich wenige,außerordentlich wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+besonders vieles,besonders viel.DET+CDET:geMz:geNz
+besonders vielem,besonders viel.DET+CDET:deMz:deNz
+besonders viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+besonders vieler,besonders viel.DET+CDET:deFz:geFz:gmUz
+besonders vielen,besonders viel.DET+CDET:aeMz:dmUz
+besonders viele,besonders viel.DET+CDET:aeFz:amUz:neFz:nmUz
+besonders wenige,besonders wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+besonders wenigen,besonders wenig.DET+CDET:aeMz:dmUz
+besonders wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+besonders weniges,besonders wenig.DET+CDET:geMz:geNz
+besonders weniger,besonders wenig.DET+CDET:deFz:geFz:gmUz
+besonders wenigem,besonders wenig.DET+CDET:deMz:deNz
+einigermaßen vielen,einigermaßen viel.DET+CDET:aeMz:dmUz
+einigermaßen vieles,einigermaßen viel.DET+CDET:geMz:geNz
+einigermaßen vielem,einigermaßen viel.DET+CDET:deMz:deNz
+einigermaßen viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+einigermaßen viele,einigermaßen viel.DET+CDET:aeFz:amUz:neFz:nmUz
+einigermaßen vieler,einigermaßen viel.DET+CDET:deFz:geFz:gmUz
+einigermaßen wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+einigermaßen weniger,einigermaßen wenig.DET+CDET:deFz:geFz:gmUz
+einigermaßen wenigen,einigermaßen wenig.DET+CDET:aeMz:dmUz
+einigermaßen wenige,einigermaßen wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+einigermaßen weniges,einigermaßen wenig.DET+CDET:geMz:geNz
+einigermaßen wenigem,einigermaßen wenig.DET+CDET:deMz:deNz
+enorm vielen,enorm viel.DET+CDET:aeMz:dmUz
+enorm viele,enorm viel.DET+CDET:aeFz:amUz:neFz:nmUz
+enorm vielem,enorm viel.DET+CDET:deMz:deNz
+enorm vieles,enorm viel.DET+CDET:geMz:geNz
+enorm viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+enorm vieler,enorm viel.DET+CDET:deFz:geFz:gmUz
+enorm wenige,enorm wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+enorm wenigem,enorm wenig.DET+CDET:deMz:deNz
+enorm wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+enorm weniges,enorm wenig.DET+CDET:geMz:geNz
+enorm wenigen,enorm wenig.DET+CDET:aeMz:dmUz
+enorm weniger,enorm wenig.DET+CDET:deFz:geFz:gmUz
+extra viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+extra vielen,extra viel.DET+CDET:aeMz:dmUz
+extra vieler,extra viel.DET+CDET:deFz:geFz:gmUz
+extra vieles,extra viel.DET+CDET:geMz:geNz
+extra vielem,extra viel.DET+CDET:deMz:deNz
+extra viele,extra viel.DET+CDET:aeFz:amUz:neFz:nmUz
+extra weniges,extra wenig.DET+CDET:geMz:geNz
+extra weniger,extra wenig.DET+CDET:deFz:geFz:gmUz
+extra wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+extra wenigen,extra wenig.DET+CDET:aeMz:dmUz
+extra wenige,extra wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+extra wenigem,extra wenig.DET+CDET:deMz:deNz
+extrem viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+extrem viele,extrem viel.DET+CDET:aeFz:amUz:neFz:nmUz
+extrem vielem,extrem viel.DET+CDET:deMz:deNz
+extrem vieler,extrem viel.DET+CDET:deFz:geFz:gmUz
+extrem vieles,extrem viel.DET+CDET:geMz:geNz
+extrem vielen,extrem viel.DET+CDET:aeMz:dmUz
+extrem wenigen,extrem wenig.DET+CDET:aeMz:dmUz
+extrem weniges,extrem wenig.DET+CDET:geMz:geNz
+extrem wenige,extrem wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+extrem weniger,extrem wenig.DET+CDET:deFz:geFz:gmUz
+extrem wenigem,extrem wenig.DET+CDET:deMz:deNz
+extrem wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ganz vielen,ganz viel.DET+CDET:aeMz:dmUz
+ganz vieler,ganz viel.DET+CDET:deFz:geFz:gmUz
+ganz vielem,ganz viel.DET+CDET:deMz:deNz
+ganz viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ganz viele,ganz viel.DET+CDET:aeFz:amUz:neFz:nmUz
+ganz vieles,ganz viel.DET+CDET:geMz:geNz
+ganz wenigem,ganz wenig.DET+CDET:deMz:deNz
+ganz wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ganz wenige,ganz wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+ganz weniger,ganz wenig.DET+CDET:deFz:geFz:gmUz
+ganz weniges,ganz wenig.DET+CDET:geMz:geNz
+ganz wenigen,ganz wenig.DET+CDET:aeMz:dmUz
+gar vieler,gar viel.DET+CDET:deFz:geFz:gmUz
+gar vielen,gar viel.DET+CDET:aeMz:dmUz
+gar vieles,gar viel.DET+CDET:geMz:geNz
+gar vielem,gar viel.DET+CDET:deMz:deNz
+gar viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+gar viele,gar viel.DET+CDET:aeFz:amUz:neFz:nmUz
+gar wenigen,gar wenig.DET+CDET:aeMz:dmUz
+gar wenige,gar wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+gar wenigem,gar wenig.DET+CDET:deMz:deNz
+gar weniges,gar wenig.DET+CDET:geMz:geNz
+gar wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+gar weniger,gar wenig.DET+CDET:deFz:geFz:gmUz
+recht viele,recht viel.DET+CDET:aeFz:amUz:neFz:nmUz
+recht vielem,recht viel.DET+CDET:deMz:deNz
+recht vielen,recht viel.DET+CDET:aeMz:dmUz
+recht viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+recht vieles,recht viel.DET+CDET:geMz:geNz
+recht vieler,recht viel.DET+CDET:deFz:geFz:gmUz
+recht wenige,recht wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+recht wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+recht wenigem,recht wenig.DET+CDET:deMz:deNz
+recht weniges,recht wenig.DET+CDET:geMz:geNz
+recht wenigen,recht wenig.DET+CDET:aeMz:dmUz
+recht weniger,recht wenig.DET+CDET:deFz:geFz:gmUz
+so vieler,so viel.DET+CDET:deFz:geFz:gmUz
+so vieles,so viel.DET+CDET:geMz:geNz
+so vielen,so viel.DET+CDET:aeMz:dmUz
+so vielem,so viel.DET+CDET:deMz:deNz
+so viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+so viele,so viel.DET+CDET:aeFz:amUz:neFz:nmUz
+so wenigem,so wenig.DET+CDET:deMz:deNz
+so wenige,so wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+so wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+so weniges,so wenig.DET+CDET:geMz:geNz
+so weniger,so wenig.DET+CDET:deFz:geFz:gmUz
+so wenigen,so wenig.DET+CDET:aeMz:dmUz
+total vielen,total viel.DET+CDET:aeMz:dmUz
+total vieler,total viel.DET+CDET:deFz:geFz:gmUz
+total viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+total vieles,total viel.DET+CDET:geMz:geNz
+total vielem,total viel.DET+CDET:deMz:deNz
+total viele,total viel.DET+CDET:aeFz:amUz:neFz:nmUz
+total weniges,total wenig.DET+CDET:geMz:geNz
+total weniger,total wenig.DET+CDET:deFz:geFz:gmUz
+total wenigem,total wenig.DET+CDET:deMz:deNz
+total wenige,total wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+total wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+total wenigen,total wenig.DET+CDET:aeMz:dmUz
+ungemein viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ungemein vielem,ungemein viel.DET+CDET:deMz:deNz
+ungemein vieles,ungemein viel.DET+CDET:geMz:geNz
+ungemein vieler,ungemein viel.DET+CDET:deFz:geFz:gmUz
+ungemein vielen,ungemein viel.DET+CDET:aeMz:dmUz
+ungemein viele,ungemein viel.DET+CDET:aeFz:amUz:neFz:nmUz
+ungemein wenige,ungemein wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+ungemein wenigem,ungemein wenig.DET+CDET:deMz:deNz
+ungemein wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ungemein wenigen,ungemein wenig.DET+CDET:aeMz:dmUz
+ungemein weniger,ungemein wenig.DET+CDET:deFz:geFz:gmUz
+ungemein weniges,ungemein wenig.DET+CDET:geMz:geNz
+ungewöhnlich vielem,ungewöhnlich viel.DET+CDET:deMz:deNz
+ungewöhnlich vieler,ungewöhnlich viel.DET+CDET:deFz:geFz:gmUz
+ungewöhnlich viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ungewöhnlich vielen,ungewöhnlich viel.DET+CDET:aeMz:dmUz
+ungewöhnlich viele,ungewöhnlich viel.DET+CDET:aeFz:amUz:neFz:nmUz
+ungewöhnlich vieles,ungewöhnlich viel.DET+CDET:geMz:geNz
+ungewöhnlich weniges,ungewöhnlich wenig.DET+CDET:geMz:geNz
+ungewöhnlich wenige,ungewöhnlich wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+ungewöhnlich wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ungewöhnlich weniger,ungewöhnlich wenig.DET+CDET:deFz:geFz:gmUz
+ungewöhnlich wenigem,ungewöhnlich wenig.DET+CDET:deMz:deNz
+ungewöhnlich wenigen,ungewöhnlich wenig.DET+CDET:aeMz:dmUz
+ziemlich viel,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+ziemlich vieles,ziemlich viel.DET+CDET:geMz:geNz
+ziemlich vieler,ziemlich viel.DET+CDET:deFz:geFz:gmUz
+ziemlich viele,ziemlich viel.DET+CDET:aeFz:amUz:neFz:nmUz
+ziemlich vielen,ziemlich viel.DET+CDET:aeMz:dmUz
+ziemlich vielem,ziemlich viel.DET+CDET:deMz:deNz
+ziemlich wenigem,ziemlich wenig.DET+CDET:deMz:deNz
+ziemlich weniges,ziemlich wenig.DET+CDET:geMz:geNz
+ziemlich wenige,ziemlich wenig.DET+CDET:aeFz:amUz:neFz:nmUz
+ziemlich weniger,ziemlich wenig.DET+CDET:deFz:geFz:gmUz
+ziemlich wenigen,ziemlich wenig.DET+CDET:aeMz:dmUz
+ziemlich wenig,.DET+CDET:X:aeFx:aeMx:aeNx:aeNz:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neMz:neNx:neNz:nmUx
+so manch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+so manchen,so mancher.DET+CDET:aeMx:dmUx
+so manche,so mancher.DET+CDET:aeFx:amUx:neFx:nmUx
+so manches,so mancher.DET+CDET:aeNx:geMx:geNx:neNx
+so mancher,.DET+CDET:deFx:geFx:gmUx:neMx
+so manchem,so mancher.DET+CDET:deMx:deNx
+so manchen,so mancher.DET+CDET:aeMy:dmUy
+so manche,so mancher.DET+CDET:aeFy:amUy:neFy:nmUy
+so manches,so mancher.DET+CDET:aeNy:geMy:geNy:neNy
+so mancher,.DET+CDET:deFy:geFy:gmUy:neMy
+so manchem,so mancher.DET+CDET:deMy:deNy
+so mancherlei,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+so manchen,so manch.DET+CDET:aeMx:aeMy:dmUx:dmUy
+so manche,so manch.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+so manches,so manch.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+so mancher,so manch.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+so manchem,so manch.DET+CDET:deMx:deMy:deNx:deNy
+gar manch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+gar mancher,.DET+CDET:deFx:geFx:gmUx:neMx
+gar manchem,gar mancher.DET+CDET:deMx:deNx
+gar manche,gar mancher.DET+CDET:aeFx:amUx:neFx:nmUx
+gar manchen,gar mancher.DET+CDET:aeMx:dmUx
+gar manches,gar mancher.DET+CDET:aeNx:geMx:geNx:neNx
+gar mancher,.DET+CDET:deFy:geFy:gmUy:neMy
+gar manchem,gar mancher.DET+CDET:deMy:deNy
+gar manche,gar mancher.DET+CDET:aeFy:amUy:neFy:nmUy
+gar manchen,gar mancher.DET+CDET:aeMy:dmUy
+gar manches,gar mancher.DET+CDET:aeNy:geMy:geNy:neNy
+gar mancherlei,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+gar mancher,gar manch.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+gar manchem,gar manch.DET+CDET:deMx:deMy:deNx:deNy
+gar manche,gar manch.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+gar manchen,gar manch.DET+CDET:aeMx:aeMy:dmUx:dmUy
+gar manches,gar manch.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+allen,aller.DET:aeMx:aeMy:dmUx:dmUy
+allem,aller.DET:deMx:deMy:deNx:deNy
+alles,aller.DET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+alle,aller.DET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+aller,.DET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+gar aller,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+gar allem,gar aller.DET+CDET:deMx:deMy:deNx:deNy
+gar allen,gar aller.DET+CDET:aeMx:aeMy:dmUx:dmUy
+gar alle,gar aller.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+gar alles,gar aller.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+gar aller,gar alle.DET+CDET:gmUx:gmUy
+gar allen,gar alle.DET+CDET:dmUx:dmUy
+gar alle,.DET+CDET:amUx:amUy:nmUx:nmUy
+ziemlich alle,ziemlich aller.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+ziemlich allen,ziemlich aller.DET+CDET:aeMx:aeMy:dmUx:dmUy
+ziemlich aller,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+ziemlich allem,ziemlich aller.DET+CDET:deMx:deMy:deNx:deNy
+ziemlich alles,ziemlich aller.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+ziemlich alle,.DET+CDET:amUx:amUy:nmUx:nmUy
+ziemlich allen,ziemlich alle.DET+CDET:dmUx:dmUy
+ziemlich aller,ziemlich alle.DET+CDET:gmUx:gmUy
+so ziemlich alle,so ziemlich aller.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+so ziemlich allen,so ziemlich aller.DET+CDET:aeMx:aeMy:dmUx:dmUy
+so ziemlich alles,so ziemlich aller.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+so ziemlich allem,so ziemlich aller.DET+CDET:deMx:deMy:deNx:deNy
+so ziemlich aller,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+so ziemlich alle,.DET+CDET:amUx:amUy:nmUx:nmUy
+so ziemlich allen,so ziemlich alle.DET+CDET:dmUx:dmUy
+so ziemlich aller,so ziemlich alle.DET+CDET:gmUx:gmUy
+fast aller,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+fast allem,fast aller.DET+CDET:deMx:deMy:deNx:deNy
+fast alle,fast aller.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+fast alles,fast aller.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+fast allen,fast aller.DET+CDET:aeMx:aeMy:dmUx:dmUy
+fast aller,fast alle.DET+CDET:gmUx:gmUy
+fast alle,.DET+CDET:amUx:amUy:nmUx:nmUy
+fast allen,fast alle.DET+CDET:dmUx:dmUy
+einigermaßen allen,einigermaßen alle.DET+CDET:dmUx:dmUy
+einigermaßen aller,einigermaßen alle.DET+CDET:gmUx:gmUy
+einigermaßen alle,.DET+CDET:amUx:amUy:nmUx:nmUy
+komplett alle,.DET+CDET:amUx:amUy:nmUx:nmUy
+komplett aller,komplett alle.DET+CDET:gmUx:gmUy
+komplett allen,komplett alle.DET+CDET:dmUx:dmUy
+annähernd allem,annähernd aller.DET+CDET:deMx:deMy:deNx:deNy
+annähernd aller,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+annähernd allen,annähernd aller.DET+CDET:aeMx:aeMy:dmUx:dmUy
+annähernd alles,annähernd aller.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+annähernd alle,annähernd aller.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+annähernd aller,annähernd alle.DET+CDET:gmUx:gmUy
+annähernd allen,annähernd alle.DET+CDET:dmUx:dmUy
+annähernd alle,.DET+CDET:amUx:amUy:nmUx:nmUy
+sonst einem,sonst ein.DET+CDET:deMz:deNz
+sonst ein,.DET+CDET:aeNz:neMz:neNz
+sonst einen,sonst ein.DET+CDET:aeMz
+sonst eine,sonst ein.DET+CDET:aeFz:neFz
+sonst eines,sonst ein.DET+CDET:geMz:geNz
+sonst einer,sonst ein.DET+CDET:deFz:geFz
+sonst kein,.DET+CDET:aeNz:neMz:neNz
+sonst keine,sonst kein.DET+CDET:aeFz:amUz:neFz:nmUz
+sonst keinem,sonst kein.DET+CDET:deMz:deNz
+sonst keines,sonst kein.DET+CDET:geMz:geNz
+sonst keinen,sonst kein.DET+CDET:aeMz:dmUz
+sonst keiner,sonst kein.DET+CDET:deFz:geFz:gmUz
+sonst keinerlei,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+gar keines,gar kein.DET+CDET+CDET:geMz:geNz
+gar keine,gar kein.DET+CDET+CDET:aeFz:amUz:neFz:nmUz
+gar keinen,gar kein.DET+CDET+CDET:aeMz:dmUz
+gar kein,.DET+CDET+CDET:aeNz:neMz:neNz
+gar keiner,gar kein.DET+CDET+CDET:deFz:geFz:gmUz
+gar keinem,gar kein.DET+CDET+CDET:deMz:deNz
+überhaupt keines,überhaupt kein.DET+CDET+CDET:geMz:geNz
+überhaupt keiner,überhaupt kein.DET+CDET+CDET:deFz:geFz:gmUz
+überhaupt keine,überhaupt kein.DET+CDET+CDET:aeFz:amUz:neFz:nmUz
+überhaupt keinen,überhaupt kein.DET+CDET+CDET:aeMz:dmUz
+überhaupt keinem,überhaupt kein.DET+CDET+CDET:deMz:deNz
+überhaupt kein,.DET+CDET+CDET:aeNz:neMz:neNz
+überhaupt einem,überhaupt ein.DET+CDET:deMz:deNz
+überhaupt eine,überhaupt ein.DET+CDET:aeFz:neFz
+überhaupt eines,überhaupt ein.DET+CDET:geMz:geNz
+überhaupt ein,.DET+CDET:aeNz:neMz:neNz
+überhaupt einen,überhaupt ein.DET+CDET:aeMz
+überhaupt einer,überhaupt ein.DET+CDET:deFz:geFz
+absolut keines,absolut kein.DET+CDET+CDET:geMz:geNz
+absolut kein,.DET+CDET+CDET:aeNz:neMz:neNz
+absolut keiner,absolut kein.DET+CDET+CDET:deFz:geFz:gmUz
+absolut keinen,absolut kein.DET+CDET+CDET:aeMz:dmUz
+absolut keinem,absolut kein.DET+CDET+CDET:deMz:deNz
+absolut keine,absolut kein.DET+CDET+CDET:aeFz:amUz:neFz:nmUz
+dem sein,.DET+CDET:aeNz:neMz:neNz
+dem seinen,dem sein.DET+CDET:aeMz:dmUz
+dem seines,dem sein.DET+CDET:geMz:geNz
+dem seine,dem sein.DET+CDET:aeFz:amUz:neFz:nmUz
+dem seiner,dem sein.DET+CDET:deFz:geFz:gmUz
+dem seinem,dem sein.DET+CDET:deMz:deNz
+der ihrem,der ihr.DET+CDET:deMz:deNz
+der ihres,der ihr.DET+CDET:geMz:geNz
+der ihrer,der ihr.DET+CDET:deFz:geFz:gmUz
+der ihren,der ihr.DET+CDET:aeMz:dmUz
+der ihr,.DET+CDET:aeNz:neMz:neNz
+der ihre,der ihr.DET+CDET:aeFz:amUz:neFz:nmUz
+der andre,der andere.DET+CDET:neMy
+des andern,der andere.DET+CDET:geMy:geNy
+das andere,der andere.DET+CDET:aeNy:neNy
+die andern,der andere.DET+CDET:amUy:nmUy
+die andere,der andere.DET+CDET:aeFy:neFy
+der anderen,der andere.DET+CDET:deFy:geFy:gmUy
+den andren,der andere.DET+CDET:aeMy:dmUy
+des andren,der andere.DET+CDET:geMy:geNy
+dem andren,der andere.DET+CDET:deMy:deNy
+dem anderen,der andere.DET+CDET:deMy:deNy
+der andere,.DET+CDET:neMy
+der andern,der andere.DET+CDET:deFy:geFy:gmUy
+der andren,der andere.DET+CDET:deFy:geFy:gmUy
+die anderen,der andere.DET+CDET:amUy:nmUy
+den andern,der andere.DET+CDET:aeMy:dmUy
+die andre,der andere.DET+CDET:aeFy:neFy
+die andren,der andere.DET+CDET:amUy:nmUy
+des anderen,der andere.DET+CDET:geMy:geNy
+dem andern,der andere.DET+CDET:deMy:deNy
+den anderen,der andere.DET+CDET:aeMy:dmUy
+das andre,der andere.DET+CDET:aeNy:neNy
+die eine,der eine.DET+CDET:aeFy:neFy
+das eine,der eine.DET+CDET:aeNy:neNy
+dem einen,der eine.DET+CDET:deMy:deNy
+die einen,der eine.DET+CDET:amUy:nmUy
+des einen,der eine.DET+CDET:geMy:geNy
+den einen,der eine.DET+CDET:aeMy:dmUy
+der eine,.DET+CDET:neMy
+der einen,der eine.DET+CDET:deFy:geFy:gmUy
+diese einen,dieser eine.DET+CDET:amUy:nmUy
+dieser einen,dieser eine.DET+CDET:deFy:geFy:gmUy
+dieses eine,dieser eine.DET+CDET:aeNy:neNy
+dieser eine,.DET+CDET:neMy
+diesem einen,dieser eine.DET+CDET:deMy:deNy
+diesen einen,dieser eine.DET+CDET:aeMy:dmUy
+dies eine,dieser eine.DET+CDET:aeNy:neNy
+diese eine,dieser eine.DET+CDET:aeFy:neFy
+dieses einen,dieser eine.DET+CDET:geMy:geNy
+der eine oder andere,.DET+CDET:neMy
+der einen oder andern,der eine oder andere.DET+CDET:deFy:geFy:gmUy
+den einen oder andren,der eine oder andere.DET+CDET:aeMy:dmUy
+des einen oder anderen,der eine oder andere.DET+CDET:geMy:geNy
+dem einen oder andern,der eine oder andere.DET+CDET:deMy:deNy
+die einen oder anderen,der eine oder andere.DET+CDET:amUy:nmUy
+die einen oder andern,der eine oder andere.DET+CDET:amUy:nmUy
+dem einen oder andren,der eine oder andere.DET+CDET:deMy:deNy
+den einen oder anderen,der eine oder andere.DET+CDET:aeMy:dmUy
+die eine oder andere,der eine oder andere.DET+CDET:aeFy:neFy
+des einen oder andern,der eine oder andere.DET+CDET:geMy:geNy
+der einen oder anderen,der eine oder andere.DET+CDET:deFy:geFy:gmUy
+das eine oder andere,der eine oder andere.DET+CDET:aeNy:neNy
+den einen oder andern,der eine oder andere.DET+CDET:aeMy:dmUy
+des einen oder andren,der eine oder andere.DET+CDET:geMy:geNy
+der einen oder andren,der eine oder andere.DET+CDET:deFy:geFy:gmUy
+die einen oder andren,der eine oder andere.DET+CDET:amUy:nmUy
+das eine oder andre,der eine oder andere.DET+CDET:aeNy:neNy
+der eine oder andre,der eine oder andere.DET+CDET:neMy
+die eine oder andre,der eine oder andere.DET+CDET:aeFy:neFy
+dem einen oder anderen,der eine oder andere.DET+CDET:deMy:deNy
+der ein oder andere,.DET+CDET:neMy
+der ein oder andern,der ein oder andere.DET+CDET:deFy:geFy:gmUy
+das ein oder andre,der ein oder andere.DET+CDET:aeNy:neNy
+des ein oder andern,der ein oder andere.DET+CDET:geMy:geNy
+des ein oder anderen,der ein oder andere.DET+CDET:geMy:geNy
+die ein oder andere,der ein oder andere.DET+CDET:aeFy:neFy
+den ein oder andern,der ein oder andere.DET+CDET:aeMy:dmUy
+die ein oder andre,der ein oder andere.DET+CDET:aeFy:neFy
+das ein oder andere,der ein oder andere.DET+CDET:aeNy:neNy
+den ein oder anderen,der ein oder andere.DET+CDET:aeMy:dmUy
+der ein oder andre,der ein oder andere.DET+CDET:neMy
+den ein oder andren,der ein oder andere.DET+CDET:aeMy:dmUy
+dem ein oder anderen,der ein oder andere.DET+CDET:deMy:deNy
+dem ein oder andren,der ein oder andere.DET+CDET:deMy:deNy
+die ein oder andern,der ein oder andere.DET+CDET:amUy:nmUy
+des ein oder andren,der ein oder andere.DET+CDET:geMy:geNy
+die ein oder andren,der ein oder andere.DET+CDET:amUy:nmUy
+dem ein oder andern,der ein oder andere.DET+CDET:deMy:deNy
+der ein oder andren,der ein oder andere.DET+CDET:deFy:geFy:gmUy
+die ein oder anderen,der ein oder andere.DET+CDET:amUy:nmUy
+der ein oder anderen,der ein oder andere.DET+CDET:deFy:geFy:gmUy
+dies und jenes,dieser und jener.DET+CDET:aeNy:neNy
+dieser und jener,.DET+CDET:deFy:geFy:gmUy:neMy
+diesem und jenem,dieser und jener.DET+CDET:deMy:deNy
+diesen und jenen,dieser und jener.DET+CDET:aeMy:dmUy
+dieses und jenes,dieser und jener.DET+CDET:aeNy:geMy:geNy:neNy
+diese und jene,dieser und jener.DET+CDET:aeFy:amUy:neFy:nmUy
+den gleichen,der gleiche.DET+CDET:aeMy:dmUy
+dem gleichen,der gleiche.DET+CDET:deMy:deNy
+die gleichen,der gleiche.DET+CDET:amUy:nmUy
+die gleiche,der gleiche.DET+CDET:aeFy:neFy
+des gleichen,der gleiche.DET+CDET:geMy:geNy
+der gleichen,der gleiche.DET+CDET:deFy:geFy:gmUy
+der gleiche,.DET+CDET:neMy
+das gleiche,der gleiche.DET+CDET:aeNy:neNy
+der vielen,die vielen.DET+CDET:gmUy
+die vielen,.DET+CDET:amUy:nmUy
+den vielen,die vielen.DET+CDET:dmUy
+ein jeder,.DET+CDET:neMz
+einer jeden,ein jeder.DET+CDET:deFz:geFz
+eines jeden,ein jeder.DET+CDET:geMz:geNz
+einen jeden,ein jeder.DET+CDET:aeMz
+eine jede,ein jeder.DET+CDET:aeFz:neFz
+ein jedes,ein jeder.DET+CDET:aeNz:neNz
+einem jeden,ein jeder.DET+CDET:deMz:deNz
+einem solchen,ein solcher.DET+CDET:deMz:deNz
+einen solchen,ein solcher.DET+CDET:aeMz
+ein solches,ein solcher.DET+CDET:aeNz:neNz
+eines solchen,ein solcher.DET+CDET:geMz:geNz
+ein solcher,.DET+CDET:neMz
+eine solche,ein solcher.DET+CDET:aeFz:neFz
+einer solchen,ein solcher.DET+CDET:deFz:geFz
+einer anderen,ein anderer.DET+CDET:deFz:geFz
+einen andren,ein anderer.DET+CDET:aeMz
+einen anderen,ein anderer.DET+CDET:aeMz
+einer andren,ein anderer.DET+CDET:deFz:geFz
+eines andren,ein anderer.DET+CDET:geMz:geNz
+ein anderes,ein anderer.DET+CDET:aeNz:neNz
+eine andere,ein anderer.DET+CDET:aeFz:neFz
+einer andern,ein anderer.DET+CDET:deFz:geFz
+eine andre,ein anderer.DET+CDET:aeFz:neFz
+einem andern,ein anderer.DET+CDET:deMz:deNz
+ein andres,ein anderer.DET+CDET:aeNz:neNz
+einen andern,ein anderer.DET+CDET:aeMz
+einem anderen,ein anderer.DET+CDET:deMz:deNz
+ein andrer,ein anderer.DET+CDET:neMz
+ein anderer,.DET+CDET:neMz
+eines andern,ein anderer.DET+CDET:geMz:geNz
+eines anderen,ein anderer.DET+CDET:geMz:geNz
+einem andren,ein anderer.DET+CDET:deMz:deNz
+einen derartigen,ein derartiger.DET+CDET:aeMz
+ein derartiger,.DET+CDET:neMz
+einer derartigen,ein derartiger.DET+CDET:deFz:geFz
+eine derartige,ein derartiger.DET+CDET:aeFz:neFz
+ein derartiges,ein derartiger.DET+CDET:aeNz:neNz
+eines derartigen,ein derartiger.DET+CDET:geMz:geNz
+einem derartigen,ein derartiger.DET+CDET:deMz:deNz
+jedes beliebigen,jeder beliebige.DET+CDET:geMx:geNx
+jedes beliebiges,jeder beliebige.DET+CDET:aeNx:neNx
+jede beliebige,jeder beliebige.DET+CDET:aeFx:amUx:neFx:nmUx
+jeder beliebiger,jeder beliebige.DET+CDET:deFx:geFx:gmUx:neMx
+jedem beliebigem,jeder beliebige.DET+CDET:deMx:deNx
+jeden beliebigen,jeder beliebige.DET+CDET:aeMx:dmUx
+manch anderem,manch anderer.DET+CDET:deMx:deNx
+manch andrer,manch anderer.DET+CDET:deFx:geFx:gmUx:neMx:neMz
+manch anderer,.DET+CDET:deFx:geFx:gmUx:neMx:neMz
+manch andres,manch anderer.DET+CDET:aeNx:aeNz:neNx:neNz
+manch andrem,manch anderer.DET+CDET:deMx:deNx
+manch anderm,manch anderer.DET+CDET:deMx:deNx
+manch andren,manch anderer.DET+CDET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+manch anderen,manch anderer.DET+CDET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+manch andere,manch anderer.DET+CDET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx
+manch andre,manch anderer.DET+CDET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx
+manch anderes,manch anderer.DET+CDET:aeNx:aeNz:neNx:neNz
+manch andern,manch anderer.DET+CDET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+manch einem andren,manch ein anderer.DET+CDET:deMz:deNz
+manch eines andern,manch ein anderer.DET+CDET:geMz:geNz
+manch eine andre,manch ein anderer.DET+CDET:aeFz:neFz
+manch eines andren,manch ein anderer.DET+CDET:geMz:geNz
+manch ein andrer,manch ein anderer.DET+CDET:neMz
+manch einen andern,manch ein anderer.DET+CDET:aeMz
+manch eine andere,manch ein anderer.DET+CDET:aeFz:neFz
+manch eines anderen,manch ein anderer.DET+CDET:geMz:geNz
+manch einen andren,manch ein anderer.DET+CDET:aeMz
+manch einer andern,manch ein anderer.DET+CDET:deFz:geFz
+manch einem andern,manch ein anderer.DET+CDET:deMz:deNz
+manch einer andren,manch ein anderer.DET+CDET:deFz:geFz
+manch einer anderen,manch ein anderer.DET+CDET:deFz:geFz
+manch ein anderer,.DET+CDET:neMz
+manch einem anderen,manch ein anderer.DET+CDET:deMz:deNz
+manch ein andres,manch ein anderer.DET+CDET:aeNz:neNz
+manch ein anderes,manch ein anderer.DET+CDET:aeNz:neNz
+manch einen anderen,manch ein anderer.DET+CDET:aeMz
+manch eines,manch ein.DET+CDET:geMz:geNz
+manch einen,manch ein.DET+CDET:aeMz
+manch eine,manch ein.DET+CDET:aeFz:neFz
+manch einem,manch ein.DET+CDET:deMz:deNz
+manch ein,.DET+CDET:aeNz:neMz:neNz
+manch einer,manch ein.DET+CDET:deFz:geFz
+so manch anderes,so manch anderer.DET+CDET:aeNx:aeNz:neNx:neNz
+so manch andrer,so manch anderer.DET+CDET:deFx:geFx:gmUx:neMx:neMz
+so manch anderm,so manch anderer.DET+CDET:deMx:deNx
+so manch andren,so manch anderer.DET+CDET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+so manch andern,so manch anderer.DET+CDET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+so manch andres,so manch anderer.DET+CDET:aeNx:aeNz:neNx:neNz
+so manch anderem,so manch anderer.DET+CDET:deMx:deNx
+so manch anderer,.DET+CDET:deFx:geFx:gmUx:neMx:neMz
+so manch andrem,so manch anderer.DET+CDET:deMx:deNx
+so manch anderen,so manch anderer.DET+CDET:aeMx:aeMy:aeMz:amUy:amUz:deFy:deFz:deMy:deMz:deNy:deNz:dmUx:dmUy:dmUz:geFy:geFz:geMx:geMy:geMz:geNx:geNy:geNz:gmUy:gmUz:nmUy:nmUz
+so manch andere,so manch anderer.DET+CDET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx
+so manch andre,so manch anderer.DET+CDET:aeFx:aeFy:aeFz:aeNy:amUx:neFx:neFy:neFz:neMy:neNy:nmUx
+so manch ein andrer,so manch ein anderer.DET+CDET:neMz
+so manch einer andren,so manch ein anderer.DET+CDET:deFz:geFz
+so manch ein andres,so manch ein anderer.DET+CDET:aeNz:neNz
+so manch eines anderen,so manch ein anderer.DET+CDET:geMz:geNz
+so manch einer andern,so manch ein anderer.DET+CDET:deFz:geFz
+so manch einen andern,so manch ein anderer.DET+CDET:aeMz
+so manch eines andern,so manch ein anderer.DET+CDET:geMz:geNz
+so manch einem andren,so manch ein anderer.DET+CDET:deMz:deNz
+so manch einen anderen,so manch ein anderer.DET+CDET:aeMz
+so manch ein anderer,.DET+CDET:neMz
+so manch ein anderes,so manch ein anderer.DET+CDET:aeNz:neNz
+so manch einer anderen,so manch ein anderer.DET+CDET:deFz:geFz
+so manch eines andren,so manch ein anderer.DET+CDET:geMz:geNz
+so manch eine andre,so manch ein anderer.DET+CDET:aeFz:neFz
+so manch einem anderen,so manch ein anderer.DET+CDET:deMz:deNz
+so manch einen andren,so manch ein anderer.DET+CDET:aeMz
+so manch einem andern,so manch ein anderer.DET+CDET:deMz:deNz
+so manch eine andere,so manch ein anderer.DET+CDET:aeFz:neFz
+so manch eine,so manch ein.DET+CDET:aeFz:neFz
+so manch einer,so manch ein.DET+CDET:deFz:geFz
+so manch ein,.DET+CDET:aeNz:neMz:neNz
+so manch einem,so manch ein.DET+CDET:deMz:deNz
+so manch einen,so manch ein.DET+CDET:aeMz
+so manch eines,so manch ein.DET+CDET:geMz:geNz
+der deinige,.DET+CDET:neMy
+das deinige,der deinige.DET+CDET:aeNy:neNy
+des deinigen,der deinige.DET+CDET:geMy:geNy
+den deinigen,der deinige.DET+CDET:aeMy:dmUy
+der deinigen,der deinige.DET+CDET:deFy:geFy:gmUy
+die deinige,der deinige.DET+CDET:aeFy:neFy
+dem deinigen,der deinige.DET+CDET:deMy:deNy
+die deinigen,der deinige.DET+CDET:amUy:nmUy
+die meinigen,der meinige.DET+CDET:amUy:nmUy
+das meinige,der meinige.DET+CDET:aeNy:neNy
+dem meinigen,der meinige.DET+CDET:deMy:deNy
+die meinige,der meinige.DET+CDET:aeFy:neFy
+den meinigen,der meinige.DET+CDET:aeMy:dmUy
+der meinige,.DET+CDET:neMy
+des meinigen,der meinige.DET+CDET:geMy:geNy
+der meinigen,der meinige.DET+CDET:deFy:geFy:gmUy
+des ihrigen,der ihrige.DET+CDET:geMy:geNy
+die ihrigen,der ihrige.DET+CDET:amUy:nmUy
+dem ihrigen,der ihrige.DET+CDET:deMy:deNy
+den ihrigen,der ihrige.DET+CDET:aeMy:dmUy
+der ihrige,.DET+CDET:neMy
+der ihrigen,der ihrige.DET+CDET:deFy:geFy:gmUy
+das ihrige,der ihrige.DET+CDET:aeNy:neNy
+die ihrige,der ihrige.DET+CDET:aeFy:neFy
+der unsrigen,der unsrige.DET+CDET:deFy:geFy:gmUy
+das unsrige,der unsrige.DET+CDET:aeNy:neNy
+der unsrige,.DET+CDET:neMy
+den unsrigen,der unsrige.DET+CDET:aeMy:dmUy
+dem unsrigen,der unsrige.DET+CDET:deMy:deNy
+des unsrigen,der unsrige.DET+CDET:geMy:geNy
+die unsrige,der unsrige.DET+CDET:aeFy:neFy
+die unsrigen,der unsrige.DET+CDET:amUy:nmUy
+das eurige,der eurige.DET+CDET:aeNy:neNy
+den eurigen,der eurige.DET+CDET:aeMy:dmUy
+die eurige,der eurige.DET+CDET:aeFy:neFy
+der eurigen,der eurige.DET+CDET:deFy:geFy:gmUy
+des eurigen,der eurige.DET+CDET:geMy:geNy
+der eurige,.DET+CDET:neMy
+dem eurigen,der eurige.DET+CDET:deMy:deNy
+die eurigen,der eurige.DET+CDET:amUy:nmUy
+dem seinigen,der seinige.DET+CDET:deMy:deNy
+der seinige,.DET+CDET:neMy
+der seinigen,der seinige.DET+CDET:deFy:geFy:gmUy
+das seinige,der seinige.DET+CDET:aeNy:neNy
+die seinigen,der seinige.DET+CDET:amUy:nmUy
+den seinigen,der seinige.DET+CDET:aeMy:dmUy
+des seinigen,der seinige.DET+CDET:geMy:geNy
+die seinige,der seinige.DET+CDET:aeFy:neFy
+ein oder mehrere,.DET+CDET:nmMx:nmNx:amNx
+eine oder mehrere,ein oder mehrere.DET+CDET:amFx:nmFx
+einen oder mehrere,ein oder mehrere.DET+CDET:amMx
+eines oder mehrerer,ein oder mehrere.DET+CDET:gmMx:gmNx
+einem oder mehreren,ein oder mehrere.DET+CDET:dmMx:dmNx
+einer oder mehreren,ein oder mehrere.DET+CDET:dmFx
+einer oder mehrerer,ein oder mehrere.DET+CDET:gmFx
+einer oder mehrere,.DET+CDET:nmMx
+eines oder mehrere,einer oder mehrere.DET+CDET:nmNx:amNx
+eine oder mehrere,einer oder mehrere.DET+CDET:amFx:nmFx
+einen oder mehrere,einer oder mehrere.DET+CDET:amMx
+eines oder mehrerer,einer oder mehrere.DET+CDET:gmMx:gmNx
+einem oder mehreren,einer oder mehrere.DET+CDET:dmMx:dmNx
+einer oder mehreren,einer oder mehrere.DET+CDET:dmFx
+einer oder mehrerer,einer oder mehrere.DET+CDET:gmFx
+weiß Gott was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß Gott was für einen,weiß Gott was für ein.DET+CDET:aeMz
+weiß Gott was für ein,.DET+CDET:aeNz:neMz:neNz
+weiß Gott was für einem,weiß Gott was für ein.DET+CDET:deMz:deNz
+weiß Gott was für eines,weiß Gott was für ein.DET+CDET:geMz:geNz
+weiß Gott was für einer,weiß Gott was für ein.DET+CDET:deFz:geFz
+weiß Gott was für eine,weiß Gott was für ein.DET+CDET:aeFz:neFz
+weiß Gott was für welchen,weiß Gott was für welche.DET+CDET:dmUy
+weiß Gott was für welche,.DET+CDET:amUy:nmUy
+weiß Gott was für welcher,weiß Gott was für welche.DET+CDET:gmUy
+weiß Gott wievieler,weiß Gott wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+weiß Gott wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß Gott wievieles,weiß Gott wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+weiß Gott wievielen,weiß Gott wieviel.DET+CDET:aeMx:dmUx
+weiß Gott wievielem,weiß Gott wieviel.DET+CDET:deMx:deNx
+weiß Gott wieviele,weiß Gott wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+weiß Gott welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß Gott welchen,weiß Gott welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+weiß Gott welche,weiß Gott welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+weiß Gott welches,weiß Gott welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+weiß Gott welchem,weiß Gott welcher.DET+CDET:deMx:deMy:deNx:deNy
+weiß Gott welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+weiß der Teufel was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Teufel was für einem,weiß der Teufel was für ein.DET+CDET:deMz:deNz
+weiß der Teufel was für einer,weiß der Teufel was für ein.DET+CDET:deFz:geFz
+weiß der Teufel was für eines,weiß der Teufel was für ein.DET+CDET:geMz:geNz
+weiß der Teufel was für ein,.DET+CDET:aeNz:neMz:neNz
+weiß der Teufel was für einen,weiß der Teufel was für ein.DET+CDET:aeMz
+weiß der Teufel was für eine,weiß der Teufel was für ein.DET+CDET:aeFz:neFz
+weiß der Teufel was für welchen,weiß der Teufel was für welche.DET+CDET:dmUy
+weiß der Teufel was für welche,.DET+CDET:amUy:nmUy
+weiß der Teufel was für welcher,weiß der Teufel was für welche.DET+CDET:gmUy
+weiß der Teufel wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Teufel wievieler,weiß der Teufel wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+weiß der Teufel wieviele,weiß der Teufel wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+weiß der Teufel wievielen,weiß der Teufel wieviel.DET+CDET:aeMx:dmUx
+weiß der Teufel wievielem,weiß der Teufel wieviel.DET+CDET:deMx:deNx
+weiß der Teufel wievieles,weiß der Teufel wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+weiß der Teufel welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Teufel welche,weiß der Teufel welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+weiß der Teufel welchen,weiß der Teufel welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+weiß der Teufel welchem,weiß der Teufel welcher.DET+CDET:deMx:deMy:deNx:deNy
+weiß der Teufel welches,weiß der Teufel welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+weiß der Teufel welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+weiß der Henker was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Henker was für ein,.DET+CDET:aeNz:neMz:neNz
+weiß der Henker was für eines,weiß der Henker was für ein.DET+CDET:geMz:geNz
+weiß der Henker was für einer,weiß der Henker was für ein.DET+CDET:deFz:geFz
+weiß der Henker was für einen,weiß der Henker was für ein.DET+CDET:aeMz
+weiß der Henker was für eine,weiß der Henker was für ein.DET+CDET:aeFz:neFz
+weiß der Henker was für einem,weiß der Henker was für ein.DET+CDET:deMz:deNz
+weiß der Henker was für welchen,weiß der Henker was für welche.DET+CDET:dmUy
+weiß der Henker was für welche,.DET+CDET:amUy:nmUy
+weiß der Henker was für welcher,weiß der Henker was für welche.DET+CDET:gmUy
+weiß der Henker wievielen,weiß der Henker wieviel.DET+CDET:aeMx:dmUx
+weiß der Henker wievielem,weiß der Henker wieviel.DET+CDET:deMx:deNx
+weiß der Henker wieviele,weiß der Henker wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+weiß der Henker wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Henker wievieles,weiß der Henker wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+weiß der Henker wievieler,weiß der Henker wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+weiß der Henker welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Henker welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+weiß der Henker welches,weiß der Henker welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+weiß der Henker welchem,weiß der Henker welcher.DET+CDET:deMx:deMy:deNx:deNy
+weiß der Henker welchen,weiß der Henker welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+weiß der Henker welche,weiß der Henker welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+weiß der Geier was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Geier was für einem,weiß der Geier was für ein.DET+CDET:deMz:deNz
+weiß der Geier was für eine,weiß der Geier was für ein.DET+CDET:aeFz:neFz
+weiß der Geier was für eines,weiß der Geier was für ein.DET+CDET:geMz:geNz
+weiß der Geier was für einen,weiß der Geier was für ein.DET+CDET:aeMz
+weiß der Geier was für einer,weiß der Geier was für ein.DET+CDET:deFz:geFz
+weiß der Geier was für ein,.DET+CDET:aeNz:neMz:neNz
+weiß der Geier was für welchen,weiß der Geier was für welche.DET+CDET:dmUy
+weiß der Geier was für welcher,weiß der Geier was für welche.DET+CDET:gmUy
+weiß der Geier was für welche,.DET+CDET:amUy:nmUy
+weiß der Geier wievielem,weiß der Geier wieviel.DET+CDET:deMx:deNx
+weiß der Geier wieviele,weiß der Geier wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+weiß der Geier wievielen,weiß der Geier wieviel.DET+CDET:aeMx:dmUx
+weiß der Geier wievieles,weiß der Geier wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+weiß der Geier wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Geier wievieler,weiß der Geier wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+weiß der Geier welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+weiß der Geier welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+weiß der Geier welchem,weiß der Geier welcher.DET+CDET:deMx:deMy:deNx:deNy
+weiß der Geier welches,weiß der Geier welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+weiß der Geier welche,weiß der Geier welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+weiß der Geier welchen,weiß der Geier welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+wissen die Götter was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+wissen die Götter was für eine,wissen die Götter was für ein.DET+CDET:aeFz:neFz
+wissen die Götter was für einem,wissen die Götter was für ein.DET+CDET:deMz:deNz
+wissen die Götter was für ein,.DET+CDET:aeNz:neMz:neNz
+wissen die Götter was für einer,wissen die Götter was für ein.DET+CDET:deFz:geFz
+wissen die Götter was für eines,wissen die Götter was für ein.DET+CDET:geMz:geNz
+wissen die Götter was für einen,wissen die Götter was für ein.DET+CDET:aeMz
+wissen die Götter was für welchen,wissen die Götter was für welche.DET+CDET:dmUy
+wissen die Götter was für welche,.DET+CDET:amUy:nmUy
+wissen die Götter was für welcher,wissen die Götter was für welche.DET+CDET:gmUy
+wissen die Götter wieviele,wissen die Götter wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+wissen die Götter wievielen,wissen die Götter wieviel.DET+CDET:aeMx:dmUx
+wissen die Götter wievieler,wissen die Götter wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+wissen die Götter wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+wissen die Götter wievielem,wissen die Götter wieviel.DET+CDET:deMx:deNx
+wissen die Götter wievieles,wissen die Götter wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+wissen die Götter welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+wissen die Götter welchen,wissen die Götter welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+wissen die Götter welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+wissen die Götter welchem,wissen die Götter welcher.DET+CDET:deMx:deMy:deNx:deNy
+wissen die Götter welches,wissen die Götter welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+wissen die Götter welche,wissen die Götter welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+wissen die Geier was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+wissen die Geier was für einer,wissen die Geier was für ein.DET+CDET:deFz:geFz
+wissen die Geier was für einen,wissen die Geier was für ein.DET+CDET:aeMz
+wissen die Geier was für eines,wissen die Geier was für ein.DET+CDET:geMz:geNz
+wissen die Geier was für eine,wissen die Geier was für ein.DET+CDET:aeFz:neFz
+wissen die Geier was für ein,.DET+CDET:aeNz:neMz:neNz
+wissen die Geier was für einem,wissen die Geier was für ein.DET+CDET:deMz:deNz
+wissen die Geier was für welchen,wissen die Geier was für welche.DET+CDET:dmUy
+wissen die Geier was für welcher,wissen die Geier was für welche.DET+CDET:gmUy
+wissen die Geier was für welche,.DET+CDET:amUy:nmUy
+wissen die Geier wievieler,wissen die Geier wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+wissen die Geier wieviele,wissen die Geier wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+wissen die Geier wievieles,wissen die Geier wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+wissen die Geier wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+wissen die Geier wievielem,wissen die Geier wieviel.DET+CDET:deMx:deNx
+wissen die Geier wievielen,wissen die Geier wieviel.DET+CDET:aeMx:dmUx
+wissen die Geier welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+wissen die Geier welchen,wissen die Geier welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+wissen die Geier welchem,wissen die Geier welcher.DET+CDET:deMx:deMy:deNx:deNy
+wissen die Geier welches,wissen die Geier welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+wissen die Geier welche,wissen die Geier welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+wissen die Geier welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+keiner weiß was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+keiner weiß was für einen,keiner weiß was für ein.DET+CDET:aeMz
+keiner weiß was für einem,keiner weiß was für ein.DET+CDET:deMz:deNz
+keiner weiß was für eine,keiner weiß was für ein.DET+CDET:aeFz:neFz
+keiner weiß was für einer,keiner weiß was für ein.DET+CDET:deFz:geFz
+keiner weiß was für eines,keiner weiß was für ein.DET+CDET:geMz:geNz
+keiner weiß was für ein,.DET+CDET:aeNz:neMz:neNz
+keiner weiß was für welchen,keiner weiß was für welche.DET+CDET:dmUy
+keiner weiß was für welche,.DET+CDET:amUy:nmUy
+keiner weiß was für welcher,keiner weiß was für welche.DET+CDET:gmUy
+keiner weiß wievielem,keiner weiß wieviel.DET+CDET:deMx:deNx
+keiner weiß wievielen,keiner weiß wieviel.DET+CDET:aeMx:dmUx
+keiner weiß wievieler,keiner weiß wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+keiner weiß wievieles,keiner weiß wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+keiner weiß wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+keiner weiß wieviele,keiner weiß wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+keiner weiß welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+keiner weiß welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+keiner weiß welchem,keiner weiß welcher.DET+CDET:deMx:deMy:deNx:deNy
+keiner weiß welche,keiner weiß welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+keiner weiß welches,keiner weiß welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+keiner weiß welchen,keiner weiß welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+ich weiß nicht was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+ich weiß nicht was für einem,ich weiß nicht was für ein.DET+CDET:deMz:deNz
+ich weiß nicht was für einer,ich weiß nicht was für ein.DET+CDET:deFz:geFz
+ich weiß nicht was für ein,.DET+CDET:aeNz:neMz:neNz
+ich weiß nicht was für eines,ich weiß nicht was für ein.DET+CDET:geMz:geNz
+ich weiß nicht was für einen,ich weiß nicht was für ein.DET+CDET:aeMz
+ich weiß nicht was für eine,ich weiß nicht was für ein.DET+CDET:aeFz:neFz
+ich weiß nicht was für welchen,ich weiß nicht was für welche.DET+CDET:dmUy
+ich weiß nicht was für welche,.DET+CDET:amUy:nmUy
+ich weiß nicht was für welcher,ich weiß nicht was für welche.DET+CDET:gmUy
+ich weiß nicht wievieler,ich weiß nicht wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+ich weiß nicht wievieles,ich weiß nicht wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+ich weiß nicht wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+ich weiß nicht wievielen,ich weiß nicht wieviel.DET+CDET:aeMx:dmUx
+ich weiß nicht wievielem,ich weiß nicht wieviel.DET+CDET:deMx:deNx
+ich weiß nicht wieviele,ich weiß nicht wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+ich weiß nicht welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+ich weiß nicht welches,ich weiß nicht welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+ich weiß nicht welche,ich weiß nicht welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+ich weiß nicht welchem,ich weiß nicht welcher.DET+CDET:deMx:deMy:deNx:deNy
+ich weiß nicht welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+ich weiß nicht welchen,ich weiß nicht welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+du weißt nicht was für,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+du weißt nicht was für eine,du weißt nicht was für ein.DET+CDET:aeFz:neFz
+du weißt nicht was für ein,.DET+CDET:aeNz:neMz:neNz
+du weißt nicht was für einem,du weißt nicht was für ein.DET+CDET:deMz:deNz
+du weißt nicht was für einer,du weißt nicht was für ein.DET+CDET:deFz:geFz
+du weißt nicht was für eines,du weißt nicht was für ein.DET+CDET:geMz:geNz
+du weißt nicht was für einen,du weißt nicht was für ein.DET+CDET:aeMz
+du weißt nicht was für welchen,du weißt nicht was für welche.DET+CDET:dmUy
+du weißt nicht was für welcher,du weißt nicht was für welche.DET+CDET:gmUy
+du weißt nicht was für welche,.DET+CDET:amUy:nmUy
+du weißt nicht wievielem,du weißt nicht wieviel.DET+CDET:deMx:deNx
+du weißt nicht wievieles,du weißt nicht wieviel.DET+CDET:aeNx:geMx:geNx:neNx
+du weißt nicht wieviele,du weißt nicht wieviel.DET+CDET:aeFx:amUx:neFx:nmUx
+du weißt nicht wieviel,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+du weißt nicht wievieler,du weißt nicht wieviel.DET+CDET:deFx:geFx:gmUx:neMx
+du weißt nicht wievielen,du weißt nicht wieviel.DET+CDET:aeMx:dmUx
+du weißt nicht welch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+du weißt nicht welche,du weißt nicht welcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+du weißt nicht welchem,du weißt nicht welcher.DET+CDET:deMx:deMy:deNx:deNy
+du weißt nicht welcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+du weißt nicht welches,du weißt nicht welcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+du weißt nicht welchen,du weißt nicht welcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+
+all deine,all dein.DET+CDET:aeFz:amUz:neFz:nmUz
+all deinen,all dein.DET+CDET:aeMz:dmUz
+all deinem,all dein.DET+CDET:deMz:deNz
+all dein,.DET+CDET:aeNz:neMz:neNz
+all deiner,all dein.DET+CDET:deFz:geFz:gmUz
+all deines,all dein.DET+CDET:geMz:geNz
+all des,all der.DET+CDET:geMy:geNy
+all der,.DET+CDET:deFy:geFy:gmUy:neMy
+all dem,all der.DET+CDET:deMy:deNy
+all die,all der.DET+CDET:aeFy:amUy:neFy:nmUy
+all den,all der.DET+CDET:aeMy:dmUy
+all das,all der.DET+CDET:aeNy:neNy
+all derjenigen,all diejenigen.DET+CDET:gmUy
+all denjenigen,all diejenigen.DET+CDET:dmUy
+all diejenigen,.DET+CDET:amUy:nmUy
+all dies,.DET+CDET:aeNy:neNy
+all diesen,all dies.DET+CDET:aeMy:dmUy
+all diesem,all dies.DET+CDET:deMy:deNy
+all dieses,all dies.DET+CDET:aeNy:geMy:geNy:neNy
+all dieser,all dies.DET+CDET:deFy:geFy:gmUy:neMy
+all diese,all dies.DET+CDET:aeFy:amUy:neFy:nmUy
+aller der,alle die.DET+CDET:gmUy
+alle die,.DET+CDET:amUy:nmUy
+allen den,alle die.DET+CDET:dmUy
+aller dieser,alle diese.DET+CDET:gmUy
+allen diesen,alle diese.DET+CDET:dmUy
+alle diese,.DET+CDET:amUy:nmUy
+allen deinen,alle deine.DET+CDET:dmUz
+aller deiner,alle deine.DET+CDET:gmUz
+alle deine,.DET+CDET:amUz:nmUz
+all eureres,all eurer.DET+CDET:geMz:geNz
+all eurere,all eurer.DET+CDET:aeFz:amUz:neFz:nmUz
+all eureren,all eurer.DET+CDET:aeMz:dmUz
+all eurer,.DET+CDET:aeNz:neMz:neNz
+all eurerem,all eurer.DET+CDET:deMz:deNz
+all eurerer,all eurer.DET+CDET:deFz:geFz:gmUz
+allen euren,alle eure.DET+CDET:dmUz
+alle eure,.DET+CDET:amUz:nmUz
+aller eurer,alle eure.DET+CDET:gmUz
+all jener,.DET+CDET:deFy:geFy:gmUy:neMy
+all jenen,all jener.DET+CDET:aeMy:dmUy
+all jene,all jener.DET+CDET:aeFy:amUy:neFy:nmUy
+all jenes,all jener.DET+CDET:aeNy:geMy:geNy:neNy
+all jenem,all jener.DET+CDET:deMy:deNy
+aller jener,alle jene.DET+CDET:gmUz
+allen jenen,alle jene.DET+CDET:dmUz
+alle jene,.DET+CDET:amUz:nmUz
+allen denjenigen,alle diejenigen.DET+CDET:dmUy
+alle diejenigen,.DET+CDET:amUy:nmUy
+aller derjenigen,alle diejenigen.DET+CDET:gmUy
+all meiner,all mein.DET+CDET:deFz:geFz:gmUz
+all meines,all mein.DET+CDET:geMz:geNz
+all mein,.DET+CDET:aeNz:neMz:neNz
+all meinen,all mein.DET+CDET:aeMz:dmUz
+all meine,all mein.DET+CDET:aeFz:amUz:neFz:nmUz
+all meinem,all mein.DET+CDET:deMz:deNz
+aller meiner,alle meine.DET+CDET:gmUz
+alle meine,.DET+CDET:amUz:nmUz
+allen meinen,alle meine.DET+CDET:dmUz
+all unser,.DET+CDET:aeNz:neMz:neNz
+all unsrem,all unser.DET+CDET:deMz:deNz
+all unsren,all unser.DET+CDET:aeMz:dmUz
+all unsere,all unser.DET+CDET:aeFz:amUz:neFz:nmUz
+all unsern,all unser.DET+CDET:aeMz:dmUz
+all unsre,all unser.DET+CDET:aeFz:amUz:neFz:nmUz
+all unserem,all unser.DET+CDET:deMz:deNz
+all unsrer,all unser.DET+CDET:deFz:geFz:gmUz
+all unseren,all unser.DET+CDET:aeMz:dmUz
+all unserm,all unser.DET+CDET:deMz:deNz
+all unseres,all unser.DET+CDET:geMz:geNz
+all unsres,all unser.DET+CDET:geMz:geNz
+all unserer,all unser.DET+CDET:deFz:geFz:gmUz
+aller unsrer,alle unsere.DET+CDET:gmUz
+allen unsern,alle unsere.DET+CDET:dmUz
+allen unsren,alle unsere.DET+CDET:dmUz
+alle unsere,.DET+CDET:amUz:nmUz
+alle unsre,alle unsere.DET+CDET:amUz:nmUz
+allen unseren,alle unsere.DET+CDET:dmUz
+aller unserer,alle unsere.DET+CDET:gmUz
+all ihre,all ihr.DET+CDET:aeFz:amUz:neFz:nmUz
+all ihrem,all ihr.DET+CDET:deMz:deNz
+all ihr,.DET+CDET:aeNz:neMz:neNz
+all ihres,all ihr.DET+CDET:geMz:geNz
+all ihrer,all ihr.DET+CDET:deFz:geFz:gmUz
+all ihren,all ihr.DET+CDET:aeMz:dmUz
+allen ihren,alle ihr.DET+CDET:dmUz
+aller ihrer,alle ihr.DET+CDET:gmUz
+alle ihre,alle ihr.DET+CDET:amUz:nmUz
+all seinen,all sein.DET+CDET:aeMz:dmUz
+all seine,all sein.DET+CDET:aeFz:amUz:neFz:nmUz
+all sein,.DET+CDET:aeNz:neMz:neNz
+all seinem,all sein.DET+CDET:deMz:deNz
+all seines,all sein.DET+CDET:geMz:geNz
+all seiner,all sein.DET+CDET:deFz:geFz:gmUz
+allen seinen,alle seine.DET+CDET:dmUz
+aller seiner,alle seine.DET+CDET:gmUz
+alle seine,.DET+CDET:amUz:nmUz
+all solch,.DET+CDET:X:aeFx:aeMx:aeNx:amUx:deFx:deMx:deNx:dmUx:geFx:geMx:geNx:gmUx:neFx:neMx:neNx:nmUx
+all solches,all solcher.DET+CDET:aeNx:aeNy:geMx:geMy:geNx:geNy:neNx:neNy
+all solchem,all solcher.DET+CDET:deMx:deMy:deNx:deNy
+all solche,all solcher.DET+CDET:aeFx:aeFy:amUx:amUy:neFx:neFy:nmUx:nmUy
+all solchen,all solcher.DET+CDET:aeMx:aeMy:dmUx:dmUy
+all solcher,.DET+CDET:deFx:deFy:geFx:geFy:gmUx:gmUy:neMx:neMy
+alle diese meine,.DET+CDET:amUy:nmUy
+aller dieser meiner,alle diese meine.DET+CDET:gmUy
+allen diesen meinen,alle diese meine.DET+CDET:dmUy
+alle diese deine,.DET+CDET:amUy:nmUy
+aller dieser deiner,alle diese deine.DET+CDET:gmUy
+allen diesen deinen,alle diese deine.DET+CDET:dmUy
+aller dieser unsrer,alle diese unsere.DET+CDET:gmUy
+aller dieser unserer,alle diese unsere.DET+CDET:gmUy
+allen diesen unsern,alle diese unsere.DET+CDET:dmUy
+allen diesen unseren,alle diese unsere.DET+CDET:dmUy
+alle diese unsere,.DET+CDET:amUy:nmUy
+alle diese unsre,alle diese unsere.DET+CDET:amUy:nmUy
+allen diesen unsren,alle diese unsere.DET+CDET:dmUy
+aller dieser eurer,alle diese eure.DET+CDET:gmUy
+alle diese eure,.DET+CDET:amUy:nmUy
+allen diesen euren,alle diese eure.DET+CDET:dmUy
+allen diesen seinen,alle diese seine.DET+CDET:dmUy
+aller dieser seiner,alle diese seine.DET+CDET:gmUy
+alle diese seine,.DET+CDET:amUy:nmUy
+allen diesen ihren,alle diese ihre.DET+CDET:dmUy
+aller dieser ihrer,alle diese ihre.DET+CDET:gmUy
+alle diese ihre,.DET+CDET:amUy:nmUy
+einzig und allein das,einzig und allein der.DET+CDET:aeNy:neNy
+einzig und allein den,einzig und allein der.DET+CDET:aeMy:dmUy
+einzig und allein die,einzig und allein der.DET+CDET:aeFy:amUy:neFy:nmUy
+einzig und allein dem,einzig und allein der.DET+CDET:deMy:deNy
+einzig und allein der,.DET+CDET:deFy:geFy:gmUy:neMy
+einzig und allein des,einzig und allein der.DET+CDET:geMy:geNy
+einzig und allein jenen,einzig und allein jener.DET+CDET:aeMy:dmUy
+einzig und allein jenem,einzig und allein jener.DET+CDET:deMy:deNy
+einzig und allein jenes,einzig und allein jener.DET+CDET:aeNy:geMy:geNy:neNy
+einzig und allein jener,.DET+CDET:deFy:geFy:gmUy:neMy
+einzig und allein jene,einzig und allein jener.DET+CDET:aeFy:amUy:neFy:nmUy
+einzig und allein dieses,einzig und allein dieser.DET+CDET:aeNy:geMy:geNy:neNy
+einzig und allein diesen,einzig und allein dieser.DET+CDET:aeMy:dmUy
+einzig und allein dies,einzig und allein dieser.DET+CDET:aeNy:neNy
+einzig und allein diese,einzig und allein dieser.DET+CDET:aeFy:amUy:neFy:nmUy
+einzig und allein diesem,einzig und allein dieser.DET+CDET:deMy:deNy
+einzig und allein dieser,.DET+CDET:deFy:geFy:gmUy:neMy

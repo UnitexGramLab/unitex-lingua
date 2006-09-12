@@ -1,0 +1,906 @@
+Flaches Profil:
+
+Jedes Muster zählt als 0.01 seconds.
+  %    kumulativ   Selbst            Selbst   Gesamt          
+ Zeit   seconds   seconds  Aufrufe  s/Aufru  s/Aufru  Name    
+ 50.68      4.84     4.84  2274724     0.00     0.00  get_sous_noeud_num_char_det(int, noeud_valeur_det*)
+  8.06      5.61     0.77        1     0.77     8.51  determinisation_new_main_graph(_IO_FILE*, etat_comp**)
+  6.81      6.26     0.65 12624128     0.00     0.00  u_fputc(unsigned short, _IO_FILE*)
+  6.13      6.85     0.59  2274724     0.00     0.00  get_sous_noeud_valeur_det(int, noeud_num_char_det*)
+  4.24      7.25     0.41  6780102     0.00     0.00  ajouter_etat_dans_ensemble_det(int, char_etats_det**)
+  2.67      7.51     0.26    22206     0.00     0.00  vider_trans_reciproques_comp(transition_comp*, etat_comp**)
+  2.41      7.74     0.23  1467348     0.00     0.00  u_fprints_char(char*, _IO_FILE*)
+  2.20      7.95     0.21    17900     0.00     0.00  init_hachage_det(int*)
+  1.99      8.14     0.19    22206     0.00     0.00  vider_transitions_comp(transition_comp*)
+  1.73      8.30     0.17  2274724     0.00     0.00  nouveau_char_etats_det()
+  1.62      8.46     0.16  5314533     0.00     0.00  malloc_comp(int)
+  1.57      8.61     0.15  1466130     0.00     0.00  numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int)
+  1.47      8.75     0.14    11103     0.00     0.00  vider_epsilon_comp(transition_comp*, etat_comp**, int)
+  1.05      8.85     0.10  1466129     0.00     0.00  ajouter_transition_mat_det(etat_fst_det*, int, int)
+  0.73      8.92     0.07  1304664     0.00     0.00  nouvelle_transition_comp()
+  0.63      8.98     0.06    17900     0.00     0.00  sauvegarder_etat_det(_IO_FILE*, etat_fst_det*)
+  0.58      9.03     0.06  5314533     0.00     0.00  free_comp(void*)
+  0.52      9.08     0.05                             u_fwrite(unsigned short*, int, _IO_FILE*)
+  0.47      9.13     0.05  1484419     0.00     0.00  liberer_char_etat_det(char_etats_det*)
+  0.42      9.17     0.04  1466129     0.00     0.00  nouvelle_transition_mat_det()
+  0.42      9.21     0.04        1     0.04     0.04  initialiser_graphe_fst2()
+  0.31      9.24     0.03    65536     0.00     0.00  u_is_letter_internal(unsigned short)
+  0.31      9.27     0.03    17900     0.00     0.00  liberer_transition_mat_det(transition_fst_det*)
+  0.31      9.30     0.03    17899     0.00     0.00  copie_det(char_etats_det*)
+  0.31      9.33     0.03     3136     0.00     0.00  degager_transition_inverse_comp(transition_comp*, int)
+  0.21      9.35     0.02    46623     0.00     0.00  nouvelle_liste_branches_valeur_det()
+  0.21      9.37     0.02        9     0.00     0.00  flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*)
+  0.10      9.38     0.01    65116     0.00     0.00  u_is_IPA_extensions_letter(unsigned short)
+  0.10      9.39     0.01    64301     0.00     0.00  u_is_bengali_letter(unsigned short)
+  0.10      9.40     0.01    64111     0.00     0.00  u_is_oriya_letter(unsigned short)
+  0.10      9.41     0.01    63944     0.00     0.00  u_is_kannada_letter(unsigned short)
+  0.10      9.42     0.01    63879     0.00     0.00  u_is_malayalam_letter(unsigned short)
+  0.10      9.43     0.01    63739     0.00     0.00  u_is_thai_letter(unsigned short)
+  0.10      9.44     0.01    63670     0.00     0.00  u_is_greek_extended_letter(unsigned short)
+  0.10      9.45     0.01    46624     0.00     0.00  nouveau_noeud_valeur_det()
+  0.10      9.46     0.01    46598     0.00     0.00  add_reverse_transition_to_state(int, int, etat_comp*)
+  0.10      9.47     0.01        3     0.00     0.00  co_accessibilite_comp(etat_comp**, int)
+  0.10      9.48     0.01        1     0.01     9.32  flatten_fst2(automate_fst2*, int, char*, int)
+  0.10      9.49     0.01        1     0.01     0.01  init_stock_det(char_etats_det**)
+  0.10      9.50     0.01        1     0.01     0.01  accessibilite_comp(etat_comp**, int)
+  0.10      9.51     0.01        1     0.01     0.12  init_unicode_table()
+  0.10      9.52     0.01        1     0.01     0.02  compute_reverse_transitions_of_main_graph(flattened_main_graph_info*)
+  0.10      9.53     0.01                             u_fprints_html(unsigned short*, _IO_FILE*)
+  0.10      9.54     0.01                             toupper(unsigned char)
+  0.05      9.54     0.01    64236     0.00     0.00  u_is_gurmukhi_letter(unsigned short)
+  0.05      9.55     0.01    64173     0.00     0.00  u_is_gujarati_letter(unsigned short)
+  0.05      9.55     0.01                             supprimer_transitioninv_comp(etat_comp**, int, transition_comp*)
+  0.00      9.55     0.00    65536     0.00     0.00  u_is_basic_latin_letter(unsigned short)
+  0.00      9.55     0.00    65484     0.00     0.00  u_is_latin1_supplement_letter(unsigned short)
+  0.00      9.55     0.00    65422     0.00     0.00  u_is_latin_extendedA_letter(unsigned short)
+  0.00      9.55     0.00    65294     0.00     0.00  u_is_latin_extendedB_letter(unsigned short)
+  0.00      9.55     0.00    65022     0.00     0.00  u_is_greek_letter(unsigned short)
+  0.00      9.55     0.00    64917     0.00     0.00  u_is_cyrillic_letter(unsigned short)
+  0.00      9.55     0.00    64686     0.00     0.00  u_is_armenian_letter(unsigned short)
+  0.00      9.55     0.00    64609     0.00     0.00  u_is_hebrew_letter(unsigned short)
+  0.00      9.55     0.00    64579     0.00     0.00  u_is_arabic_letter(unsigned short)
+  0.00      9.55     0.00    64440     0.00     0.00  u_is_thaana_letter(unsigned short)
+  0.00      9.55     0.00    64402     0.00     0.00  u_is_devanagari_letter(unsigned short)
+  0.00      9.55     0.00    64051     0.00     0.00  u_is_tamil_letter(unsigned short)
+  0.00      9.55     0.00    64006     0.00     0.00  u_is_telugu_letter(unsigned short)
+  0.00      9.55     0.00    63815     0.00     0.00  u_is_sinhala_letter(unsigned short)
+  0.00      9.55     0.00    63453     0.00     0.00  u_is_korea_syllabe_letter(unsigned short)
+  0.00      9.55     0.00    52269     0.00     0.00  u_is_CJK_Unified_Ideographs(unsigned short)
+  0.00      9.55     0.00    46624     0.00     0.00  vider_noeud_valeur_det(noeud_valeur_det*)
+  0.00      9.55     0.00    39515     0.00     0.00  vider_noeud_num_char_det(noeud_num_char_det*)
+  0.00      9.55     0.00    39515     0.00     0.00  nouveau_noeud_num_char_det()
+  0.00      9.55     0.00    39515     0.00     0.00  nouvelle_liste_branches_num_char_det()
+  0.00      9.55     0.00    31277     0.00     0.00  u_is_cjk_compatibility_ideographs(unsigned short)
+  0.00      9.55     0.00    17900     0.00     0.00  liberer_etat_det(etat_fst_det*)
+  0.00      9.55     0.00    17900     0.00     0.00  nouvel_etat_mat_det()
+  0.00      9.55     0.00    12919     0.00     0.00  u_fgetc(_IO_FILE*)
+  0.00      9.55     0.00    11103     0.00     0.00  est_a_virer_comp(etat_comp*)
+  0.00      9.55     0.00    11103     0.00     0.00  nouvel_etat_comp()
+  0.00      9.55     0.00    11103     0.00     0.00  liberer_etat_graphe_comp(etat_comp*)
+  0.00      9.55     0.00     3660     0.00     0.00  u_strcmp_char(unsigned short const*, char const*)
+  0.00      9.55     0.00     3240     0.00     0.00  lire_entier_fst2(_IO_FILE*, int*)
+  0.00      9.55     0.00     2428     0.00     0.00  u_strlen(unsigned short const*)
+  0.00      9.55     0.00     1415     0.00     0.00  ajouter_transition_mat(etat_fst*, int, int)
+  0.00      9.55     0.00     1415     0.00     0.00  nouvelle_transition_mat()
+  0.00      9.55     0.00     1239     0.00     0.00  u_strcpy(unsigned short*, unsigned short const*)
+  0.00      9.55     0.00      609     0.00     0.00  u_fprints(unsigned short*, _IO_FILE*)
+  0.00      9.55     0.00      607     0.00     0.00  free_etiquette(etiq_*)
+  0.00      9.55     0.00      607     0.00     0.00  creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int)
+  0.00      9.55     0.00      607     0.00     0.00  ajouter_etiquette_fst2(unsigned short*)
+  0.00      9.55     0.00      607     0.00     0.00  nouvelle_etiquette_mat()
+  0.00      9.55     0.00      410     0.00     0.00  nouvel_etat()
+  0.00      9.55     0.00      410     0.00     0.00  free_transition(transition_fst*)
+  0.00      9.55     0.00      410     0.00     0.00  free_etat(etat_fst*)
+  0.00      9.55     0.00       74     0.00     0.00  u_is_digit(unsigned short)
+  0.00      9.55     0.00       55     0.00     0.00  inserer_dans_liste_nombres(int, liste_nombres*)
+  0.00      9.55     0.00       26     0.00     0.00  new_liste_nombres()
+  0.00      9.55     0.00       25     0.00     0.00  u_read_int(_IO_FILE*)
+  0.00      9.55     0.00       24     0.00     0.00  free_liste_nombres(liste_nombres*)
+  0.00      9.55     0.00       24     0.00     0.00  compute_dependences_for_subgraph(automate_fst2*, int, liste_nombres**)
+  0.00      9.55     0.00        4     0.00     0.00  decomposer_angles_etiquette_fst2(etiq_*)
+  0.00      9.55     0.00        2     0.00     0.00  u_fopen(char*, char*)
+  0.00      9.55     0.00        2     0.00     0.00  u_fclose(_IO_FILE*)
+  0.00      9.55     0.00        1     0.00     0.12  global constructors keyed to tab_is_letter
+  0.00      9.55     0.00        1     0.00     0.00  setBufferMode()
+  0.00      9.55     0.00        1     0.00     0.00  init_resultat_det(etat_fst_det**, noeud_valeur_det*, int)
+  0.00      9.55     0.00        1     0.00     0.00  liberer_arbre_det(noeud_valeur_det*)
+  0.00      9.55     0.00        1     0.00     0.00  new_Automate_fst2()
+  0.00      9.55     0.00        1     0.00     0.02  flatten_main_graph(automate_fst2*, int, flattened_main_graph_info*, int)
+  0.00      9.55     0.00        1     0.00     0.00  compute_dependences(automate_fst2*)
+  0.00      9.55     0.00        1     0.00     0.00  copy_tags_into_file(automate_fst2*, _IO_FILE*)
+  0.00      9.55     0.00        1     0.00     0.26  eliminer_etats_comp(etat_comp**, int*)
+  0.00      9.55     0.00        1     0.00     0.00  init_graphe_mat_det(etat_fst_det**)
+  0.00      9.55     0.00        1     0.00     0.00  save_graphs_to_keep(automate_fst2*, _IO_FILE*)
+  0.00      9.55     0.00        1     0.00     0.00  lire_etiquettes_fst2(_IO_FILE*)
+  0.00      9.55     0.00        1     0.00     0.00  initialiser_etiquettes()
+  0.00      9.55     0.00        1     0.00     0.00  liberer_liste_variables(variable_list*)
+  0.00      9.55     0.00        1     0.00     0.00  renumber_graphs_to_keep(automate_fst2*)
+  0.00      9.55     0.00        1     0.00     0.00  check_for_graphs_to_keep(automate_fst2*, int)
+  0.00      9.55     0.00        1     0.00     0.00  lire_etats_fst2_avec_noms(_IO_FILE*)
+  0.00      9.55     0.00        1     0.00     0.04  initialiser_variables_fst2()
+  0.00      9.55     0.00        1     0.00     0.00  new_flattened_main_graph_info()
+  0.00      9.55     0.00        1     0.00     0.20  free_flattened_main_graph_info(flattened_main_graph_info*)
+  0.00      9.55     0.00        1     0.00     0.27  virer_epsilon_transitions_comp(etat_comp**, int)
+  0.00      9.55     0.00        1     0.00     0.00  check_if_subgraphs_must_be_kept(int, int, int)
+  0.00      9.55     0.00        1     0.00     0.12  __static_initialization_and_destruction_0(int, int)
+  0.00      9.55     0.00        1     0.00     0.00  resize(automate_fst2*)
+  0.00      9.55     0.00        1     0.00     0.00  u_fputc(int, _IO_FILE*)
+  0.00      9.55     0.00        1     0.00     0.00  free_fst2(automate_fst2*)
+  0.00      9.55     0.00        1     0.00     0.04  load_fst2(char*, int)
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+ 
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this 
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+		     Aufrufgraph (Erklärung folgt)
+
+
+Granularität: jeder Stichprobentreffer deckt 2 Byte(s) ab für 0.10% von 9.55 Sekunden
+
+Index % Zeit   Selb. Kinder      aufgerufen Name
+                                                 <spontan>
+[1]     98.0    0.00    9.36                 main [1]
+                0.01    9.31       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+                0.00    0.04       1/1           load_fst2(char*, int) [34]
+                0.00    0.00       1/1           setBufferMode() [119]
+                0.00    0.00       1/1           free_fst2(automate_fst2*) [133]
+-----------------------------------------------
+                0.01    9.31       1/1           main [1]
+[2]     97.5    0.01    9.31       1         flatten_fst2(automate_fst2*, int, char*, int) [2]
+                0.77    7.74       1/1           determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+                0.00    0.27       1/1           virer_epsilon_transitions_comp(etat_comp**, int) [12]
+                0.00    0.26       1/1           eliminer_etats_comp(etat_comp**, int*) [14]
+                0.00    0.20       1/1           free_flattened_main_graph_info(flattened_main_graph_info*) [18]
+                0.00    0.02       1/1           flatten_main_graph(automate_fst2*, int, flattened_main_graph_info*, int) [39]
+                0.01    0.01       1/1           compute_reverse_transitions_of_main_graph(flattened_main_graph_info*) [41]
+                0.01    0.00       3/3           co_accessibilite_comp(etat_comp**, int) [52]
+                0.01    0.00       1/1           accessibilite_comp(etat_comp**, int) [54]
+                0.00    0.00       1/1           copy_tags_into_file(automate_fst2*, _IO_FILE*) [66]
+                0.00    0.00       2/1467348     u_fprints_char(char*, _IO_FILE*) [7]
+                0.00    0.00       1/609         u_fprints(unsigned short*, _IO_FILE*) [69]
+                0.00    0.00       1/2           u_fopen(char*, char*) [71]
+                0.00    0.00      24/24          free_liste_nombres(liste_nombres*) [115]
+                0.00    0.00       1/1           compute_dependences(automate_fst2*) [121]
+                0.00    0.00       1/1           check_for_graphs_to_keep(automate_fst2*, int) [128]
+                0.00    0.00       1/1           renumber_graphs_to_keep(automate_fst2*) [127]
+                0.00    0.00       1/1           new_flattened_main_graph_info() [130]
+                0.00    0.00       1/1           save_graphs_to_keep(automate_fst2*, _IO_FILE*) [123]
+                0.00    0.00       1/2           u_fclose(_IO_FILE*) [118]
+-----------------------------------------------
+                0.77    7.74       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[3]     89.1    0.77    7.74       1         determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+                0.15    5.46 1466129/1466130     numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [4]
+                0.06    0.88   17900/17900       sauvegarder_etat_det(_IO_FILE*, etat_fst_det*) [6]
+                0.41    0.23 6780101/6780102     ajouter_etat_dans_ensemble_det(int, char_etats_det**) [9]
+                0.21    0.00   17900/17900       init_hachage_det(int*) [16]
+                0.10    0.08 1466129/1466129     ajouter_transition_mat_det(etat_fst_det*, int, int) [20]
+                0.04    0.02 1466519/1484419     liberer_char_etat_det(char_etats_det*) [29]
+                0.00    0.05   17900/17900       liberer_etat_det(etat_fst_det*) [32]
+                0.03    0.00   17899/17899       copie_det(char_etats_det*) [37]
+                0.01    0.00       1/1           init_stock_det(char_etats_det**) [53]
+                0.00    0.00       1/1           liberer_arbre_det(noeud_valeur_det*) [60]
+                0.00    0.00   17899/17900       nouvel_etat_mat_det() [67]
+                0.00    0.00       1/1           init_resultat_det(etat_fst_det**, noeud_valeur_det*, int) [70]
+                0.00    0.00       1/1467348     u_fprints_char(char*, _IO_FILE*) [7]
+                0.00    0.00       1/46624       nouveau_noeud_valeur_det() [44]
+                0.00    0.00       1/1           init_graphe_mat_det(etat_fst_det**) [122]
+-----------------------------------------------
+                             2274724             numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [4]
+                0.00    0.00       1/1466130     init_resultat_det(etat_fst_det**, noeud_valeur_det*, int) [70]
+                0.15    5.46 1466129/1466130     determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[4]     58.7    0.15    5.46 1466130+2274724 numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [4]
+                4.84    0.00 2274724/2274724     get_sous_noeud_num_char_det(int, noeud_valeur_det*) [5]
+                0.59    0.03 2274724/2274724     get_sous_noeud_valeur_det(int, noeud_num_char_det*) [10]
+                             2274724             numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [4]
+-----------------------------------------------
+                4.84    0.00 2274724/2274724     numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [4]
+[5]     50.7    4.84    0.00 2274724         get_sous_noeud_num_char_det(int, noeud_valeur_det*) [5]
+                0.00    0.00   39515/39515       nouvelle_liste_branches_num_char_det() [63]
+                0.00    0.00   39515/39515       nouveau_noeud_num_char_det() [62]
+-----------------------------------------------
+                0.06    0.88   17900/17900       determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[6]      9.8    0.06    0.88   17900         sauvegarder_etat_det(_IO_FILE*, etat_fst_det*) [6]
+                0.23    0.65 1466129/1467348     u_fprints_char(char*, _IO_FILE*) [7]
+                0.00    0.00   53700/12624128     u_fputc(unsigned short, _IO_FILE*) [8]
+-----------------------------------------------
+                0.00    0.00       1/1467348     determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+                0.00    0.00       2/1467348     flatten_fst2(automate_fst2*, int, char*, int) [2]
+                0.00    0.00    1216/1467348     copy_tags_into_file(automate_fst2*, _IO_FILE*) [66]
+                0.23    0.65 1466129/1467348     sauvegarder_etat_det(_IO_FILE*, etat_fst_det*) [6]
+[7]      9.2    0.23    0.65 1467348         u_fprints_char(char*, _IO_FILE*) [7]
+                0.65    0.00 12568783/12624128     u_fputc(unsigned short, _IO_FILE*) [8]
+-----------------------------------------------
+                0.00    0.00       1/12624128     u_fputc(int, _IO_FILE*) [72]
+                0.00    0.00    1644/12624128     u_fprints(unsigned short*, _IO_FILE*) [69]
+                0.00    0.00   53700/12624128     sauvegarder_etat_det(_IO_FILE*, etat_fst_det*) [6]
+                0.65    0.00 12568783/12624128     u_fprints_char(char*, _IO_FILE*) [7]
+[8]      6.8    0.65    0.00 12624128         u_fputc(unsigned short, _IO_FILE*) [8]
+-----------------------------------------------
+                0.00    0.00       1/6780102     init_resultat_det(etat_fst_det**, noeud_valeur_det*, int) [70]
+                0.41    0.23 6780101/6780102     determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[9]      6.7    0.41    0.23 6780102         ajouter_etat_dans_ensemble_det(int, char_etats_det**) [9]
+                0.17    0.07 2274724/2274724     nouveau_char_etats_det() [15]
+-----------------------------------------------
+                0.59    0.03 2274724/2274724     numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [4]
+[10]     6.5    0.59    0.03 2274724         get_sous_noeud_valeur_det(int, noeud_num_char_det*) [10]
+                0.02    0.00   46623/46623       nouvelle_liste_branches_valeur_det() [42]
+                0.01    0.00   46623/46624       nouveau_noeud_valeur_det() [44]
+-----------------------------------------------
+                              652332             vider_epsilon_comp(transition_comp*, etat_comp**, int) [11]
+                0.14    0.13   11103/11103       virer_epsilon_transitions_comp(etat_comp**, int) [12]
+[11]     2.8    0.14    0.13   11103+652332  vider_epsilon_comp(transition_comp*, etat_comp**, int) [11]
+                0.07    0.04 1211468/1304664     nouvelle_transition_comp() [27]
+                0.03    0.00    3136/3136        degager_transition_inverse_comp(transition_comp*, int) [38]
+                0.00    0.00    3136/5314533     free_comp(void*) [30]
+                              652332             vider_epsilon_comp(transition_comp*, etat_comp**, int) [11]
+-----------------------------------------------
+                0.00    0.27       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[12]     2.8    0.00    0.27       1         virer_epsilon_transitions_comp(etat_comp**, int) [12]
+                0.14    0.13   11103/11103       vider_epsilon_comp(transition_comp*, etat_comp**, int) [11]
+-----------------------------------------------
+                             1298392             vider_trans_reciproques_comp(transition_comp*, etat_comp**) [13]
+                0.26    0.00   22206/22206       eliminer_etats_comp(etat_comp**, int*) [14]
+[13]     2.7    0.26    0.00   22206+1298392 vider_trans_reciproques_comp(transition_comp*, etat_comp**) [13]
+                             1298392             vider_trans_reciproques_comp(transition_comp*, etat_comp**) [13]
+-----------------------------------------------
+                0.00    0.26       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[14]     2.7    0.00    0.26       1         eliminer_etats_comp(etat_comp**, int*) [14]
+                0.26    0.00   22206/22206       vider_trans_reciproques_comp(transition_comp*, etat_comp**) [13]
+                0.00    0.00   11103/11103       est_a_virer_comp(etat_comp*) [97]
+-----------------------------------------------
+                0.17    0.07 2274724/2274724     ajouter_etat_dans_ensemble_det(int, char_etats_det**) [9]
+[15]     2.4    0.17    0.07 2274724         nouveau_char_etats_det() [15]
+                0.07    0.00 2274724/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.21    0.00   17900/17900       determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[16]     2.2    0.21    0.00   17900         init_hachage_det(int*) [16]
+-----------------------------------------------
+                0.00    0.20   11103/11103       free_flattened_main_graph_info(flattened_main_graph_info*) [18]
+[17]     2.1    0.00    0.20   11103         liberer_etat_graphe_comp(etat_comp*) [17]
+                0.19    0.01   22206/22206       vider_transitions_comp(transition_comp*) [19]
+                0.00    0.00   11103/5314533     free_comp(void*) [30]
+-----------------------------------------------
+                0.00    0.20       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[18]     2.1    0.00    0.20       1         free_flattened_main_graph_info(flattened_main_graph_info*) [18]
+                0.00    0.20   11103/11103       liberer_etat_graphe_comp(etat_comp*) [17]
+-----------------------------------------------
+                             1298392             vider_transitions_comp(transition_comp*) [19]
+                0.19    0.01   22206/22206       liberer_etat_graphe_comp(etat_comp*) [17]
+[19]     2.1    0.19    0.01   22206+1298392 vider_transitions_comp(transition_comp*) [19]
+                0.01    0.00 1298392/5314533     free_comp(void*) [30]
+                             1298392             vider_transitions_comp(transition_comp*) [19]
+-----------------------------------------------
+                0.10    0.08 1466129/1466129     determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[20]     1.9    0.10    0.08 1466129         ajouter_transition_mat_det(etat_fst_det*, int, int) [20]
+                0.04    0.04 1466129/1466129     nouvelle_transition_mat_det() [28]
+-----------------------------------------------
+                0.00    0.00   11103/5314533     nouvel_etat_comp() [68]
+                0.00    0.00   17900/5314533     nouvel_etat_mat_det() [67]
+                0.00    0.00   39515/5314533     nouveau_noeud_num_char_det() [62]
+                0.00    0.00   39515/5314533     nouvelle_liste_branches_num_char_det() [63]
+                0.00    0.00   46623/5314533     nouvelle_liste_branches_valeur_det() [42]
+                0.00    0.00   46624/5314533     nouveau_noeud_valeur_det() [44]
+                0.00    0.00   67736/5314533     copie_det(char_etats_det*) [37]
+                0.04    0.00 1304664/5314533     nouvelle_transition_comp() [27]
+                0.04    0.00 1466129/5314533     nouvelle_transition_mat_det() [28]
+                0.07    0.00 2274724/5314533     nouveau_char_etats_det() [15]
+[21]     1.6    0.16    0.00 5314533         malloc_comp(int) [21]
+-----------------------------------------------
+                0.00    0.12       1/1           __do_global_ctors_aux [25]
+[22]     1.3    0.00    0.12       1         global constructors keyed to tab_is_letter [22]
+                0.00    0.12       1/1           __static_initialization_and_destruction_0(int, int) [24]
+-----------------------------------------------
+                0.01    0.11       1/1           __static_initialization_and_destruction_0(int, int) [24]
+[23]     1.3    0.01    0.11       1         init_unicode_table() [23]
+                0.03    0.08   65536/65536       u_is_letter_internal(unsigned short) [26]
+-----------------------------------------------
+                0.00    0.12       1/1           global constructors keyed to tab_is_letter [22]
+[24]     1.3    0.00    0.12       1         __static_initialization_and_destruction_0(int, int) [24]
+                0.01    0.11       1/1           init_unicode_table() [23]
+-----------------------------------------------
+                                                 <spontan>
+[25]     1.3    0.00    0.12                 __do_global_ctors_aux [25]
+                0.00    0.12       1/1           global constructors keyed to tab_is_letter [22]
+-----------------------------------------------
+                0.03    0.08   65536/65536       init_unicode_table() [23]
+[26]     1.2    0.03    0.08   65536         u_is_letter_internal(unsigned short) [26]
+                0.01    0.00   65116/65116       u_is_IPA_extensions_letter(unsigned short) [45]
+                0.01    0.00   64301/64301       u_is_bengali_letter(unsigned short) [46]
+                0.01    0.00   64111/64111       u_is_oriya_letter(unsigned short) [47]
+                0.01    0.00   63944/63944       u_is_kannada_letter(unsigned short) [48]
+                0.01    0.00   63879/63879       u_is_malayalam_letter(unsigned short) [49]
+                0.01    0.00   63739/63739       u_is_thai_letter(unsigned short) [50]
+                0.01    0.00   63670/63670       u_is_greek_extended_letter(unsigned short) [51]
+                0.01    0.00   64236/64236       u_is_gurmukhi_letter(unsigned short) [57]
+                0.01    0.00   64173/64173       u_is_gujarati_letter(unsigned short) [58]
+                0.00    0.00   65536/65536       u_is_basic_latin_letter(unsigned short) [79]
+                0.00    0.00   65484/65484       u_is_latin1_supplement_letter(unsigned short) [80]
+                0.00    0.00   65422/65422       u_is_latin_extendedA_letter(unsigned short) [81]
+                0.00    0.00   65294/65294       u_is_latin_extendedB_letter(unsigned short) [82]
+                0.00    0.00   65022/65022       u_is_greek_letter(unsigned short) [83]
+                0.00    0.00   64917/64917       u_is_cyrillic_letter(unsigned short) [84]
+                0.00    0.00   64686/64686       u_is_armenian_letter(unsigned short) [85]
+                0.00    0.00   64609/64609       u_is_hebrew_letter(unsigned short) [86]
+                0.00    0.00   64579/64579       u_is_arabic_letter(unsigned short) [87]
+                0.00    0.00   64440/64440       u_is_thaana_letter(unsigned short) [88]
+                0.00    0.00   64402/64402       u_is_devanagari_letter(unsigned short) [89]
+                0.00    0.00   64051/64051       u_is_tamil_letter(unsigned short) [90]
+                0.00    0.00   64006/64006       u_is_telugu_letter(unsigned short) [91]
+                0.00    0.00   63815/63815       u_is_sinhala_letter(unsigned short) [92]
+                0.00    0.00   63453/63453       u_is_korea_syllabe_letter(unsigned short) [93]
+                0.00    0.00   52269/52269       u_is_CJK_Unified_Ideographs(unsigned short) [94]
+                0.00    0.00   31277/31277       u_is_cjk_compatibility_ideographs(unsigned short) [95]
+-----------------------------------------------
+                0.00    0.00      26/1304664     flatten_main_graph(automate_fst2*, int, flattened_main_graph_info*, int) [39]
+                0.00    0.00   46572/1304664     flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*) [40]
+                0.00    0.00   46598/1304664     add_reverse_transition_to_state(int, int, etat_comp*) [43]
+                0.07    0.04 1211468/1304664     vider_epsilon_comp(transition_comp*, etat_comp**, int) [11]
+[27]     1.1    0.07    0.04 1304664         nouvelle_transition_comp() [27]
+                0.04    0.00 1304664/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.04    0.04 1466129/1466129     ajouter_transition_mat_det(etat_fst_det*, int, int) [20]
+[28]     0.9    0.04    0.04 1466129         nouvelle_transition_mat_det() [28]
+                0.04    0.00 1466129/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.00    0.00   17900/1484419     liberer_etat_det(etat_fst_det*) [32]
+                0.04    0.02 1466519/1484419     determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[29]     0.7    0.05    0.02 1484419         liberer_char_etat_det(char_etats_det*) [29]
+                0.02    0.00 2342460/5314533     free_comp(void*) [30]
+-----------------------------------------------
+                0.00    0.00       1/5314533     liberer_arbre_det(noeud_valeur_det*) [60]
+                0.00    0.00    3136/5314533     degager_transition_inverse_comp(transition_comp*, int) [38]
+                0.00    0.00    3136/5314533     vider_epsilon_comp(transition_comp*, etat_comp**, int) [11]
+                0.00    0.00   11103/5314533     liberer_etat_graphe_comp(etat_comp*) [17]
+                0.00    0.00   17900/5314533     liberer_etat_det(etat_fst_det*) [32]
+                0.00    0.00   79030/5314533     vider_noeud_valeur_det(noeud_valeur_det*) <Zyklus 1> [65]
+                0.00    0.00   93246/5314533     vider_noeud_num_char_det(noeud_num_char_det*) <Zyklus 1> [64]
+                0.01    0.00 1298392/5314533     vider_transitions_comp(transition_comp*) [19]
+                0.02    0.00 1466129/5314533     liberer_transition_mat_det(transition_fst_det*) [33]
+                0.02    0.00 2342460/5314533     liberer_char_etat_det(char_etats_det*) [29]
+[30]     0.6    0.06    0.00 5314533         free_comp(void*) [30]
+-----------------------------------------------
+                                                 <spontan>
+[31]     0.5    0.05    0.00                 u_fwrite(unsigned short*, int, _IO_FILE*) [31]
+-----------------------------------------------
+                0.00    0.05   17900/17900       determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[32]     0.5    0.00    0.05   17900         liberer_etat_det(etat_fst_det*) [32]
+                0.03    0.02   17900/17900       liberer_transition_mat_det(transition_fst_det*) [33]
+                0.00    0.00   17900/1484419     liberer_char_etat_det(char_etats_det*) [29]
+                0.00    0.00   17900/5314533     free_comp(void*) [30]
+-----------------------------------------------
+                0.03    0.02   17900/17900       liberer_etat_det(etat_fst_det*) [32]
+[33]     0.5    0.03    0.02   17900         liberer_transition_mat_det(transition_fst_det*) [33]
+                0.02    0.00 1466129/5314533     free_comp(void*) [30]
+-----------------------------------------------
+                0.00    0.04       1/1           main [1]
+[34]     0.4    0.00    0.04       1         load_fst2(char*, int) [34]
+                0.00    0.04       1/1           initialiser_variables_fst2() [36]
+                0.00    0.00       1/2           u_fopen(char*, char*) [71]
+                0.00    0.00       1/1           new_Automate_fst2() [120]
+                0.00    0.00       1/25          u_read_int(_IO_FILE*) [114]
+                0.00    0.00       1/1           lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+                0.00    0.00       1/1           lire_etiquettes_fst2(_IO_FILE*) [124]
+                0.00    0.00       1/2           u_fclose(_IO_FILE*) [118]
+                0.00    0.00       1/1           resize(automate_fst2*) [132]
+-----------------------------------------------
+                0.04    0.00       1/1           initialiser_variables_fst2() [36]
+[35]     0.4    0.04    0.00       1         initialiser_graphe_fst2() [35]
+-----------------------------------------------
+                0.00    0.04       1/1           load_fst2(char*, int) [34]
+[36]     0.4    0.00    0.04       1         initialiser_variables_fst2() [36]
+                0.04    0.00       1/1           initialiser_graphe_fst2() [35]
+                0.00    0.00       1/1           initialiser_etiquettes() [125]
+-----------------------------------------------
+                               67736             copie_det(char_etats_det*) [37]
+                0.03    0.00   17899/17899       determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[37]     0.3    0.03    0.00   17899+67736   copie_det(char_etats_det*) [37]
+                0.00    0.00   67736/5314533     malloc_comp(int) [21]
+                               67736             copie_det(char_etats_det*) [37]
+-----------------------------------------------
+                               97024             degager_transition_inverse_comp(transition_comp*, int) [38]
+                0.03    0.00    3136/3136        vider_epsilon_comp(transition_comp*, etat_comp**, int) [11]
+[38]     0.3    0.03    0.00    3136+97024   degager_transition_inverse_comp(transition_comp*, int) [38]
+                0.00    0.00    3136/5314533     free_comp(void*) [30]
+                               97024             degager_transition_inverse_comp(transition_comp*, int) [38]
+-----------------------------------------------
+                0.00    0.02       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[39]     0.3    0.00    0.02       1         flatten_main_graph(automate_fst2*, int, flattened_main_graph_info*, int) [39]
+                0.02    0.00       9/9           flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*) [40]
+                0.00    0.00      26/1304664     nouvelle_transition_comp() [27]
+                0.00    0.00      11/11103       nouvel_etat_comp() [68]
+-----------------------------------------------
+                                 442             flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*) [40]
+                0.02    0.00       9/9           flatten_main_graph(automate_fst2*, int, flattened_main_graph_info*, int) [39]
+[40]     0.3    0.02    0.00       9+442     flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*) [40]
+                0.00    0.00   46572/1304664     nouvelle_transition_comp() [27]
+                0.00    0.00   11092/11103       nouvel_etat_comp() [68]
+                                 442             flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*) [40]
+-----------------------------------------------
+                0.01    0.01       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[41]     0.2    0.01    0.01       1         compute_reverse_transitions_of_main_graph(flattened_main_graph_info*) [41]
+                0.01    0.00   46598/46598       add_reverse_transition_to_state(int, int, etat_comp*) [43]
+-----------------------------------------------
+                0.02    0.00   46623/46623       get_sous_noeud_valeur_det(int, noeud_num_char_det*) [10]
+[42]     0.2    0.02    0.00   46623         nouvelle_liste_branches_valeur_det() [42]
+                0.00    0.00   46623/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.01    0.00   46598/46598       compute_reverse_transitions_of_main_graph(flattened_main_graph_info*) [41]
+[43]     0.1    0.01    0.00   46598         add_reverse_transition_to_state(int, int, etat_comp*) [43]
+                0.00    0.00   46598/1304664     nouvelle_transition_comp() [27]
+-----------------------------------------------
+                0.00    0.00       1/46624       determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+                0.01    0.00   46623/46624       get_sous_noeud_valeur_det(int, noeud_num_char_det*) [10]
+[44]     0.1    0.01    0.00   46624         nouveau_noeud_valeur_det() [44]
+                0.00    0.00   46624/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.01    0.00   65116/65116       u_is_letter_internal(unsigned short) [26]
+[45]     0.1    0.01    0.00   65116         u_is_IPA_extensions_letter(unsigned short) [45]
+-----------------------------------------------
+                0.01    0.00   64301/64301       u_is_letter_internal(unsigned short) [26]
+[46]     0.1    0.01    0.00   64301         u_is_bengali_letter(unsigned short) [46]
+-----------------------------------------------
+                0.01    0.00   64111/64111       u_is_letter_internal(unsigned short) [26]
+[47]     0.1    0.01    0.00   64111         u_is_oriya_letter(unsigned short) [47]
+-----------------------------------------------
+                0.01    0.00   63944/63944       u_is_letter_internal(unsigned short) [26]
+[48]     0.1    0.01    0.00   63944         u_is_kannada_letter(unsigned short) [48]
+-----------------------------------------------
+                0.01    0.00   63879/63879       u_is_letter_internal(unsigned short) [26]
+[49]     0.1    0.01    0.00   63879         u_is_malayalam_letter(unsigned short) [49]
+-----------------------------------------------
+                0.01    0.00   63739/63739       u_is_letter_internal(unsigned short) [26]
+[50]     0.1    0.01    0.00   63739         u_is_thai_letter(unsigned short) [50]
+-----------------------------------------------
+                0.01    0.00   63670/63670       u_is_letter_internal(unsigned short) [26]
+[51]     0.1    0.01    0.00   63670         u_is_greek_extended_letter(unsigned short) [51]
+-----------------------------------------------
+                               46598             co_accessibilite_comp(etat_comp**, int) [52]
+                0.01    0.00       3/3           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[52]     0.1    0.01    0.00       3+46598   co_accessibilite_comp(etat_comp**, int) [52]
+                               46598             co_accessibilite_comp(etat_comp**, int) [52]
+-----------------------------------------------
+                0.01    0.00       1/1           determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[53]     0.1    0.01    0.00       1         init_stock_det(char_etats_det**) [53]
+-----------------------------------------------
+                               46598             accessibilite_comp(etat_comp**, int) [54]
+                0.01    0.00       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[54]     0.1    0.01    0.00       1+46598   accessibilite_comp(etat_comp**, int) [54]
+                               46598             accessibilite_comp(etat_comp**, int) [54]
+-----------------------------------------------
+                                                 <spontan>
+[55]     0.1    0.01    0.00                 u_fprints_html(unsigned short*, _IO_FILE*) [55]
+-----------------------------------------------
+                                                 <spontan>
+[56]     0.1    0.01    0.00                 toupper(unsigned char) [56]
+-----------------------------------------------
+                0.01    0.00   64236/64236       u_is_letter_internal(unsigned short) [26]
+[57]     0.1    0.01    0.00   64236         u_is_gurmukhi_letter(unsigned short) [57]
+-----------------------------------------------
+                0.01    0.00   64173/64173       u_is_letter_internal(unsigned short) [26]
+[58]     0.1    0.01    0.00   64173         u_is_gujarati_letter(unsigned short) [58]
+-----------------------------------------------
+                                                 <spontan>
+[59]     0.1    0.01    0.00                 supprimer_transitioninv_comp(etat_comp**, int, transition_comp*) [59]
+-----------------------------------------------
+                0.00    0.00       1/1           determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[60]     0.0    0.00    0.00       1         liberer_arbre_det(noeud_valeur_det*) [60]
+                0.00    0.00       1/1           vider_noeud_valeur_det(noeud_valeur_det*) <Zyklus 1> [65]
+                0.00    0.00       1/5314533     free_comp(void*) [30]
+-----------------------------------------------
+[61]     0.0    0.00    0.00       1+86138   <Zyklus 1 als Ganzes> [61]
+                0.00    0.00   46624             vider_noeud_valeur_det(noeud_valeur_det*) <Zyklus 1> [65]
+-----------------------------------------------
+                0.00    0.00   39515/39515       get_sous_noeud_num_char_det(int, noeud_valeur_det*) [5]
+[62]     0.0    0.00    0.00   39515         nouveau_noeud_num_char_det() [62]
+                0.00    0.00   39515/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.00    0.00   39515/39515       get_sous_noeud_num_char_det(int, noeud_valeur_det*) [5]
+[63]     0.0    0.00    0.00   39515         nouvelle_liste_branches_num_char_det() [63]
+                0.00    0.00   39515/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                               39515             vider_noeud_valeur_det(noeud_valeur_det*) <Zyklus 1> [65]
+[64]     0.0    0.00    0.00   39515         vider_noeud_num_char_det(noeud_num_char_det*) <Zyklus 1> [64]
+                0.00    0.00   93246/5314533     free_comp(void*) [30]
+                               46623             vider_noeud_valeur_det(noeud_valeur_det*) <Zyklus 1> [65]
+-----------------------------------------------
+                               46623             vider_noeud_num_char_det(noeud_num_char_det*) <Zyklus 1> [64]
+                0.00    0.00       1/1           liberer_arbre_det(noeud_valeur_det*) [60]
+[65]     0.0    0.00    0.00   46624         vider_noeud_valeur_det(noeud_valeur_det*) <Zyklus 1> [65]
+                0.00    0.00   79030/5314533     free_comp(void*) [30]
+                               39515             vider_noeud_num_char_det(noeud_num_char_det*) <Zyklus 1> [64]
+-----------------------------------------------
+                0.00    0.00       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[66]     0.0    0.00    0.00       1         copy_tags_into_file(automate_fst2*, _IO_FILE*) [66]
+                0.00    0.00    1216/1467348     u_fprints_char(char*, _IO_FILE*) [7]
+                0.00    0.00     608/609         u_fprints(unsigned short*, _IO_FILE*) [69]
+-----------------------------------------------
+                0.00    0.00       1/17900       init_resultat_det(etat_fst_det**, noeud_valeur_det*, int) [70]
+                0.00    0.00   17899/17900       determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[67]     0.0    0.00    0.00   17900         nouvel_etat_mat_det() [67]
+                0.00    0.00   17900/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.00    0.00      11/11103       flatten_main_graph(automate_fst2*, int, flattened_main_graph_info*, int) [39]
+                0.00    0.00   11092/11103       flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*) [40]
+[68]     0.0    0.00    0.00   11103         nouvel_etat_comp() [68]
+                0.00    0.00   11103/5314533     malloc_comp(int) [21]
+-----------------------------------------------
+                0.00    0.00       1/609         flatten_fst2(automate_fst2*, int, char*, int) [2]
+                0.00    0.00     608/609         copy_tags_into_file(automate_fst2*, _IO_FILE*) [66]
+[69]     0.0    0.00    0.00     609         u_fprints(unsigned short*, _IO_FILE*) [69]
+                0.00    0.00    1644/12624128     u_fputc(unsigned short, _IO_FILE*) [8]
+-----------------------------------------------
+                0.00    0.00       1/1           determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[70]     0.0    0.00    0.00       1         init_resultat_det(etat_fst_det**, noeud_valeur_det*, int) [70]
+                0.00    0.00       1/1466130     numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [4]
+                0.00    0.00       1/6780102     ajouter_etat_dans_ensemble_det(int, char_etats_det**) [9]
+                0.00    0.00       1/17900       nouvel_etat_mat_det() [67]
+-----------------------------------------------
+                0.00    0.00       1/2           load_fst2(char*, int) [34]
+                0.00    0.00       1/2           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[71]     0.0    0.00    0.00       2         u_fopen(char*, char*) [71]
+                0.00    0.00       1/1           u_fputc(int, _IO_FILE*) [72]
+                0.00    0.00       1/12919       u_fgetc(_IO_FILE*) [96]
+-----------------------------------------------
+                0.00    0.00       1/1           u_fopen(char*, char*) [71]
+[72]     0.0    0.00    0.00       1         u_fputc(int, _IO_FILE*) [72]
+                0.00    0.00       1/12624128     u_fputc(unsigned short, _IO_FILE*) [8]
+-----------------------------------------------
+                0.00    0.00   65536/65536       u_is_letter_internal(unsigned short) [26]
+[79]     0.0    0.00    0.00   65536         u_is_basic_latin_letter(unsigned short) [79]
+-----------------------------------------------
+                0.00    0.00   65484/65484       u_is_letter_internal(unsigned short) [26]
+[80]     0.0    0.00    0.00   65484         u_is_latin1_supplement_letter(unsigned short) [80]
+-----------------------------------------------
+                0.00    0.00   65422/65422       u_is_letter_internal(unsigned short) [26]
+[81]     0.0    0.00    0.00   65422         u_is_latin_extendedA_letter(unsigned short) [81]
+-----------------------------------------------
+                0.00    0.00   65294/65294       u_is_letter_internal(unsigned short) [26]
+[82]     0.0    0.00    0.00   65294         u_is_latin_extendedB_letter(unsigned short) [82]
+-----------------------------------------------
+                0.00    0.00   65022/65022       u_is_letter_internal(unsigned short) [26]
+[83]     0.0    0.00    0.00   65022         u_is_greek_letter(unsigned short) [83]
+-----------------------------------------------
+                0.00    0.00   64917/64917       u_is_letter_internal(unsigned short) [26]
+[84]     0.0    0.00    0.00   64917         u_is_cyrillic_letter(unsigned short) [84]
+-----------------------------------------------
+                0.00    0.00   64686/64686       u_is_letter_internal(unsigned short) [26]
+[85]     0.0    0.00    0.00   64686         u_is_armenian_letter(unsigned short) [85]
+-----------------------------------------------
+                0.00    0.00   64609/64609       u_is_letter_internal(unsigned short) [26]
+[86]     0.0    0.00    0.00   64609         u_is_hebrew_letter(unsigned short) [86]
+-----------------------------------------------
+                0.00    0.00   64579/64579       u_is_letter_internal(unsigned short) [26]
+[87]     0.0    0.00    0.00   64579         u_is_arabic_letter(unsigned short) [87]
+-----------------------------------------------
+                0.00    0.00   64440/64440       u_is_letter_internal(unsigned short) [26]
+[88]     0.0    0.00    0.00   64440         u_is_thaana_letter(unsigned short) [88]
+-----------------------------------------------
+                0.00    0.00   64402/64402       u_is_letter_internal(unsigned short) [26]
+[89]     0.0    0.00    0.00   64402         u_is_devanagari_letter(unsigned short) [89]
+-----------------------------------------------
+                0.00    0.00   64051/64051       u_is_letter_internal(unsigned short) [26]
+[90]     0.0    0.00    0.00   64051         u_is_tamil_letter(unsigned short) [90]
+-----------------------------------------------
+                0.00    0.00   64006/64006       u_is_letter_internal(unsigned short) [26]
+[91]     0.0    0.00    0.00   64006         u_is_telugu_letter(unsigned short) [91]
+-----------------------------------------------
+                0.00    0.00   63815/63815       u_is_letter_internal(unsigned short) [26]
+[92]     0.0    0.00    0.00   63815         u_is_sinhala_letter(unsigned short) [92]
+-----------------------------------------------
+                0.00    0.00   63453/63453       u_is_letter_internal(unsigned short) [26]
+[93]     0.0    0.00    0.00   63453         u_is_korea_syllabe_letter(unsigned short) [93]
+-----------------------------------------------
+                0.00    0.00   52269/52269       u_is_letter_internal(unsigned short) [26]
+[94]     0.0    0.00    0.00   52269         u_is_CJK_Unified_Ideographs(unsigned short) [94]
+-----------------------------------------------
+                0.00    0.00   31277/31277       u_is_letter_internal(unsigned short) [26]
+[95]     0.0    0.00    0.00   31277         u_is_cjk_compatibility_ideographs(unsigned short) [95]
+-----------------------------------------------
+                0.00    0.00       1/12919       u_fopen(char*, char*) [71]
+                0.00    0.00      74/12919       u_read_int(_IO_FILE*) [114]
+                0.00    0.00     736/12919       lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+                0.00    0.00    2852/12919       lire_etiquettes_fst2(_IO_FILE*) [124]
+                0.00    0.00    9256/12919       lire_entier_fst2(_IO_FILE*, int*) [99]
+[96]     0.0    0.00    0.00   12919         u_fgetc(_IO_FILE*) [96]
+-----------------------------------------------
+                0.00    0.00   11103/11103       eliminer_etats_comp(etat_comp**, int*) [14]
+[97]     0.0    0.00    0.00   11103         est_a_virer_comp(etat_comp*) [97]
+-----------------------------------------------
+                0.00    0.00      19/3660        decomposer_angles_etiquette_fst2(etiq_*) [117]
+                0.00    0.00    1214/3660        ajouter_etiquette_fst2(unsigned short*) [106]
+                0.00    0.00    2427/3660        creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [105]
+[98]     0.0    0.00    0.00    3660         u_strcmp_char(unsigned short const*, char const*) [98]
+-----------------------------------------------
+                0.00    0.00    3240/3240        lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+[99]     0.0    0.00    0.00    3240         lire_entier_fst2(_IO_FILE*, int*) [99]
+                0.00    0.00    9256/12919       u_fgetc(_IO_FILE*) [96]
+-----------------------------------------------
+                0.00    0.00    2428/2428        creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [105]
+[100]    0.0    0.00    0.00    2428         u_strlen(unsigned short const*) [100]
+-----------------------------------------------
+                0.00    0.00    1415/1415        lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+[101]    0.0    0.00    0.00    1415         ajouter_transition_mat(etat_fst*, int, int) [101]
+                0.00    0.00    1415/1415        nouvelle_transition_mat() [102]
+-----------------------------------------------
+                0.00    0.00    1415/1415        ajouter_transition_mat(etat_fst*, int, int) [101]
+[102]    0.0    0.00    0.00    1415         nouvelle_transition_mat() [102]
+-----------------------------------------------
+                0.00    0.00       1/1239        decomposer_angles_etiquette_fst2(etiq_*) [117]
+                0.00    0.00      24/1239        lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+                0.00    0.00    1214/1239        creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [105]
+[103]    0.0    0.00    0.00    1239         u_strcpy(unsigned short*, unsigned short const*) [103]
+-----------------------------------------------
+                0.00    0.00     607/607         free_fst2(automate_fst2*) [133]
+[104]    0.0    0.00    0.00     607         free_etiquette(etiq_*) [104]
+-----------------------------------------------
+                0.00    0.00     607/607         ajouter_etiquette_fst2(unsigned short*) [106]
+[105]    0.0    0.00    0.00     607         creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [105]
+                0.00    0.00    2428/2428        u_strlen(unsigned short const*) [100]
+                0.00    0.00    2427/3660        u_strcmp_char(unsigned short const*, char const*) [98]
+                0.00    0.00    1214/1239        u_strcpy(unsigned short*, unsigned short const*) [103]
+                0.00    0.00     607/607         nouvelle_etiquette_mat() [107]
+                0.00    0.00       4/4           decomposer_angles_etiquette_fst2(etiq_*) [117]
+-----------------------------------------------
+                0.00    0.00     607/607         lire_etiquettes_fst2(_IO_FILE*) [124]
+[106]    0.0    0.00    0.00     607         ajouter_etiquette_fst2(unsigned short*) [106]
+                0.00    0.00    1214/3660        u_strcmp_char(unsigned short const*, char const*) [98]
+                0.00    0.00     607/607         creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [105]
+-----------------------------------------------
+                0.00    0.00     607/607         creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [105]
+[107]    0.0    0.00    0.00     607         nouvelle_etiquette_mat() [107]
+-----------------------------------------------
+                0.00    0.00     410/410         lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+[108]    0.0    0.00    0.00     410         nouvel_etat() [108]
+-----------------------------------------------
+                0.00    0.00     410/410         free_etat(etat_fst*) [110]
+[109]    0.0    0.00    0.00     410         free_transition(transition_fst*) [109]
+-----------------------------------------------
+                0.00    0.00     410/410         free_fst2(automate_fst2*) [133]
+[110]    0.0    0.00    0.00     410         free_etat(etat_fst*) [110]
+                0.00    0.00     410/410         free_transition(transition_fst*) [109]
+-----------------------------------------------
+                0.00    0.00      74/74          u_read_int(_IO_FILE*) [114]
+[111]    0.0    0.00    0.00      74         u_is_digit(unsigned short) [111]
+-----------------------------------------------
+                                  49             inserer_dans_liste_nombres(int, liste_nombres*) [112]
+                0.00    0.00      55/55          compute_dependences_for_subgraph(automate_fst2*, int, liste_nombres**) [116]
+[112]    0.0    0.00    0.00      55+49      inserer_dans_liste_nombres(int, liste_nombres*) [112]
+                0.00    0.00      26/26          new_liste_nombres() [113]
+                                  49             inserer_dans_liste_nombres(int, liste_nombres*) [112]
+-----------------------------------------------
+                0.00    0.00      26/26          inserer_dans_liste_nombres(int, liste_nombres*) [112]
+[113]    0.0    0.00    0.00      26         new_liste_nombres() [113]
+-----------------------------------------------
+                0.00    0.00       1/25          load_fst2(char*, int) [34]
+                0.00    0.00      24/25          lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+[114]    0.0    0.00    0.00      25         u_read_int(_IO_FILE*) [114]
+                0.00    0.00      74/12919       u_fgetc(_IO_FILE*) [96]
+                0.00    0.00      74/74          u_is_digit(unsigned short) [111]
+-----------------------------------------------
+                0.00    0.00      24/24          flatten_fst2(automate_fst2*, int, char*, int) [2]
+[115]    0.0    0.00    0.00      24         free_liste_nombres(liste_nombres*) [115]
+-----------------------------------------------
+                0.00    0.00      24/24          compute_dependences(automate_fst2*) [121]
+[116]    0.0    0.00    0.00      24         compute_dependences_for_subgraph(automate_fst2*, int, liste_nombres**) [116]
+                0.00    0.00      55/55          inserer_dans_liste_nombres(int, liste_nombres*) [112]
+-----------------------------------------------
+                0.00    0.00       4/4           creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [105]
+[117]    0.0    0.00    0.00       4         decomposer_angles_etiquette_fst2(etiq_*) [117]
+                0.00    0.00      19/3660        u_strcmp_char(unsigned short const*, char const*) [98]
+                0.00    0.00       1/1239        u_strcpy(unsigned short*, unsigned short const*) [103]
+-----------------------------------------------
+                0.00    0.00       1/2           load_fst2(char*, int) [34]
+                0.00    0.00       1/2           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[118]    0.0    0.00    0.00       2         u_fclose(_IO_FILE*) [118]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[119]    0.0    0.00    0.00       1         setBufferMode() [119]
+-----------------------------------------------
+                0.00    0.00       1/1           load_fst2(char*, int) [34]
+[120]    0.0    0.00    0.00       1         new_Automate_fst2() [120]
+-----------------------------------------------
+                0.00    0.00       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[121]    0.0    0.00    0.00       1         compute_dependences(automate_fst2*) [121]
+                0.00    0.00      24/24          compute_dependences_for_subgraph(automate_fst2*, int, liste_nombres**) [116]
+-----------------------------------------------
+                0.00    0.00       1/1           determinisation_new_main_graph(_IO_FILE*, etat_comp**) [3]
+[122]    0.0    0.00    0.00       1         init_graphe_mat_det(etat_fst_det**) [122]
+-----------------------------------------------
+                0.00    0.00       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[123]    0.0    0.00    0.00       1         save_graphs_to_keep(automate_fst2*, _IO_FILE*) [123]
+-----------------------------------------------
+                0.00    0.00       1/1           load_fst2(char*, int) [34]
+[124]    0.0    0.00    0.00       1         lire_etiquettes_fst2(_IO_FILE*) [124]
+                0.00    0.00    2852/12919       u_fgetc(_IO_FILE*) [96]
+                0.00    0.00     607/607         ajouter_etiquette_fst2(unsigned short*) [106]
+-----------------------------------------------
+                0.00    0.00       1/1           initialiser_variables_fst2() [36]
+[125]    0.0    0.00    0.00       1         initialiser_etiquettes() [125]
+-----------------------------------------------
+                0.00    0.00       1/1           free_fst2(automate_fst2*) [133]
+[126]    0.0    0.00    0.00       1         liberer_liste_variables(variable_list*) [126]
+-----------------------------------------------
+                0.00    0.00       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[127]    0.0    0.00    0.00       1         renumber_graphs_to_keep(automate_fst2*) [127]
+-----------------------------------------------
+                0.00    0.00       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[128]    0.0    0.00    0.00       1         check_for_graphs_to_keep(automate_fst2*, int) [128]
+                0.00    0.00       1/1           check_if_subgraphs_must_be_kept(int, int, int) [131]
+-----------------------------------------------
+                0.00    0.00       1/1           load_fst2(char*, int) [34]
+[129]    0.0    0.00    0.00       1         lire_etats_fst2_avec_noms(_IO_FILE*) [129]
+                0.00    0.00    3240/3240        lire_entier_fst2(_IO_FILE*, int*) [99]
+                0.00    0.00    1415/1415        ajouter_transition_mat(etat_fst*, int, int) [101]
+                0.00    0.00     736/12919       u_fgetc(_IO_FILE*) [96]
+                0.00    0.00     410/410         nouvel_etat() [108]
+                0.00    0.00      24/25          u_read_int(_IO_FILE*) [114]
+                0.00    0.00      24/1239        u_strcpy(unsigned short*, unsigned short const*) [103]
+-----------------------------------------------
+                0.00    0.00       1/1           flatten_fst2(automate_fst2*, int, char*, int) [2]
+[130]    0.0    0.00    0.00       1         new_flattened_main_graph_info() [130]
+-----------------------------------------------
+                                  32             check_if_subgraphs_must_be_kept(int, int, int) [131]
+                0.00    0.00       1/1           check_for_graphs_to_keep(automate_fst2*, int) [128]
+[131]    0.0    0.00    0.00       1+32      check_if_subgraphs_must_be_kept(int, int, int) [131]
+                                  32             check_if_subgraphs_must_be_kept(int, int, int) [131]
+-----------------------------------------------
+                0.00    0.00       1/1           load_fst2(char*, int) [34]
+[132]    0.0    0.00    0.00       1         resize(automate_fst2*) [132]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[133]    0.0    0.00    0.00       1         free_fst2(automate_fst2*) [133]
+                0.00    0.00     607/607         free_etiquette(etiq_*) [104]
+                0.00    0.00     410/410         free_etat(etat_fst*) [110]
+                0.00    0.00       1/1           liberer_liste_variables(variable_list*) [126]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+
+Index nach Funktionsnamen
+
+  [22] global constructors keyed to tab_is_letter (unicode.cpp) [46] u_is_bengali_letter(unsigned short) [5] get_sous_noeud_num_char_det(int, noeud_valeur_det*)
+ [111] u_is_digit(unsigned short) [48] u_is_kannada_letter(unsigned short) [28] nouvelle_transition_mat_det()
+ [114] u_read_int(_IO_FILE*)  [92] u_is_sinhala_letter(unsigned short) [94] u_is_CJK_Unified_Ideographs(unsigned short)
+  [21] malloc_comp(int)      [105] creer_etiquette_fst2(int, unsigned short*, unsigned short*, unsigned short*, int) [81] u_is_latin_extendedA_letter(unsigned short)
+ [108] nouvel_etat()         [124] lire_etiquettes_fst2(_IO_FILE*) [82] u_is_latin_extendedB_letter(unsigned short)
+   [2] flatten_fst2(automate_fst2*, int, char*, int) [6] sauvegarder_etat_det(_IO_FILE*, etat_fst_det*) [59] supprimer_transitioninv_comp(etat_comp**, int, transition_comp*)
+ [119] setBufferMode()        [85] u_is_armenian_letter(unsigned short) [13] vider_trans_reciproques_comp(transition_comp*, etat_comp**)
+  [98] u_strcmp_char(unsigned short const*, char const*) [84] u_is_cyrillic_letter(unsigned short) [40] flatten_sub_graph_recursively(automate_fst2*, int, int, int, flattened_main_graph_info*, int, int, int*, int*)
+ [104] free_etiquette(etiq_*) [58] u_is_gujarati_letter(unsigned short) [130] new_flattened_main_graph_info()
+  [53] init_stock_det(char_etats_det**) [57] u_is_gurmukhi_letter(unsigned short) [80] u_is_latin1_supplement_letter(unsigned short)
+   [7] u_fprints_char(char*, _IO_FILE*) [26] u_is_letter_internal(unsigned short) [9] ajouter_etat_dans_ensemble_det(int, char_etats_det**)
+  [55] u_fprints_html(unsigned short*, _IO_FILE*) [52] co_accessibilite_comp(etat_comp**, int) [3] determinisation_new_main_graph(_IO_FILE*, etat_comp**)
+ [109] free_transition(transition_fst*) [29] liberer_char_etat_det(char_etats_det*) [18] free_flattened_main_graph_info(flattened_main_graph_info*)
+  [97] est_a_virer_comp(etat_comp*) [49] u_is_malayalam_letter(unsigned short) [12] virer_epsilon_transitions_comp(etat_comp**, int)
+  [16] init_hachage_det(int*) [106] ajouter_etiquette_fst2(unsigned short*) [43] add_reverse_transition_to_state(int, int, etat_comp*)
+  [32] liberer_etat_det(etat_fst_det*) [101] ajouter_transition_mat(etat_fst*, int, int) [131] check_if_subgraphs_must_be_kept(int, int, int)
+  [99] lire_entier_fst2(_IO_FILE*, int*) [125] initialiser_etiquettes() [38] degager_transition_inverse_comp(transition_comp*, int)
+  [68] nouvel_etat_comp()     [15] nouveau_char_etats_det() [116] compute_dependences_for_subgraph(automate_fst2*, int, liste_nombres**)
+  [50] u_is_thai_letter(unsigned short) [107] nouvelle_etiquette_mat() [117] decomposer_angles_etiquette_fst2(etiq_*)
+  [70] init_resultat_det(etat_fst_det**, noeud_valeur_det*, int) [89] u_is_devanagari_letter(unsigned short) [95] u_is_cjk_compatibility_ideographs(unsigned short)
+  [60] liberer_arbre_det(noeud_valeur_det*) [65] vider_noeud_valeur_det(noeud_valeur_det*) [42] nouvelle_liste_branches_valeur_det()
+ [120] new_Automate_fst2()    [19] vider_transitions_comp(transition_comp*) [63] nouvelle_liste_branches_num_char_det()
+ [113] new_liste_nombres()    [35] initialiser_graphe_fst2() [24] __static_initialization_and_destruction_0(int, int) (unicode.cpp)
+  [83] u_is_greek_letter(unsigned short) [126] liberer_liste_variables(variable_list*) [41] compute_reverse_transitions_of_main_graph(flattened_main_graph_info*)
+  [47] u_is_oriya_letter(unsigned short) [102] nouvelle_transition_mat() [132] resize(automate_fst2*)
+  [90] u_is_tamil_letter(unsigned short) [127] renumber_graphs_to_keep(automate_fst2*) [56] toupper(unsigned char)
+  [54] accessibilite_comp(etat_comp**, int) [79] u_is_basic_latin_letter(unsigned short) [96] u_fgetc(_IO_FILE*)
+  [39] flatten_main_graph(automate_fst2*, int, flattened_main_graph_info*, int) [128] check_for_graphs_to_keep(automate_fst2*, int) [71] u_fopen(char*, char*)
+ [115] free_liste_nombres(liste_nombres*) [17] liberer_etat_graphe_comp(etat_comp*) [72] u_fputc(int, _IO_FILE*)
+  [23] init_unicode_table()   [44] nouveau_noeud_valeur_det() [8] u_fputc(unsigned short, _IO_FILE*)
+  [87] u_is_arabic_letter(unsigned short) [27] nouvelle_transition_comp() [118] u_fclose(_IO_FILE*)
+  [86] u_is_hebrew_letter(unsigned short) [64] vider_noeud_num_char_det(noeud_num_char_det*) [31] u_fwrite(unsigned short*, int, _IO_FILE*)
+  [91] u_is_telugu_letter(unsigned short) [10] get_sous_noeud_valeur_det(int, noeud_num_char_det*) [103] u_strcpy(unsigned short*, unsigned short const*)
+  [88] u_is_thaana_letter(unsigned short) [129] lire_etats_fst2_avec_noms(_IO_FILE*) [100] u_strlen(unsigned short const*)
+  [11] vider_epsilon_comp(transition_comp*, etat_comp**, int) [93] u_is_korea_syllabe_letter(unsigned short) [37] copie_det(char_etats_det*)
+ [121] compute_dependences(automate_fst2*) [20] ajouter_transition_mat_det(etat_fst_det*, int, int) [30] free_comp(void*)
+  [66] copy_tags_into_file(automate_fst2*, _IO_FILE*) [36] initialiser_variables_fst2() [110] free_etat(etat_fst*)
+  [14] eliminer_etats_comp(etat_comp**, int*) [112] inserer_dans_liste_nombres(int, liste_nombres*) [133] free_fst2(automate_fst2*)
+ [122] init_graphe_mat_det(etat_fst_det**) [33] liberer_transition_mat_det(transition_fst_det*) [34] load_fst2(char*, int)
+  [67] nouvel_etat_mat_det()  [62] nouveau_noeud_num_char_det() [69] u_fprints(unsigned short*, _IO_FILE*)
+   [4] numero_ensemble_det(char_etats_det*, noeud_valeur_det*, int) [45] u_is_IPA_extensions_letter(unsigned short) [61] <Zyklus 1>
+ [123] save_graphs_to_keep(automate_fst2*, _IO_FILE*) [51] u_is_greek_extended_letter(unsigned short)

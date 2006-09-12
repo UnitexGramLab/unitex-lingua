@@ -1,0 +1,364 @@
+
+expressions:
+
+graph: kathOrdAbbr
+ dscr: Kürzel für katholische Orden/Quelle:+http://de.wikipedia.org/wiki/Liste_der_katholischen_Frauenorden+http://de.wikipedia.org/wiki/Liste_der_Männerorden
+
+ path: "CRM" # Adorno-Fathers 	Clerici Regulares Minores; auch Caraccioliner
+ path: "FSCJ" # Afrika-Missionare von Verona 	Congregatio Filiorum S. Cordis Jesu
+ path: "CFA" # Alexianer 	congregatio fratrum cellitarum seu alexianorum
+# Ambrosianer 		
+ path: "TC" # Amigonianer 	Tertiarii Capuccini
+ path: "AA" # Assumptionisten 	congregatio augustinianorum ab assumptione
+ path: "CFP" # Armen-Brüder vom hl. Franziskus Seraphicus 	congregatio fratrum pauperum
+ path: "OSA" # Augustiner 	ordo sancti augustini
+ path: "CRV" # Augustiner-Chorherren 	
+ path: "OAD" # Augustiner-Discalceaten 	Ordo Augustiniensium Discalceatorum
+ path: "OESA" # Augustiner-Eremiten 	ordo eremitarum sancti augustini
+ path: "OAR" # Augustiner-Rekollekten 	Ordo Augustinianorum Recollectorum 
+# Barmherzige Brüder 	3 verschiedene Orden mit diesem Namen 	
+ path: "CRSP" # Barnabiten 	Clerici Regulares Sancti Pauli 
+ path: "CSB" # Basilianer 	
+ path: "OSB" # Benediktiner 	ordo sancti benedicti 
+ path: "SMB" # Bethlehem Mission Immensee 	Societas Missionum Exterarum de Betlehem in Helvetia 
+# Broeders Hieronymieten 		
+ path: "FC" # Broeders van Liefde 	
+ path: "FIC" # Broeders van Maastricht 	Congregatio Fratrum Immaculatae Conceptionis Bearae Mariae Virginis 
+# Broeders van Onze-Lieve-Vrouw van Lourdes 		
+# Broeders van Scheppers 		
+ path: "FC" # Brothers of Charity 	
+ path: "BSC" # Brothers of Charity 	
+# Brothers of St. Joseph the Worker 		
+ path: "CSC" # Brothers of the Holy Cross 	
+# Brothers of the Holy Family of Belley 		
+ path: "SHJ" # Brothers of the Sacred Heart of Jesus 	
+ path: "FDC" # Brüder der christlichen Lehre 	Fratres Doctrinae Christianae 
+ path: "FSC" # Brüder der christlichen Schulen 	Institutum Fratrum Scholarum Christianarum; auch Christian Brothers 
+# Brüder Unserer Frau von Sion 		
+ path: "BSJ" # Brüder vom hl. Joseph 	
+ path: "BSM" # Brüder vom hl. Michael 	
+ path: "OSB\sCam" # Camaldulenser 	
+# Canisianer 		
+ path: "CMI" # Carmelites of Mary Immaculate 	Congregatio Fratrum Carmelitarum B. V. Mariae Immaculatae 
+ path: "CRM" # Caraccioliner 	Clerici Regulares Minores; auch Adorno-Fathers 
+ path: "ST" # Cenacle Missionary 	
+ path: "CMF" # Claretiner 	Cordis Mariae Filii - Congregatio Missionariorum Filiorum Cordis Mariae 
+# Clemens-Priester 		
+ path: "SSC" # Columban Fathers 	
+# Companions of the Cross 		
+# Congrégation Saint Jean 		
+# Crosier Fathers 		
+ path: "MCCJ" # Comboni-Missionare 	Missionarii Comboniani Cordis Jesu 
+ path: "SCJ" # Congrégation du Sacré-Coeur 	Congregatio Sacratissimi Cordis Iesu; auch: Pères de Timon-David 
+ path: "CICM" # Congregatio Immaculati Cordis Mariae 	Congregatio Immaculati Cordis Mariae 
+ path: "CST" # Congregation of St. Therese 		
+ path: "OT" # Deutscher Orden 	ordo teutonicus 
+ path: "SJM" # Diener Jesu und Mariens 	Servi Jesu et Mariae 
+ path: "DDS" # Disciples of the Divine Saviour 	
+# Dobrinerritter 	milites Christi prucie 	
+ path: "OP" # Dominikaner 	ordo fratrum praedicatorum 
+ path: "SSS" # Eucharistiner 	Societas Sanctissimi Sacramenti 
+# Franciscan Brothers 	4 verschiedene Kongregationen 	
+# Franciscan Brothers of Brooklyn 		
+# Franciscan Brothers of Peace 		
+# Franciscan Brothers of the Eucharist 		
+# Franciscan Brothers of the Sacred Heart 		
+# Franciscan Friars of the Immaculate 		
+ path: "OFM" # Franziskaner 	ordo fratrum minorum 
+ path: "CFR" # Franziskaner der Erneuerung 	
+ path: "FFSC" # Franziskanerbrüder vom Hl. Kreuz 	Fratres Franciscani a Sancta Cruce 
+ path: "OSB" # Fraternité de Jérusalem 	
+# Fraters van O. L. Vrouw, Moeder van Barmhartigheid 		
+ path: "CMM" # Fraters van Tilburg 	Congregatio Fratrum Beatae Mariae Virginis Matris Misericordiae 
+# Fraters van Utrecht 		
+# Frères auxiliaires 		
+# Frères de la Sainte-Famille 		
+# Frères de Saint-Gabriel 		
+# Frères du Sacré-Cœur 		
+# Glenmary Home Missionars 		
+ path: "MSC" # Herz-Jesu-Missionare 	Missionaires de Sacré Coeur - Missionarii Sacri Cordis Jesu 
+ path: "SCJ" # Herz-Jesu-Priester 	auch: Dohanianer 
+ path: "CSC" # Holy Cross Fathers 	Congregatio a S. Cruce 
+ path: "IMS" # Indian Missionary Society 	
+# Institut Christus König und Hoherpriester 		
+ path: "IEME" # Instituto Español de San Francisco Javier para Misiones Extranjeras 	Institutum Hispanicum Sancti Francisci Xaverii pro Missionibus Exteris 
+ path: "SJ" # Jesuiten 	societas jesu 
+ path: "MSJ" # Johannes-Missionare 	Missionarii Sancti Ioannis 
+ path: "CJ" # Josephiten 	
+# Kalasantiner 	Kongregation für die christlichen Arbeiter vom hl. Josef Calasanz 	
+# Kalvaristen 	Priester vom Kalvarienberg 	
+ path: "ECMC" # Kamaldulenser 	Congregatio Eremitarum Camaldulensium Montis Coronae 
+ path: "CSCam" # Kamillianer 	Ordo Sancti Camilli 
+ path: "OFMCap" # Kapuziner 	ordo fratrum minorum cappuccinorum 
+ path: "OCarm" # Karmeliten 	Ordo Carmelitarum 
+ path: "OCD" # Karmeliten, Unbeschuhte 	Ordo Carmelitarum Discalceatorum 
+ path: "OCart" # Kartäuser 	ordo cartusiensis 
+ path: "PFJ" # Kleine Brüder Jesu des Charles de Foucauld 	Institutum parvulorum fratrum Jesu 
+ path: "OCart" # Kleine Brüder vom Evangelium 	ordo cartusiensis 
+ path: "OP" # Kleine Brüder vom Lamm 	
+ path: "OSC" # Kreuzherren 	Ordo Sanctae Crucis 
+# Lebanese Maronite Missionaries 		
+ path: "LC" # Legionäre Christi 	
+ path: "LBG" # Little Brothers of Gospel 	
+ path: "BGS" # Little Brothers of the Good Shepered 	
+# Lyoner Seminar 	Societé des Missions Africains de Lyon 	
+ path: "CST" # Little Flower Congregation 	
+# Mailänder Seminar für auswärtige Missionen 	Pontificium Institutum pro missionibus ad exteros 	
+ path: "MMB" # Malabar Missionary Brothers 		
+ path: "MIC" # Marianer 	Regularkleriker von der Unbefleckten Empfängnis der Allerseeligsten Jungfrau Maria 
+ path: "SM" # Marianisten 	Societas Mariae 
+ path: "SM" # Maristen 	Societas Mariae 
+ path: "CMM" # Mariannhiller Missionare 	Congregatio Missionariorum de Mariannhill 
+ path: "FMS" # Maristen-Schulbrüder 	Fratres Maristae Scholarum 
+ path: "MM" # Maryknoll 	Catholic Foreign Mission Society of America / Societas de Maryknoll pro missionibus exteris 
+# Mercedarier 	Ordo Beatae Mariae Virginis de Mercede redemptionis captivorum 	
+# Michaeliten 		
+ path: "MHM" # Mill Hill Missionare 	St.-Josefs-Missionare von Mill Hill 
+ path: "OM" # Minimiten 	Ordo Minimorum 
+ path: "OFMConv" # Minoriten (Conventualen) 	Ordo Fratrum Minorum Conventualium 
+# Missionary Congregation of the Blessed Sacrament 		
+ path: "MXY" # Misioneros Javerianos de Yarumal 	Institutum Yarumalense pro Missionibus ad Exteras Gentes 
+# Missionare der Nächstenliebe 		
+ path: "MSC" # Missionare vom Heiligsten Herzen 	
+ path: "MSJ" # Missionare vom hl. Johannes d. Täufer 	
+ path: "CPS" # Missionare vom Kostbaren Blut 	Congregatio Pretiosissimi Sanguinis 
+ path: "MSF" # Missionare von der Heiligen Familie 	Missionarii a Sacra Familia 
+ path: "MGS" # Missionaries of God's Love 	
+ path: "SSCME" # Missionary Society of St. Columban 	Societas S. Columbani pro missionibus ad Exteros 
+ path: "MC" # Missionsbrüder der Nächstenliebe 	
+ path: "CMSF" # Missionsbrüder des Hl. Franziskus 	Congregatio Missionariorum Sancti Francisci Assisiensis 
+# Missionspriester der Frache-Comté 		
+# Missionspriester U. L. Frau von Sainte-Garde 		
+ path: "CICM" # Missionhurst Missionaries 	Congregatio Immaculati Cordis Mariae 
+# Monks of Adoration 		
+ path: "SMM" # Montfortaner 	Societas Mariae Monfortana 
+ path: "SG" # Montfort Brothers of St. Gabriel 	
+# Notre-Dame de Vie 		
+ path: "OSFS" # Oblaten des hl. Franz von Sales (Sales-Oblaten) 	
+# Oblaten des hl. Karl Borromäus 		
+ path: "OMV" # Oblaten Missionare 	Congregatio Oblatorum Beatae Mariae Virginis 
+ path: "OMI" # Oblaten Missionare (Hünfelder Oblaten) 	Oblati Mariae Immaculatae 
+# Oratorianer 		C. OR
+# Order of the limitation of Christ 		
+ path: "SAC" # Pallottiner 	societas apostolatus catholici 
+ path: "PIME" # Päpstliches Institut für die auswärtigen Missionen 	Pontificium Institutum pro Missionibus Exteris 
+ path: "MEP" # Pariser Mission 	Société des Missions Etrangères / Societas Parisiensis missionum ad exteras gentes 
+ path: "CP" # Passionisten 	Congregatio Passionis Jesu Christi 
+# Patrician Brothers 		
+ path: "OSPPE" # Pauliner 	Ordo Sancti Pauli Primae Eremitae 
+ path: "SSP" # Pauliner 	Societas Sancti Pauli 
+ path: "CSP" # Paulusbrüder 	Congregatio Sancti Pauli 
+ path: "SP" # Piaristen 	Ordo Clericorum Regulares Pauperum Matris Dei Scholarum Piarum 
+ path: "SSCC" # Picpus-Missionare 	Congregatio Sacrorum Cordium Jesu et Mariae 
+ path: "OPraem" # Prämonstratenser 	Ordo Praemonstratensis 
+# Presentation Brothers 		
+ path: "FSSP" # Priesterbruderschaft St. Petrus 	Fraternitas Sacerdotalis Sancti Petri 
+ path: "FSSPX" # Priesterbruderschaft St. Pius X. 	Fraternitas Sacerdotalis Sancti Pii X. (decimi); Gemeinschaft, die sich nicht in Einheit mit Rom befindet 
+ path: "CSsR" # Redemptoristen 	Congregatio Sanctissimi Redemptoris 
+ path: "ORC" # Regularkanoniker vom Hl. Kreuz 	ordo sancte crucis 
+ path: "CR" # Resurrektionisten 	Congregatio Resurrectionis 
+# Rogationisten 		
+# Rosarians 	siehe Resurrektionisten 	
+# Sakramentspriester 	Congregationis Ss. Sacramentis 	
+ path: "SDB" # Salesianer Don Boscos 	Salesiani di Don Bosco 
+ path: "MS" # Salletiner 	Missionare Unserer Lieben Frau von La Salette 
+ path: "SDS" # Salvatorianer 	Societas Divini Salvatoris / Sorores Divini Salvatoris 
+ path: "SSJ" # St. Joseph's Society of the Sacred Heart 	Societas Sodalium Sancti Joseph a Sacra Corde 
+ path: "SPS" # St. Patrick's Society for the Foreign Missions 	Societas Sancti Patritii pro Missionibus ad Exteros 
+ path: "CS" # Scalabrini-Patres 	Congregatio Scalabriniana 
+ path: "SFM" # Scarboro Foreign Mission Society 	Societas Scarborensis pro Missionibus ad Exteras Gentes 
+ path: "CICM" # Scheutvelder Missionare 	Congregatio Immaculati Cordis Mariae 
+# Servants of the Paraclete 		
+ path: "CSM" # Serviten 	Ordo Servorum (-arum)Mariae 
+ path: "PME" # Société des Missions-Étrangères 	Societas pro missionibus exteris Provinciae Quebecensis 
+# Society of Christ 		
+# Society of Our Lady of the Most Holy Trinity 		
+# Society of Saint Edmund 		
+ path: "SCV" # Sodalicio de Vida Cristiana 	Sodalitium Christianae Vitae 
+ path: "OFFM" # Söhne Mariens 	
+ path: "CRS" # Somasker 	Ordo Clericorum Regularium a Somascha 
+# Sons of Divine Providence 		
+ path: "CSS" # Spiritaner 	Congregatio Sancti Spiritus 
+ path: "SVD" # Steyler Missionare 	Societas Verbi Divini 	("Gesellschaft des Göttlichen Wortes"; humorvoll auch: "Sie vertreiben Druckschriften" Andere sagen: "Steyl ist der Weg zum Himmel" vgl. Steyl)
+ path: "MSU" # Studitenorden 	Studitenorden 
+ path: "PSS" # Sulpizianer 	Societas Presbyterorum a S. Sulpitio 
+ path: "CR" # Theatiner 	Ordo Clericorum Regularium vulgo Theatinorum 
+ path: "OCSO" # Trappisten 	ordo cisterciensis strictioris observantiae 	("Orden der Zisterzienser der strengeren Observanz")
+ path: "OSsT" # Trinitarier 	Ordo Sanctissimae Trinitatis 
+ path: "CSV" # Viatoristen 	Congregatio Clericorum Parochialium seu Catechistarum S. Viatoris 
+# Verbum Dei 		
+ path: "CM" # Vinzentiner 	auch: Lazaristen; congregatio missionis 
+# Vocationist Fathers 		
+ path: "SMA" # Weiße Väter 	Societas Missionariorum Africae 
+ path: "CFX" # Xaverian Brothers 	
+ path: "SX" # Xaverians 	Xaverian Missionary Fathers / Pia Societas S. Francisci Xaverii pro exteris missionibus 
+ path: "OCist" # Zisterzienser 	ordo cisterciensis 
+# Amantes de la Croix 		
+# Anna-Schwestern 		
+# Annonciades 		
+# Apostles of the Sacred Heart of Jesus 		
+# Apostolique de Marie 		
+ path: "ADJC" # Arme Dienstmägde Jesu Christi 	Ancillae Domini Jesu Christi 
+ path: "OSA" # Augustinerinnen 	
+# Augustiner Chorfrauen B.M.V 		
+# Augustines de La Miséricorde de Jésus 		
+# Augustines de Meaux 		
+# Auxiliaires du Sacerdoce 		
+ path: "CSJB" # Baptistines 	
+# Barmherzige Schwestern 		
+ path: "OSB" # Benediktinerinnen 	
+ path: "OSB" # Benediktinerinnen von der ewigen Anbetung 	
+# Bethany Sisters 		
+ path: "OSSalv" # Birgitten 	Ordo Ss. Salvatoris S. Birgittae 
+# Bon Secours de Paris 		
+# Bon Secours du Sacré Coeur 		
+# Borromäerinnen 		
+# Canossian Daughters of Charity 		FdCC
+# Capuchin Sisters of Nazareth 		
+# Caritas Christi 		
+ path: "CS" # Caritas Socialis 	
+# Caritasschwestern 		
+ path: "OSA" # Cellitinnen 	
+ path: "RC" # Cenacle Sisters 	
+# Christ Rédempteur 		
+# Christus Königs-Missionsschwester 		
+# Clemensschwestern 	Barmherzige Schwestern von der allerseligsten Jungfrau und schmerzhaften Mutter Maria 	
+# Combonischwestern 		
+ path: "SFX" # Communauté apostolique Saint-François-Xavier 	
+ path: "CJ" # Congregatio Jesu 	Congregatio Jesu 
+# Congrégation des Saints Anges 		
+# Congrégation Notre Dame chanoinesses de Saint Augustin 		
+ path: "CMC" # Congregation of Mother of Carmel 	
+# Congrégation Saint Jean 		
+# Consolata Missionary Sisters 		
+# Daughters of Divine Love 		
+# Daughters of Mary of the Immaculate Conception 		
+ path: "SMM" # Daughters of Wisdom 	
+ path: "OT" # Deutschordensschwestern 	
+# Dernbacher Schwestern 	siehe Arme Dienstmägde Jesu Christi 		
+# Dienerinnen des heiligsten Herzen Jesu 		
+# Dienerinnen vom durchbohrten Herzen des Erlösers 		
+ path: "OP" # Dominikanerinnen 	26 verschiedene Kongregationen 
+ path: "FMA" # Don-Bosco-Schwestern 	Töchter Mariä Hilfe der Christen 
+ path: "OSE" # Elisabethinnen 	Ordo Sorores Hospitalariae Sanctae Elisabethae T. O. S. Francisci - verschiedene Kongregationen 
+# Enfant Jésus de Lille 		
+# Enfant Jésus de Soissons 		
+ path: "CJ" # Englische Fräulein 	Congregatio Jesu (früher:Institutum Beatae Mariae Virginis) 	
+ path: "IBMV" # Englische Fräulein 	Congregatio Jesu (früher:Institutum Beatae Mariae Virginis) 	
+ path: "CSR" # Erlöserschwestern 	Congregatio Sororum a Sancto Redemptore 
+ path: "CSSF" # Felician Sisters 	Sisters of St. Felix of Cantalice 
+# Filles de la Charité de Saint Vincent de Paul 		
+# Filles de la Charité du Sacre Cœur de Jésus 		
+# Filles de la Providence de Sainte Thérèse 		
+# Filles de la Sagesse 		
+# Filles de Notre Dame des Douleurs 		
+# Filles du Bon Sauveur Caen 		
+# Franciscan Missionaries of the Divine Motherhood 		
+# Franziskanerinnen 		
+ path: "OSB" # Fraternité de Jérusalem 	
+# Glenmary Home Mission Sisters 		
+# Handmaids of the Holy Child Jesus 		
+# Heilig-Kreuz-Schwestern 	Menzinger Schwestern 	
+ path: "SAC" # Helferinnen 	
+# Hildegardis-Schwestern vom Katholischen Apostolat 		
+ path: "MSC" # Hiltruper Missionsschwestern 	Missionsschwestern vom Heiligsten Herzen Jesu 
+# Immakulataschwestern 		
+# Institute of Divine Mercy 		
+ path: "CSJ" # Johannesschwestern 	
+ path: "CSJ" # Josephschwestern 	19 verschiedene Kongregationen 
+# Kamillianerinnen 		
+# Karmelitinnen 		
+ path: "CSCA" # Katharinenschwestern 	Congregatio Sanctae Catharinae 
+ path: "OSC" # Klarissen 	Ordo Sanctae Clarae 
+ path: "OSCCap" # Klarissen-Kapuzinerinnen 	Ordo Sanctae Clarae Capucinae 
+ path: "KSE" # Kleine Schwestern vom Evangelium des Charles de Foucauld 	
+# Kleine Schwestern von Jesus und Maria 		
+# Little Sisters of Jesus and Mary 		
+# Loreto-Schwestern 		
+# Magdalenerinnen 	
+ path: "AM" # Mägde Mariens 	Ancillae Mariae 
+# Mallersdorfer Schwestern 	Arme Franziskanerinnen von der hl. Familie 	
+# Malteserschwestern 		
+ path: "CPS" # Marianhiller Missionsschwestern 	Schwestern vom Kostbaren Blut 
+ path: "SM" # Maristinnen 	
+# Maryknoll 		
+# Medical Missionaries of Mary 		
+# Michaelitinnen 	auch: Schwestern des hl. Erzengels Michael 	
+# Missionarinnen Christi 		
+# Missionsärztliche Schwestern 		
+# Missionsschwestern 	diverse Kongregationen 	
+# Nazarethschwestern 		
+ path: "NDS" # Notre Dame de Sion 	Sionsschwestern 
+# Notre-Dame de Vie 		
+# Oblates of the Blessed Trinity 		
+ path: "SAC" # Pallottinerinnen 	Missionsschwestern vom Katholischen Apostolat 
+# Passionistinnen 		
+ path: "FSP" # Paulus-Schwestern 	Filiae Sancti Pauli 
+# Poor Sisters of Jesus Crucified and the Sorrowful Mother 		
+# Redemptoristinnen 		
+# Ritaschwestern 		
+ path: "RSCJ" # Sacré Coeur-Schwestern 	Religiosa Sanctissimi Cordis Jesu 
+# Säkularinstitut Franz von Sales 		
+ path: "OVM" # Salesianerinnen 	Schwestern vom Orden der Heimsuchung Mariens 
+ path: "SDS" # Salvatorianerinnen 	Schwestern vom göttlichen Heiland 
+ path: "MSCS" # Scalabrini-Missionsschwester 	auch: Schwestern vom hl. Karl Borromäus (Scalabriniane) 
+ path: "NDS" # Sionsschwestern 	
+# Schönstätter Marienschwestern 		
+ path: "SCC" # Schwestern der Christlichen Liebe 	
+ path: "SMMP" # Schwestern der hl. Maria Magdalena Postel 	
+# Schwestern der Spirituellen Weggemeinschaft 		
+ path: "SSJ" # Schwestern Jesu 	
+ path: "SND" # Schwestern Unserer Lieben Frau 	
+ path: "NDS" # Schwestern Unserer Lieben Frau von Sion 	Sionsschwestern 
+ path: "PIJ" # Schwestern vom armen Kinde Jesus 	
+# Schwestern vom Göttlichen Erlöser 		
+# Schwestern vom Göttlichen Heiland 		
+ path: "CDC" # Schwestern vom Göttlichen Herzen Jesu 	
+# Schwestern vom Göttlichen Willen 		
+ path: "RGS" # Schwestern vom Guten Hirten 	Religious of the Good Shepherd 
+# Schwestern vom Heiligen Kreuz 		
+# Schwestern vom Heiligsten Herzen Jesu 	Sacred Heart Sisters 	
+# Schwestern vom Lamm 		
+ path: "RAD" # Schwestern von der Liebe Gottes 	
+# Schwestern von der Heiligen Familie 		
+ path: "CSSE" # Schwestern von der Hl. Eucharistie 	
+# Schwestern von Jesus, dem guten Hirten 	Pastorelle 	
+ path: "OSM" # Servitinnen 	Ordo Servarum Mariae 
+# Sisters
+# Sisters Adorers of the Blood of Christ 		
+# Sisters Adorers of the Precious Blood 		
+# Sisters Adorers of the Precious Blood, Manchester 		
+# Sisters of Charity 	verschiedene Kongregationen 	
+# Sisters of Mercy 		
+ path: "SSND" # Sisters of Notre Dame 	
+ path: "NDS" # Sisters Notre Dame de Sion 	Sionsschwestern 
+ path: "RC" # Sisters of O. L. of the Retreat in the Cenacle 	
+ path: "SOLPH" # Sisters of Our Lady of Perpetual Help 	
+ path: "NDS" # Sisters of Our Lady of Sion 	Sionsschwestern 
+# Sisters of Saint Martha of Prince Edward Island 		
+# Sisters of Saint Joseph 		
+ path: "SSCM" # Sisters of Saints Cyril and Methodius 	
+# Sisters of St. Grace 		
+# Sisters of St. Joseph of Wichita 		
+ path: "SD" # Sisters of the Destitute 	
+# Sisters of the Imitation of Christ 		
+ path: "IHM" # Sisters, Servants of the Immaculate Heart of Mary 	
+ path: "SMS" # Snehagiri Missionary Sisters 	
+# Soeurs Servites de Marie de Jolimont 		
+# Spitalschwestern 		
+ path: "SSpS" # Steyler Missionarinnen 	Dienerinnen des hl. Geistes 
+ path: "FDC" # Töchter der göttlichen Liebe 	Filiae Divinae Caritatis 
+ path: "FCJM" # Töchter der hl. Herzen Jesu und Mariä 	Salzkottener Franziskanerinnen 
+ path: "FCR" # Töchter vom heiligen Kreuz 	Filiae Sanctae Crucis 
+ path: "THM" # Töchter vom Herzen Mariä 	Filles du Coeur de Marie 
+# Trappistinnen 		
+ path: "FCJ" # Treue Gefährtinnen Jesu 	
+ path: "NDS" # Unsere Liebe Frau von Sion 	Sionsschwestern 
+ path: "OSU" # Ursulinen 	Ordo Sanctae Ursulae 
+# Verbum Dei 		
+# Vinzentinerinnen 		
+ path: "CDP" # Vorsehungsschwestern 	Congregatio Divinae Providentiae 
+# Weiße Schwestern 	Missionsschwestern Unserer Lieben Frau von Afrika 	
+ path: "OCist" # Zisterzienserinnen 	
+# Zusters van Overijse-Mechelen 		
+# Zwartzusters

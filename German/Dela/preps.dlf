@@ -1,0 +1,685 @@
+// -*- mode: DELAF; coding: utf-8; -*-
+//
+// Preps -- Teillexikon Präpositionen
+//
+// Es wurden zwei Kennzeichnungssysteme für die Rektion beibehalten:
+//  1. nach CISLEX (Maier-Meyer 1995: 39): PREPn, wobei n
+//      0  keine Kasusforderung
+//      1  Akkusativ
+//      2  Genitiv
+//      3  Dativ
+//      4  Akkusativ oder Genitiv
+//      5  Genitiv oder Dativ
+//      6  Genitiv oder von-PP mit Dativ
+//      7  Akkusativ oder PP
+//      8  auf-PP mit Akkusativ
+//  2. +gov(x), wobei x aus {n,g,d,a,-}: bezeichnet Kasus, `-' keine Kasusforderung,
+//     +gov(von): von-PP: "abseits,.PREP+gov(d)+gov(von)+lokal"
+//     +gov(m):   regiert Plural: "zwischen" steht entweder mit Plural oder koordinierten NPs
+// 
+// viele neu aufgenommene Präpositionen, speziell Mehrworteinheiten, 
+//  sind nur mit dem flexibleren System 2 annotiert
+//
+// Kennzeichnung der Wortarten:
+//   .PREP        Präposition
+//   .POSTP       Postposition
+//   .PREP+POSTP  Ambiposition (kann sowohl in Prä-,
+//                              wie in Poststellung stehen)
+//
+// Semantik:
+//   +lokal       räumliche Präposition
+//   +temporal    temporale Verwendung
+//   +modal       modal (nicht lokal oder temporal)
+//
+abgesehen,.PREP+gov(von)
+ab,.PREP4+temporal+lokal+modal
+ab,.PREP+gov(d)+gov(a)+temporal+lokal+modal/ modal: ab 3 Metern
+abseits,.PREP6+lokal
+abseits,.PREP+gov(g)+gov(von)+lokal
+abwärts,.PREP+gov(g)+gov(von)+lokal
+abzüglich,.PREP2+modal
+abzüglich,.PREP+gov(g)+modal
+alias,.PREP0
+alias,.PREP+gov(-)
+als,.PREP0
+als,.PREP+gov(-)
+am,an.PDET+temporal+lokal:deM:deN
+am Rande,.PREP+gov(g)+gov(von)+temporal
+am Rand,.PREP+gov(g)+gov(von)+temporal
+anbetrachts,.PREP2+modal
+anbetrachts,.PREP+gov(g)+modal
+angesichts,.PREP2+modal
+angesichts,.PREP+gov(g)+modal
+anhand,.PREP6
+anhand,.PREP+gov(g)+gov(von)
+an Hand,.PREP+gov(g)+gov(von)+modal
+anläßlich,.PREP6+modal
+anläßlich,.PREP+gov(g)+gov(von)+modal
+anlässlich,.PREP6+modal
+anlässlich,.PREP+gov(g)+gov(von)+modal
+an,.PREP4+temporal+modal+lokal
+an,.PREP+gov(d)+gov(a)+temporal+modal+lokal
+ans,an.PDET+lokal:aeN
+anstatt,.PREP5+modal
+anstatt,.PREP+gov(g)+gov(d)+modal
+anstelle,.PREP6+modal
+anstelle,.PREP+gov(g)+gov(von)+modal
+an Stelle,.PREP+gov(g)+gov(von)+modal
+antwortlich,.PREP2
+antwortlich,.PREP+gov(g)
+überm,über.PDET+lokal:deM:deN
+übern,über.PDET+lokal:aeM
+über,.PREP4+temporal+lokal
+über,.PREP+gov(d)+gov(a)+temporal+lokal
+übers,über.PDET+lokal:aeN
+östlich,.PREP2+lokal
+östlich,.PREP+gov(g)+gov(von)+lokal
+außerhalb,.PREP6+lokal+temporal
+außerhalb,.PREP+gov(g)+gov(von)+lokal+temporal
+außer,.PREP1+lokal+modal/ Akk.: außer Haus, außer Betrieb : kaum erkennbarer Kasus
+außer,.PREP5+lokal+modal
+außer,.PREP+gov(g)+gov(d)+gov(a)+lokal+modal/ Akk.: außer Haus, außer Betrieb : kaum erkennbarer Kasus
+auf dem Gebiet,.PREP+gov(g)+gov(von)+lokal+modal
+auf dem Umweg über,.PREP+gov(d)+gov(a)+modal
+auf dem Wege,.PREP+gov(g)+gov(von)+modal
+auf der Basis,.PREP+gov(g)+gov(von)+modal
+auf der Ebene,.PREP+gov(g)+gov(von)+modal
+auf der Grundlage,.PREP+gov(g)+gov(von)+modal
+aufgrund,.PREP6
+auf Grund,.PREP6
+aufgrund,.PREP+gov(g)+gov(von)
+auf Grund,.PREP+gov(g)+gov(von)
+auf Kosten,.PREP+gov(g)+gov(von)+modal
+auf'm,auf.PDET+modal+lokal:deM:deN
+aufm,auf.PDET+modal+lokal:deM:deN
+auf'n,auf.PDET+modal+lokal:aeM
+aufn,auf.PDET+modal+lokal:aeM
+auf,.PREP4+temporal+modal+lokal
+auf,.PREP+gov(d)+gov(a)+temporal+modal+lokal
+aufs,auf.PDET+modal+lokal:aeN
+aufseiten,.PREP6
+auf Seiten,.PREP6
+auf seiten,.PREP6/ alte Orthographie
+aufseiten,.PREP+gov(g)+gov(von)
+auf Seiten,.PREP+gov(g)+gov(von)
+auf seiten,.PREP+gov(g)+gov(von)/ alte Orthographie
+aufseite,.PREP6/ ?
+aufseite,.PREP+gov(g)+gov(von)/ ?
+auf Veranlassung,.PREP+gov(g)+gov(von)+modal
+aufwärts,.PREP+gov(g)+gov(von)+lokal
+aus Anlaß,.PREP+gov(g)+gov(von)+modal
+aus Anlass,.PREP+gov(g)+gov(von)+modal
+aus dem Sektor,.PREP+gov(g)+modal
+aus der Perspektive,.PREP+gov(g)+gov(von)+modal
+aus der Sicht,.PREP+gov(g)+gov(von)+modal
+ausgangs,.PREP2/ `am Ende, am Schluss' eines Schreibens z.B.
+ausgangs,.PREP+gov(g)/ `am Ende, am Schluss' eines Schreibens z.B.
+aus Mangel an,.PREP+gov(d)+DetZ+modal
+aus'm,aus.PDET+temporal+modal+lokal:deM:deN
+ausm,aus.PDET+temporal+modal+lokal:deM:deN
+aus,.PREP3+temporal+modal+lokal
+aus,.PREP+gov(d)+temporal+modal+lokal
+aus Rücksicht auf,.PREP+gov(a)+modal
+aus Richtung,.PREP+gov(g)+modal
+aus Richtung,.PREP+gov(n)+gov(g)+gov(von)+lokal/ aus Richtung West/Nordwest
+ausschließlich,.PREP2
+ausschließlich,.PREP+gov(g)
+aus Sicht,.PREP+gov(g)+gov(von)+modal
+auswärts,.PREP+gov(g)+gov(von)+lokal
+ausweislich,.PREP2/ `nach, laut' einem Dokument
+ausweislich,.PREP+gov(g)/ `nach, laut' einem Dokument
+à,.PREP1+DetZ+modal+distributiv
+à,.PREP+gov(a)+DetZ+modal+distributiv
+bar,.PREP2
+bar,.PREP+gov(g)
+behufs,.PREP2/ `zwecks, zum Zweck'
+behufs,.PREP+gov(g)/ `zwecks, zum Zweck'
+beiderseits,.PREP6+lokal
+beiderseits,.PREP+gov(g)+gov(von)+lokal
+beidseits,.PREP2
+beidseits,.PREP+gov(g)+lokal
+bei Gelegenheit,.PREP+gov(g)+temporal
+beim,bei.PDET+lokal+temporal:deM:deN
+bei,.PREP3+temporal+lokal
+bei,.PREP+gov(d)+temporal+lokal
+betreffend,.PREP1+POSTP
+betreffend,.PREP+POSTP+gov(a)
+betreffs,.PREP2
+betreffs,.PREP+gov(g)
+bezüglich,.PREP2+modal
+bezüglich,.PREP+gov(g)+modal
+beziehentlich,.PREP2/ `mit Bezug auf'
+beziehentlich,.PREP+gov(g)/ `mit Bezug auf'
+binnen,.PREP5+temporal
+binnen,.PREP+gov(g)+gov(d)+temporal
+bis hin zu,.PREP+gov(g)+gov(von)ov(d)+lokal
+bis,.PREP1+temporal+modal+lokal
+bis,.PREP+gov(a)+temporal+modal+lokal
+contra,.PREP1
+contra,.PREP+gov(a)
+dank,.PREP5+modal
+dank,.PREP+gov(d)+gov(g)+modal
+diesseits,.PREP2+lokal
+diesseits,.PREP+gov(g)+gov(von)+lokal
+durch,.PREP1+lokal+modal
+durch,.PREP+gov(a)+lokal+modal
+durchs,durch.PDET+lokal+modal:aeN
+durch Vermittlung,.PREP+gov(g)+gov(von)+modal
+eingangs,.PREP2
+eingangs,.PREP+gov(g)
+einschließlich,.PREP2+modal
+einschließlich,.PREP+gov(g)+modal
+ennet,.PREP2/ schweizerisch `jenseits'
+ennet,.PREP+gov(g)/ schweizerisch `jenseits'
+entgegen,.PREP2+POSTP+lokal+modal
+entgegen,.PREP+POSTP+gov(d)+lokal+modal
+entlang,.POSTP+gov(a)+lokal/ direktional: "die Staße entlang", keine Prästellung mgl.
+entlang,.PREP1+POSTP+lokal
+entlang,.PREP5+POSTP+lokal
+entlang,.PREP+POSTP+gov(a)+gov(g)+gov(d)+lokal
+entsprechend,.PREP3+modal
+entsprechend,.PREP+gov(d)+modal
+exclusive,.PREP2+modal
+exclusive,.PREP+gov(g)+modal
+exklusive,.PREP2+modal
+exklusive,.PREP+gov(g)+modal
+exterior,.PREP/ ???
+für,.PREP1+temporal+modal
+für,.PREP+gov(a)+temporal+modal
+fürs,für.PDET+modal:aeN
+fernab,.PREP+gov(g)+gov(von)+lokal
+fern,.PREP5+lokal
+fern,.PREP+gov(d)+gov(d)+lokal
+gegenüber,.PREP3+POSTP+modal+lokal
+gegenüber,.PREP+POSTP+gov(d)+modal+lokal
+gegen,.PREP1+temporal+modal+lokal
+gegen,.PREP+gov(a)+temporal+modal+lokal
+gemäß,.PREP3+modal
+gemäß,.PREP+gov(d)+modal
+gen,.PREP1+temporal+lokal
+gen,.PREP+gov(a)+temporal+lokal
+getreu,.PREP+gov(d)+modal
+gleich,.PREP3+modal
+gleich,.PREP+gov(d)+modal
+halber,.POSTP+gov(g)
+herwärts,.PREP+gov(g)+gov(von)+lokal
+hindurch,.POSTP+gov(a)+lokal+temporal
+hinseits,.PREP+gov(g)+gov(von)+lokal/ "hinseits der Grenze" (so belegt!)
+hinsichtlich,.PREP2+modal
+hinsichtlich,.PREP+gov(g)+modal
+hinsichts,.PREP+gov(g)+modal
+hinterm,hinter.PDET+lokal:deM:deN
+hintern,hinter.PDET+lokal:aeM
+hinter,.PREP4+lokal
+hinter,.PREP+gov(d)+gov(a)+lokal
+hinters,hinter.PDET+lokal:aeM:aeN
+hinterwärts,.PREP+gov(g)+gov(von)+lokal
+hinwärts,.PREP+gov(g)+gov(von)+lokal
+im Angesicht,.PREP+gov(g)+gov(von)+modal
+im Anschluß an,.PREP+gov(a)+temporal
+im Anschluss an,.PREP+gov(a)+temporal
+im Auftrag,.PREP+gov(g)+gov(von)+modal
+im Einklang mit,.PREP+gov(d)+modal
+im Einvernehmen mit,.PREP+gov(d)+modal
+im Ergebnis,.PREP+gov(g)+modal
+im Falle,.PREP+gov(g)+gov(von)+modal
+im Falle,.PREP+gov(g)+gov(von)+temporal+modal
+im Gefolge,.PREP+gov(g)+gov(von)+temporal
+im Gegensatz zu,.PREP+gov(d)+modal
+im Geist,.PREP+gov(g)+gov(von)+modal
+im Hinblick auf,.PREP+gov(a)+modal
+im,in.PDET+temporal+lokal:deM:deN/ nicht +modal
+im Interesse,.PREP+gov(g)+gov(von)+modal
+im Kontakt mit,.PREP+gov(d)+modal
+im Kontrast zu,.PREP+gov(d)+modal
+im Kreis,.PREP+gov(g)+gov(von)+modal
+im Laufe,.PREP+gov(g)+gov(von)+temporal
+im Laufe,.PREP+gov(g)+gov(von)+temporal
+im Lauf,.PREP+gov(g)+gov(von)+temporal
+im Lichte,.PREP+gov(g)+gov(von)+modal
+im Namen,.PREP+gov(g)+gov(von)+modal
+im Rahmen,.PREP+gov(g)+gov(von)+modal
+im Sinne,.PREP+gov(g)+gov(von)+modal
+im Taumel,.PREP+gov(g)+gov(von)+modal
+im Tausch für,.PREP+gov(a)+modal
+im Tausch gegen,.PREP+gov(a)+modal
+im Umkreis,.PREP+gov(g)+gov(von)+modal
+im Unterschied zu,.PREP+gov(d)+modal
+im Verbund mit,.PREP+gov(d)+modal
+im Verein mit,.PREP+gov(d)+modal
+im Verfolg,.PREP+gov(g)+gov(von)+temporal
+im Vergleich zu,.PREP+gov(d)+modal
+im Verhältnis zu,.PREP+gov(d)+modal
+im Verhältnis zu,.PREP+gov(d)+modal
+im Verlaufe,.PREP+gov(von)+temporal
+im Verlauf,.PREP+gov(g)+gov(von)+temporal
+im Verlauf,.PREP+gov(von)+temporal
+im Vorfeld,.PREP+gov(g)+gov(von)+temporal
+im Wege,.PREP+gov(g)+gov(von)+temporal+modal
+im Weg,.PREP+gov(g)+gov(von)+temporal+modal
+im Widerspruch zu,.PREP+gov(d)+modal
+im Zeichen,.PREP+gov(g)+gov(von)+modal
+im Zuge,.PREP+gov(g)+gov(von)+temporal
+im Zusammenhang mit,.PREP+gov(d)+modal
+in Übereinstimmung mit,.PREP+gov(d)+modal
+in Abhängigkeit,.PREP+gov(von)+modal
+in Anbetracht,.PREP+gov(g)+modal
+in Ansehung,.PREP+gov(g)+modal
+in Begleitung,.PREP+gov(g)+gov(von)+modal
+in bezug auf,.PREP+gov(a)/ alte Orthographie
+inbezug auf,.PREP+gov(a)/ falsche Form nach alter und neuer Orthographie
+in Bezug auf,.PREP+gov(a)/ neue Orthographie
+in bezug,.PREP2/ alte Orthographie
+inbezug,.PREP2/ falsche Form nach alter und neuer Orthographie
+in Bezug,.PREP2/ neue Orthographie
+in bezug,.PREP8/ alte Orthographie
+inbezug,.PREP8/ falsche Form nach alter und neuer Orthographie
+in Bezug,.PREP8/ neue Orthographie
+in bezug,.PREP+gov(g)/ alte Orthographie
+inbezug,.PREP+gov(g)/ falsche Form nach alter und neuer Orthographie
+in Bezug,.PREP+gov(g)/ neue Orthographie
+inclusive,.PREP2+modal/ Sonderfall: "inklusive Trinkgeld" - Genitiv 's' fehlt, falls kein Artikel
+inclusive,.PREP+gov(g)+modal/ Sonderfall: "inklusive Trinkgeld" - Genitiv 's' fehlt, falls kein Artikel
+in der Mitte,.PREP+gov(g)+gov(von)+lokal
+in der Nähe,.PREP+gov(g)+gov(von)+lokal/ in der Nähe des Bahnhofs / von München
+in der Reihe,.PREP+gov(g)+modal
+in die Mitte,.PREP+gov(g)+gov(von)+lokal
+in Ermangelung,.PREP+gov(g)+gov(von)+modal
+infolge,.PREP6+modal
+infolge,.PREP+gov(g)+gov(von)+modal
+in Folge,.PREP+gov(g)+gov(von)+modal
+in Gemeinschaft mit,.PREP+gov(d)+modal
+in Höhe,.PREP+gov(g)+gov(von)+modal
+inklusive,.PREP2+modal/ Sonderfall: "inklusive Trinkgeld" - Genitiv 's' fehlt, falls kein Artikel
+inklusive,.PREP+gov(g)+modal/ Sonderfall: "inklusive Trinkgeld" - Genitiv 's' fehlt, falls kein Artikel
+inmitten,.PREP6+lokal
+inmitten,.PREP+gov(g)+gov(von)+lokal
+innerhalb,.PREP5+lokal+temporal
+innerhalb,.PREP+gov(g)+gov(d)+lokal+temporal
+innert,.PREP2+lokal+temporal/ schwyzerdütsch `binnen, innerhalb'
+innert,.PREP+gov(g)+lokal+temporal/ schwyzerdütsch `binnen, innerhalb'
+in,.PREP4+temporal+modal+lokal
+in,.PREP+gov(d)+gov(a)+temporal+modal+lokal
+in puncto,.PREP+gov(g)
+in Richtung auf,.PREP+gov(a)+lokal
+in Richtung,.PREP+gov(n)+gov(g)+lokal/ in Richtung des Waldes, in Richtung Berlin
+ins,in.PDET+temporal+lokal:aeN/ nicht +modal
+in Tateinheit mit,.PREP+gov(d)+modal
+in Verbindung mit,.PREP+gov(d)+modal
+inwärts,.PREP+gov(g)+gov(von)+lokal
+jenseit,.PREP6+lokal/??
+jenseit,.PREP+gov(g)+gov(von)+lokal/??
+jenseits,.PREP6+lokal
+jenseits,.PREP+gov(g)+gov(von)+lokal
+je,.PREP0
+je,.PREP+gov(n)+gov(a)+DetZ/ gewöhnlich ohne Artikel
+kontra,.PREP1+modal
+kontra,.PREP+gov(a)+modal
+kraft,.PREP2+modal
+kraft,.PREP+gov(g)+modal
+lang,.POSTP+gov(a)+lokal/ direktional: "die Staße lang", keine Prästellung mgl.
+langseit,.PREP2+lokal
+langseit,.PREP+gov(g)+lokal
+längs,.PREP5+lokal
+längs,.PREP+gov(g)+gov(d)+gov(von)+lokal
+längsseit,.PREP2+lokal
+längsseit,.PREP+gov(g)+lokal
+längsseits,.PREP2+lokal
+längsseits,.PREP+gov(g)+lokal
+laut,.PREP5+modal
+laut,.PREP+gov(g)+gov(d)+modal
+links,.PREP+lokal+gov(g)+gov(von)
+mangels,.PREP2+modal
+mangels,.PREP+gov(g)+modal
+mang,.PREP5+lokal/ norddt., berlin. `mitten unter'
+mang,.PREP+gov(g)+gov(d)+lokal/ norddt., berlin. `mitten unter'
+minus,.PREP+gov(-)
+mit Ausnahme,.PREP+gov(g)+gov(von)+modal
+mit Berufung auf,.PREP+gov(a)+modal
+mit Bezugnahme auf,.PREP+gov(a)+modal
+mit dem Ziel,.PREP+gov(g)+modal
+mit einem Unterton,.PREP+gov(g)+gov(von)+modal
+mit Einschluß,.PREP+gov(g)+modal
+mit Einschluss,.PREP+gov(g)+modal
+mithilfe,.PREP6+modal
+mit Hilfe,.PREP6+modal
+mithilfe,.PREP+gov(g)+gov(von)+modal
+mit Hilfe,.PREP+gov(g)+gov(von)+modal
+mit,.PREP3+temporal+modal
+mit,.PREP+gov(d)+temporal+modal
+mit Rücksicht auf,.PREP+gov(a)+modal
+mitsamt,.PREP3+modal
+mitsamt,.PREP+gov(d)+modal
+mittels,.PREP5+modal
+mittels,.PREP+gov(g)+gov(d)+modal
+mittelst,.PREP5+modal
+mittelst,.PREP+gov(g)+gov(d)+modal
+mittenmang,.PREP5+lokal/ norddt., berlin. `mitten unter'
+mittenmang,.PREP+gov(g)+gov(d)+lokal/ norddt., berlin. `mitten unter'
+nach dem Grundsatz,.PREP+gov(g)+modal
+nach dem Prinzip,.PREP+gov(g)+gov(von)+modal
+nach den Prinzipien,.PREP+gov(g)+gov(von)+modal
+nach Maßgabe,.PREP+gov(g)+gov(von)+modal
+nach,.PREP3+temporal+lokal+modal
+nach,.PREP+gov(a)+praenomZ+lokal
+nach,.PREP+gov(d)+temporal+lokal+modal
+nächst,.PREP3+modal
+nächst,.PREP+gov(d)+modal
+nahe,.PREP3+lokal
+nahe,.PREP+gov(d)+lokal
+namens,.PREP+gov(g)
+nördlich,.PREP6
+nördlich,.PREP+gov(g)+gov(von)+lokal
+neben,.PREP4+modal+lokal
+neben,.PREP+gov(d)+gov(a)+modal+lokal
+nebst,.PREP3+modal
+nebst,.PREP+gov(d)+modal
+nid,.PREP3+lokal/ oberdt. `unterhalb'
+nid,.PREP+gov(d)+lokal/ oberdt. `unterhalb'
+niederwärts,.PREP+gov(g)+gov(von)+lokal
+nordöstlich,.PREP+gov(g)+gov(von)+lokal
+nordnordöstlich,.PREP+gov(g)+gov(von)+lokal
+nordnordwestlich,.PREP+gov(g)+gov(von)+lokal
+nordwärts,.PREP+gov(g)+gov(von)+lokal
+nordwestlich,.PREP+gov(g)+gov(von)+lokal
+oberhalb,.PREP6+lokal
+oberhalb,.PREP+gov(g)+gov(von)+lokal
+ober,.PREP3+lokal
+ober,.PREP+gov(d)+lokal
+oberwärts,.PREP+gov(g)+gov(von)+lokal
+ob,.PREP3+lokal
+ob,.PREP+gov(d)+lokal
+ohne Ansehen,.PREP+gov(g)+modal
+ohne Ansehung,.PREP+gov(g)+modal
+ohne Beachtung,.PREP+gov(g)+modal
+ohne Berücksichtigung,.PREP+gov(g)+modal
+ohne,.PREP1+modal
+ohne,.PREP+gov(a)+modal
+ohne Rücksicht auf,.PREP+gov(a)+modal
+ohne Rücksichtnahme auf,.PREP+gov(a)+modal
+ostnordöstlich,.PREP+gov(g)+gov(von)+lokal
+ostsüdöstlich,.PREP+gov(g)+gov(von)+lokal
+ostwärts,.PREP+gov(g)+gov(von)+lokal
+per,.PREP1
+per,.PREP+gov(a)
+plus,.PREP0
+plus,.PREP+gov(-)
+pro,.PREP1
+pro,.PREP+gov(a)
+punkto,.PREP2/ `betreffs'
+punkto,.PREP+gov(g)/ `betreffs'
+qua,.PREP5/ `mittels, gemäß, entsprechend'
+qua,.PREP+gov(g)+gov(d)/ `mittels, gemäß, entsprechend'
+rücksichtlich,.PREP2
+rücksichtlich,.PREP+gov(g)
+rückwärts,.PREP+gov(g)+gov(von)+lokal
+rechts,.PREP+lokal+gov(g)+gov(von)
+ringsum,.PREP+a+lokal
+samt,.PREP3+modal
+samt,.PREP+gov(d)+modal
+südöstlich,.PREP+gov(g)+gov(von)+lokal
+südlich,.PREP6+lokal
+südlich,.PREP+gov(g)+gov(von)+lokal
+südsüdöstlich,.PREP+gov(g)+gov(von)+lokal
+südsüdwestlich,.PREP+gov(g)+gov(von)+lokal
+südwärts,.PREP+gov(g)+gov(von)+lokal
+südwestlich,.PREP+gov(g)+gov(von)+lokal
+seitab,.PREP6+lokal
+seitab,.PREP+gov(g)+gov(von)+lokal
+seitens,.PREP2+modal
+seitens,.PREP+gov(g)+modal
+seitlich,.PREP2+lokal
+seitlich,.PREP+gov(g)+gov(von)+lokal
+seit,.PREP3+temporal
+seit,.PREP+gov(d)+temporal
+seitwärts,.PREP2+lokal
+seitwärts,.PREP+gov(g)+gov(von)+lokal
+sine,.PREP/ ???
+sonder,.PREP1/ `ohne'
+sonder,.PREP+gov(a)/ `ohne'
+statt,.PREP2+modal
+statt,.PREP+gov(g)+gov(d)+modal
+trotz,.PREP5+modal
+trotz,.PREP+gov(g)+gov(d)+modal
+um,.PREP1+temporal+lokal
+um,.PREP+gov(a)+temporal+lokal
+ums,um.PDET+lokal:aeN
+unbeschadet,.PREP6
+unbeschadet,.PREP+gov(g)+gov(von)
+unerachtet,.PREP2+POST
+unerachtet,.PREP+POSTP+gov(g)
+unfern,.PREP2+lokal
+unfern,.PREP+gov(g)+gov(von)+lokal
+ungeachtet,.PREP2+modal
+ungeachtet,.PREP+gov(g)+modal
+unter Anwendung,.PREP+gov(g)+gov(von)+modal
+unter Ausschluß,.PREP+gov(g)+modal
+unter Ausschluss,.PREP+gov(g)+modal
+unter Beachtung,.PREP+gov(g)+modal
+unter Berufung auf,.PREP+gov(a)+modal
+unter Berücksichtigung,.PREP+gov(g)+gov(von)+modal
+unter besonderer Berücksichtigung,.PREP+gov(g)+gov(von)+modal
+mit Berücksichtigung,.PREP+gov(g)+gov(von)+modal
+mit besonderer Berücksichtigung,.PREP+gov(g)+gov(von)+modal
+unter Bezugnahme auf,.PREP+gov(a)+modal
+unter dem Druck,.PREP+gov(g)+gov(von)+modal
+unter dem Gesichtspunkt,.PREP+gov(g)+modal
+unter der Bedingung,.PREP+gov(g)+modal
+unter der Voraussetzung,.PREP+gov(von)+modal
+unter Einbeziehung,.PREP+gov(g)+gov(von)+modal
+unter Einfluß,.PREP+gov(g)+gov(von)+modal
+unter Einfluss,.PREP+gov(g)+gov(von)+modal
+unterhalb,.PREP6+lokal
+unterhalb,.PREP+gov(g)+gov(von)+lokal
+unterkant,.PREP2+lokal
+unterkant,.PREP+gov(g)+lokal
+unterm,unter.PDET+lokal:deM:deN
+untern,unter.PDET+lokal:aeM
+unter,.PREP4+modal+lokal
+unter,.PREP+gov(d)+gov(a)+modal+lokal
+unters,unter.PDET+lokal:aeN
+unter Umgehung,.PREP+gov(g)+gov(von)+modal
+unter Verwendung,.PREP+gov(g)+gov(von)+modal
+unterwärts,.PREP+gov(g)+gov(von)+lokal
+unter Zuhilfename,.PREP+gov(g)+gov(von)+modal
+unweit,.PREP6+lokal
+unweit,.PREP+gov(g)+gov(von)+lokal
+vermöge,.PREP2+modal
+vermöge,.PREP+gov(g)+modal
+vermittels,.PREP2+modal
+vermittels,.PREP+gov(g)+modal
+vermittelst,.PREP2+modal
+vermittelst,.PREP+gov(g)+modal
+versus,.PREP1+modal
+versus,.PREP+gov(a)+modal
+via,.PREP3+modal+lokal
+via,.PREP+gov(d)+modal+lokal
+vis-a-vis,.PREP3+lokal
+vis-a-vis,.PREP+gov(d)+lokal
+vis-à-vis,.PREP3+lokal
+vis-à-vis,.PREP+gov(d)+lokal
+voller,.PREP5
+voller,.PREP+gov(g)+gov(d)+DetZ
+voll,.PREP+POSTP+gov(g)+gov(d)+gov(von)
+vom,von.PDET+temporal+modal+lokal:deM:deN
+von,.PREP3+temporal+modal+lokal
+von,.PREP+gov(d)+temporal+modal+lokal
+vonseiten,.PREP6
+von Seiten,.PREP6
+von seiten,.PREP6/ alte Orthographie
+vonseiten,.PREP+gov(g)+gov(von)
+von Seiten,.PREP+gov(g)+gov(von)
+von seiten,.PREP+gov(g)+gov(von)/ alte Orthographie
+vorbehaltlich,.PREP2+modal
+vorbehaltlich,.PREP+gov(g)+modal
+vor den Toren,.PREP+gov(g)+gov(von)+lokal
+vor den Toren,.PREP+gov(g)+lokal
+vor die Tore,.PREP+gov(g)+gov(von)+lokal
+vorm,vor.PDET+lokal:deM:deN
+vorn,vor.PDET+lokal:aeM
+vor,.PREP3+temporal+modal
+vor,.PREP4+lokal
+vor,.PREP+gov(d)+gov(a)+lokal
+vor,.PREP+gov(d)+temporal+modal
+vors,vor.PDET+lokal:aeN
+vorwärts,.PREP+gov(g)+gov(von)+lokal/ "Zunächst Vernichtung des Feindes vorwärts des Don, dann Gewinnung der Ölgebiete im kaukasischem Raum und Übergang über den Kaukasus selbst."
+während,.PREP5+temporal
+während,.PREP+gov(g)+gov(d)+temporal
+wegen Mangels an,.PREP+gov(d)+DetZ+modal
+wegen,.PREP5+modal
+wegen,.PREP+gov(g)+gov(d)+modal
+weniger,.PREP+gov(-)
+westlich,.PREP+gov(g)+gov(von)+lokal
+westnordwestlich,.PREP+gov(g)+gov(von)+lokal
+westsüdwestlich,.PREP+gov(g)+gov(von)+lokal
+westwärts,.PREP+gov(g)+gov(von)+lokal
+wider,.PREP1
+wider,.PREP+gov(a)
+wie,.PREP0
+wie,.PREP+gov(-)
+willen,.POSTP+gov(g)
+zeit,.PREP2+temporal
+zeit,.PREP+gov(g)+temporal
+zu Ehren,.PREP+gov(g)+gov(von)+modal
+zufolge,.PREP5+POSTP+modal
+zufolge,.PREP+POSTP+gov(g)+gov(d)+modal
+zugunsten,.PREP6+modal
+zu Gunsten,.PREP6+modal
+zugunsten,.PREP+gov(g)+gov(von)+modal
+zu Gunsten,.PREP+gov(g)+gov(von)+modal
+zuhänden,.PREP2
+zu Händen,.PREP2
+zuhänden,.PREP+gov(g)
+zu Händen,.PREP+gov(g)
+zulasten,.PREP6
+zu Lasten,.PREP6
+zulasten,.PREP+gov(g)+gov(von)
+zu Lasten,.PREP+gov(g)+gov(von)
+zuliebe,.POSTP3
+zuliebe,.POSTP+gov(d)
+zum Nachteil,.PREP+gov(g)+gov(von)+modal
+zum Nutzen,.PREP+gov(g)+gov(von)+modal
+zum Preis,.PREP+gov(von)+gov(von)+modal
+zum Wohle,.PREP+gov(g)+gov(von)+modal
+zum Zeitpunkt,.PREP+gov(g)+gov(von)+temporal
+zum,zu.PDET+temporal+modal+lokal:deM:deN
+zum Zweck,.PREP+gov(g)+modal
+zunächst,.POSTP3
+zunächst,.POSTP+gov(d)
+zu,.PREP3+temporal+modal+lokal
+zu,.PREP+gov(d)+temporal+modal+lokal
+zur Zeit,.PREP+gov(g)+gov(von)+temporal
+zur,zu.PDET+temporal+modal+lokal:deF
+zusamt,.PREP3/ `mit'
+zusamt,.PREP+gov(d)/ `mit'
+zuseiten,.PREP6
+zu Seiten,.PREP6
+zu seiten,.PREP6/ alte Orthographie
+zuseiten,.PREP+gov(g)+gov(von)
+zu Seiten,.PREP+gov(g)+gov(von)
+zu seiten,.PREP+gov(g)+gov(von)/ alte Orthographie
+zuseiten,.PREP+gov(g)+gov(von)+lokal
+zuungunsten,.PREP5+modal
+zu Ungunsten,.PREP5+modal
+zuungunsten,.PREP+gov(g)+gov(von)+modal
+zu Ungunsten,.PREP+gov(g)+gov(von)+modal
+zuwider,.POSTP3+modal
+zuwider,.POSTP+gov(d)+modal
+zuzüglich,.PREP2+modal
+zuzüglich,.PREP+gov(g)+modal
+zwecks,.PREP2+modal
+zwecks,.PREP+gov(g)+modal
+zwischen,.PREP4+temporal+lokal
+zwischen,.PREP+gov(m)+gov(d)+gov(a)+temporal+lokal
+am Rande,.PREP+gov(g)+gov(von)+lokal
+
+//exterior,.PREP/ ???
+//zirka,.PREP
+
+// Ergänzungen Schweisthal
+//abgerechnet
+//abschläglich
+//a
+//a la
+//à la
+//ad
+//anbetreffs
+//anfangs
+//ausgenommen
+//Anfang
+//Ende
+//Mitte
+//Punkt
+//Zeit
+//## "bis" mit allen dynamischen Präps ??
+//bis an/ bis an die Haustür
+//bis auf
+//bis gegen
+//bis in/bis in die Rhön
+//bis nach/ bis nach Berlin
+//bis um
+//bis vor/ bis vor die Haustür
+//bis zu
+//bis über
+//eingeschlossen
+//gelegentlich
+//halbwegs
+//inhaltlich
+//inhalts
+//langseit
+//längsseit
+//macht
+//nah
+//nah bei
+//nah von
+//nahe bei
+//nahe von
+//ohnerachtet
+//ohngeachtet
+//puncto
+//rittlings
+//unangesehen
+//ungerechnet
+//viel
+//vorbehältlich
+//vorgängig
+//zuschläglich
+//zusätzlich
+// bis tief in
+
+// koordinierte Präpositionen
+dies- und jenseits,.PREP+gov(g)+gov(von)+lokal
+in- und außerhalb,.PREP+gov(g)+gov(von)+lokal
+inner- und außerhalb,.PREP+gov(g)+gov(von)+lokal
+// bessere Beschreibungsmöglichkeit für die folgenden?:
+vor und während,.PREP+gov(g)+temporal
+in und um,.PREP+gov(d)+lokal
+// von und nach
+// diesseits und jenseits
+// links und rechts
+// innerhalb und außerhalb
+// aus und über
+// in und aus
+// in und außerhalb
+// ab und bis
+// nach und von
+// aus und nach
+// nördlich und südlich
+// in und über
+// bis und ab
+// an und in
+// aus und um
+// in und an
+// nach und aus
+// um und in
+// westlich und östlich
+// im und um
+// nach und durch
+// von und über
+// vor und in
+// ab und in
+// südlich und nördlich
+// von und bis
+// vor und nach
+// östlich und westlich
+
