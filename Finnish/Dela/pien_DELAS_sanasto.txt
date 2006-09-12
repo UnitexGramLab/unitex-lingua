@@ -1,0 +1,153 @@
+PIEN_DELAS_SANASTO_INFO.TXT
+---------------------------
+
+Le dictionnaire pien_DELAS_sanasto contient tous les mots variables du texte de démonstration (julistus.txt). 
+Chaque entrée lexicale est suivie de plusieurs informations codées :
+
+1) la catégorie grammaticale
+2) la classe lexicale (modèle de flexion)
+3) la nature vocalique du mot
+4) son degré consonantique (pour les mots ayant une alternance consonantique)
+
+Chacune de ces informations est nécessaire pour générer le dictionnaire des mots fléchis (pien_DELAF_sanasto)
+
+Exemple commenté : katu,N01ARS (katu 'rue' est un nom (N) de la première classe (01) 
+avec voyelle d'arrière (AR) et ayant une consonne au degré fort (S).
+
+Le finnois compte 82 classes nominales et 45 classes verbales (référence : Nykysuomen Sanakirja). 46 classes verbales sont utilisées dans le pien_DELAS_sanasto ; la conjugaison atypique de l'auxiliaire olla "être" fait l'objet d'une classe particulière.
+
+Liste des abréviations utilisées (version provisoire et limitée au texte de démonstration) :
+
+1/2/3 :	personne
+A : adjectif
+ADV : adverbe
+AR : voyelle d'arrière
+AV : voyelle d'avant
+FOR : forclusif
+N : nom
+NEG : négation
+PL : pluriel
+POSTPLOC : postposition locative
+PRO : pronom
+PRODET : pronom et déterminant
+PROIND : pronom indéfini
+PROINT : pronom interrogatif
+PROPER : pronom personnel
+PROREL : pronom relatif
+S : degré fort (strong)
+SG : singulier
+V : verbe
+W : degré faible (weak)
+
+AV et AR qualifient le trait phonologique dominant des voyelles harmonisantes de la base lexicale. Pour les mots dysharmonieux, les codes AR et AV précisent le choix de la voyelle harmonisante des suffixes (AR/AV est utilisé pour les mots qui acceptent aussi bien des voyelles d'avant que des voyelles d'arrière dans les suffixes).
+
+Les mots soumis à l'alternance consonantique sont marqués S (degré fort) ou W (degré faible). Les bases lexicales marquées par un astérisque dans la partie commentée (/*) sont des formes inexistantes sans flexion explicite. Pour tous les mots ayant une alternance consonantique, l'entrée lexicale est dédoublée afin de prendre en compte les deux formes rencontrées dans la flexion (exemple : katu,N01ARS et kadu,N01ARW/*. La première permet de générer notamment l'illatif katuun, tandis que la seconde permet de générer notamment l'adessif kadulla).
+
+Les nombres associés aux différentes catégories grammaticales correspondent aux classes lexicales.
+
+Liste des graphes nécessaires à la génération des mots fléchis du texte de démonstration :
+
+A11AR
+A23AR
+A57AR
+A63AR
+A63AV
+A66ARS
+A66ARW
+ADV1FOR
+N01AR
+N01ARS
+N01ARW
+N01AVS
+N01AVW
+N02ARS
+N02ARW
+N02AV
+N04ARS
+N04ARW
+N04AV
+N08ARS
+N08ARW
+N08AVS
+N08AVW
+N10ARS
+N10ARW
+N11AR
+N11AV
+N13AR
+N13AV
+N14AV
+N15AR
+N15AVS
+N15AVW
+N23AR
+N28AR
+N32AR
+N32AV
+N56AR
+N63AR
+N63AV
+N64AR
+N64AV
+N65AR
+N65AV
+N78AR
+N78ARS
+N78ARW
+N78AVS
+N78AVW
+NEG
+POSTPLOCAV
+PRO08ARS
+PRO08ARW
+PRO29AR
+PRO63AR
+PRODET1
+PRODET3
+PROIND1
+PROINT1
+PROPER123PL
+PROPER3SG
+PROREL1
+PROREL2
+V01AR
+V01ARS
+V01ARW
+V01AVS
+V01AVW
+V02ARS
+V02ARW
+V02AVS
+V02AVW
+V05AVS
+V05AVW
+V09AR
+V09ARS
+V09ARW
+V17AR
+V19ARS
+V19ARW
+V24AR
+V25ARS
+V25ARW
+V28ARS
+V28ARW
+V31AR
+V33AVS
+V33AVW
+V35AR
+V35ARS
+V35ARW
+V35AV
+V35AVS
+V35AVW
+V37AV
+V46
+--------------------------------------
+10 avril 2004 
+
+Richard Renault
+renault@sc-homme.unicaen.fr
+
+ressources linguistiques pour le finnois :
+http://www.unicaen.fr/unicaen/ufr/homme/linguistique/ressources/index.html

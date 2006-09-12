@@ -1,0 +1,91 @@
+PIEN_DELAF_SANASTO_INFO.TXT
+---------------------------
+
+Le dictionnaire pien_DELAF_sanasto est obtenu par application des graphes de flexion aux entrées lexicales du dictionnaire pien_DELAS_sanasto.
+
+Les 162 mots du pien_DELAS_sanasto génèrent 256 917 formes fléchies. Les graphes de flexion permettent de créer toutes les formes fléchies morphologiquement possibles.
+
+-Les noms du pien_DELAF_sanasto répondent à la structure optimale :
+N+NBR+CAS+(POSS)+(PTC). 
+Exemple : oikeuksiltaankin,oikeus.N+PL+ABL+POSS3+PTC1 'dans/de leurs droits aussi'
+
+-Les adjectifs répondent à la structure optimale : A+NBR+CAS+(PTC).
+Exemple : vapaina,vapaa.A+PL+ESS 'libres'
+
+-Les verbes répondent à la structure optimale : V+(PASS)+T/M+PER.
+Exemple : tunnustetaan,tunnustaa.V+PASS+PRES+3 'on reconnaît'
+
+- les formes nominales des verbes répondent soit à la structure morphologique des noms soit à celle des adjectifs. Outre les catégories flexionnelles des noms et des adjectifs, les formes nominales des verbes peuvent contenir un suffixe de passif (PASS) et un suffixe de participe (PRESP, PRETP) ou d'infinitif (INF).
+Exemples : oikeutettu,oikeutaa.V+PASS+PASTP+SG+NOM/* 'justifié(e)',
+määrättäessä,määrätä.V+PASS+INF2+INES 'décidant'
+
+La conjugaison des verbes de ce dictionnaire ne prend pas en compte la présence éventuelle de particules (PTC).
+
+La séquence /* signale une forme fléchie dont la base lexicale restituée n'existe pas sans suffixe(s).
+Exemple : hengessä,hengi.N+SG+INES/* (*hengi = degré faible de henki 'en vie')
+
+Liste des codes des catégories grammaticales (version provisoire et limitée au texte de référence):
+
+1/2/3 : personne
+A : adjectif
+ADV : adverbe
+AR : voyelle d'arrière
+AV : voyelle d'avant
+FOR : forclusif
+N : nom
+NEG : négation
+PL : pluriel
+POSTPLOC : postposition locative
+PRO : pronom
+PRODET : pronom et déterminant
+PROIND : pronom indéfini
+PROINT : pronom interrogatif
+PROPER : pronom personnel
+PROREL : pronom relatif
+S : degré fort (strong)
+SG : singulier
+V : verbe
+W : degré faible (weak)
+
+Les nombres associés à certaines catégories dans le pien_DELAS_sanasto (V01..., N01...) correspondent aux classes lexicales.
+
+Liste des codes des catégories flexionnelles (version provisoire et limitée au texte de référence):
+
+1/2/3 : personne
+ABES : abessif
+ABL : ablatif
+ACC : accusatif
+ALL : allatif
+COM : comitatif
+COND : conditionnel
+ELA : élatif
+ESS : essif
+GEN : génitif
+ILL : illatif
+IMP : impératif
+INES : inessif
+INF : infinitif
+INST : instructif
+NOM : nominatif
+PART : partitif
+PASS : passif
+PASTP : participe passé
+POSS : désinence possessive
+POT : potentiel
+PRES : présent
+PRESP : participe présent
+PRET : prétérit
+PTC : particule 
+TRANS : translatif
+  
+Les nombres associés à certaines catégories dans le pien_DELAF_sanasto (IN1..., 1SG..., PTC1) correspondent soit à des valeurs paradigmatiques (1SG...) soit à des sous-catégories (INF1..., PTC1...)  
+
+
+--------------------------
+10 avril 2004
+
+Richard Renault
+renault@sc-homme.unicaen.fr
+
+ressources linguistiques pour le finnois :
+http://www.unicaen.fr/unicaen/ufr/homme/linguistique/ressources/index.html

@@ -1,0 +1,24 @@
+PIEN_DELASINV_SANASTO_INFO.TXT
+------------------------------
+
+Le dictionnaire pien_DELASINV_sanasto 
+contient tous les mots invariables du texte de démonstration (julistus.txt).
+
+
+Liste des codes grammaticaux
+(liste provisoire et limitée au texte de démonstration) :
+
+ADV : adverbe
+CRD : coordonnant
+POSTP : postposition
+PREP : préposition
+SUB : subordonnant
+
+
+10 avril 2004 
+
+Richard Renault
+renault@sc-homme.unicaen.fr
+
+ressources linguistiques pour le finnois :
+http://www.unicaen.fr/unicaen/ufr/homme/linguistique/ressources/index.html
