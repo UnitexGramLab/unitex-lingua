@@ -1,0 +1,1 @@
+e:\unitextKr\syl2jamo -j lastvalue.fst2

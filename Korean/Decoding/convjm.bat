@@ -1,0 +1,1 @@
+D:\Unitex\App\syl2jamo -j uneSyl.fst2
