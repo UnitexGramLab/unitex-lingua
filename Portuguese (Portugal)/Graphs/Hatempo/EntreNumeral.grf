@@ -1,0 +1,32 @@
+#FSGraph 4.0
+SIZE 949 1251
+FONT Times New Roman:  12
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 8421504
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT P
+#
+12
+"<E>" 104 260 5 2 6 9 3 7 
+"" 716 224 0 
+"entre" 152 184 2 9 3 
+":Numeral" 328 184 2 4 10 
+"a+e" 440 164 2 5 11 
+":Numeral" 616 224 1 1 
+"de" 180 348 1 7 
+":Numeral" 312 348 2 8 10 
+"a" 440 348 1 5 
+"<o>" 248 152 1 3 
+"ou" 440 248 1 5 
+"<o>" 540 152 1 5 
