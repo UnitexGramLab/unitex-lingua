@@ -1,0 +1,34 @@
+
+** From state 0, transition with tag #1
+
+
+We replace tag 1 by tag 0
+
+
+after <BL> (tag #1), pos_token=1 pos_char=0 pos_letter=0   pos_syllab=1 pos_jamo=1
+
+** From state 1, transition with tag #2
+
+after tag 가령, pos_token=2 pos_char=0 pos_letter=0      pos_syllab=3 pos_jamo=9
+
+** From state 17, transition with tag #21
+
+** From state 18, transition with tag #22
+
+after tag ,, pos_token=3 pos_char=0 pos_letter=0      pos_syllab=4 pos_jamo=10
+
+** From state 3, transition with tag #5
+
+
+We replace tag 5 by tag 0
+
+
+after <BL> (tag #5), pos_token=4 pos_char=0 pos_letter=0   pos_syllab=5 pos_jamo=11
+
+** From state 4, transition with tag #6
+
+after tag ", pos_token=4 pos_char=0 pos_letter=0      pos_syllab=5 pos_jamo=11
+
+** From state 5, transition with tag #7
+compute_end_positions: mismatch #2 between text and tag character
+jamo_tag[1]=ᄂ  jamo_text[11]="
