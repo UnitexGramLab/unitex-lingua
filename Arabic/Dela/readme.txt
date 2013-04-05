@@ -20,9 +20,9 @@ Des statistiques sur le contenu des dictionnaires
 
 1- Verbes
 
-Lemmes							14963 entées
-Formes fléchies voyellées		3947568 entrées
-Formes fléchies non voyellées	5783167 entrées
+Lemmes							16855 entées (soit une couverture de plus de 70% des verbes arabes)
+Formes fléchies voyellées		4447056 entrées
+Formes fléchies non voyellées	6633299 entrées
 
 2- Nom et adjectif
 
@@ -51,4 +51,4 @@ Formes non voyellées			205 entrées
 
 8- Villes						7977 entrées
 
-Total des entrées 				9913493 entrées
+Total des entrées 				11263113 entrées
