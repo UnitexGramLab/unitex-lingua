@@ -1,7 +1,7 @@
 **************************************************************
 *	Auteur : N. DOUMI
 *	e-mail : ndoumi2006@gmail.com, noureddine.doumi@univ-saida.dz
-*	dernière mise à jour :	10/05/2012
+*	dernière mise à jour :	12/04/2013
 **************************************************************
 
 Comment sont produits les graphes de flexion ?
