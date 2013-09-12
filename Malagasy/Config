@@ -1,0 +1,6 @@
+#Unitex configuration file
+#Sun Sep 08 15:37:12 EAT 2013
+ICON\ BAR\ POSITION=North
+MAX\ TEXT\ FILE\ SIZE=2097152
+MORPHOLOGICAL\ DICTIONARY=C\:\\Users\\Joroson\\Saved Games\\Unitex\\Malagasy\\Dela\\DEMA-VSflx.bin;C\:\\Users\\Joroson\\Saved Games\\Unitex\\Malagasy\\Dela\\DEMA-INVflx.bin
+LOGGING\ DIR=C\:\\Users\\Joroson\\Downloads\\Unitex3.0\\Unitex3.0\\App
