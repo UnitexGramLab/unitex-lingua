@@ -1,7 +1,7 @@
 **************************************************************
 *	Auteur : N. DOUMI
 *	e-mail : ndoumi2006@gmail.com, noureddine.doumi@univ-saida.dz
-*	dernière mise à jour :	12/04/2013
+*	dernière mise à jour :	28/01/2014
 **************************************************************
 
 Comment sont produits les graphes de flexion ?
@@ -20,7 +20,7 @@ Des statistiques sur le contenu des dictionnaires
 
 1- Verbes
 
-Lemmes							16855 entées (soit une couverture de plus de 70% des verbes arabes)
+Lemmes							16855 entrées (soit une couverture de plus de 70% des verbes arabes)
 Formes fléchies voyellées		4447056 entrées
 Formes fléchies non voyellées	6633299 entrées
 
@@ -46,9 +46,14 @@ Formes voyellées				164 entrées
 Formes non voyellées			205 entrées
 
 6- Prénoms						8353 entrées
-
 7- Pays 						802 entrées
-
 8- Villes						7977 entrées
 
 Total des entrées 				11263113 entrées
+
+Le contenu des dictionaires électroniques détaillé dans les statistiques ci-dessus est distribué avec Unitex depuis 2011 et organisé dans le reprtoire dela du module arabe sous les noms de fichiers suivants : DELAF_V, DELAF_V-d, DELAF_N, DELAF_N-d, 5noms, 5noms-d, Adv, Adv-d, particules, particules-d, pronoms, pronmos-d, prenoms, ville et pays. 
+Ces fichiers peuvent être en format bin ou inf.
+
+Références 
+Doumi, N., Lehireche, A., Maurel, D., & Ali Cherif, M. (2013). La conception d'un jeu de ressources libres pour le TAL arabe sous Unitex. Paper presented at the TRADETAL2013, 6ème Colloque international en Traductologie et TAL, Oran - Algeria, 5-6 may 2013
+https://www.researchgate.net/publication/259894480_Conception_d%27un_jeu_de_ressources_libres_pour_le_TAL_arabe_sous_Unitex
