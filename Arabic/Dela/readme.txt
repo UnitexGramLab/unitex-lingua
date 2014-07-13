@@ -1,7 +1,7 @@
 **************************************************************
 *	Auteur : N. DOUMI
 *	e-mail : ndoumi2006@gmail.com, noureddine.doumi@univ-saida.dz
-*	dernière mise à jour :	28/01/2014
+*	dernière mise à jour :	13/07/2014
 **************************************************************
 
 Comment sont produits les graphes de flexion ?
@@ -26,9 +26,9 @@ Formes fléchies non voyellées	6633299 entrées
 
 2- Nom et adjectif
 
-Lemmes							1427 entrées
-Formes fléchies voyellées		75309 entrées
-Formes fléchies non voyellées	89388 entrées
+Lemmes							1726 entrées
+Formes fléchies voyellées		83151 entrées
+Formes fléchies non voyellées	98103 entrées
 
 3- Adverbes
 
@@ -49,7 +49,7 @@ Formes non voyellées			205 entrées
 7- Pays 						802 entrées
 8- Villes						7977 entrées
 
-Total des entrées 				11263113 entrées
+Total des entrées 				11279670 entrées
 
 Le contenu des dictionaires électroniques détaillé dans les statistiques ci-dessus est distribué avec Unitex depuis 2011 et organisé dans le reprtoire dela du module arabe sous les noms de fichiers suivants : DELAF_V, DELAF_V-d, DELAF_N, DELAF_N-d, 5noms, 5noms-d, Adv, Adv-d, particules, particules-d, pronoms, pronmos-d, prenoms, ville et pays. 
 Ces fichiers peuvent être en format bin ou inf.
