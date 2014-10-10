@@ -1,7 +1,7 @@
 **************************************************************
 *	Auteur : N. DOUMI
 *	e-mail : ndoumi2006@gmail.com, noureddine.doumi@univ-saida.dz
-*	dernière mise à jour :	04/08/2014
+*	dernière mise à jour :	10/10/2014
 **************************************************************
 
 Comment sont produits les graphes de flexion ?
@@ -10,11 +10,11 @@ Les dictionnaires des formes simples des catégories grammaticales verbe, nom com
 
 D’où l'idée de générer les graphes flexionnels d'une façon semi automatique et ainsi un utilisateur d'Unitex peut compiler ses propres dictionnaires en utilisant le système de génération des graphes.
 
-Ce système fonctionne d'une façon semi automatique, il a besoin par exemple dans le cas des verbes de 5 formes l'accompli actif, l'inaccompli actif, l'impératif, l'accompli passif et l'inaccompli passif. à partir de ces 5 formes il génère un graphe qui produit 264 formes fléchies du verbe.
+Ce système fonctionne d'une façon semi automatique, il a besoin par exemple dans le cas des verbes de 5 formes : l'accompli actif, l'inaccompli actif, l'impératif, l'accompli passif et l'inaccompli passif. à partir de ces 5 formes il génère un graphe qui produit 264 formes fléchies du verbe.
 
 Les commentaires des lecteurs sont les bienvenus dans les emails indiqués ci-dessus.
 
-Le jeu d'étiquettes avec les codes des catégories syntaxiques et les codes des information flexionnelles sont cités dans le fichiers tagset.pdf du même répertoire.
+N.B: Le jeu d'étiquettes avec les codes des catégories syntaxiques et les codes des information flexionnelles sont cités dans le fichier tagset.pdf du même répertoire.
 
 Des statistiques sur le contenu des dictionnaires
 
@@ -28,7 +28,7 @@ Formes fléchies non voyellées	6633299 entrées
 
 Lemmes							1780 entrées
 Formes fléchies voyellées		86553 entrées
-Formes fléchies non voyellées	101757 entrées
+Formes fléchies non voyellées	107415 entrées
 
 3- Adverbes
 
@@ -49,7 +49,7 @@ Formes non voyellées			205 entrées
 7- Pays 						802 entrées
 8- Villes						7977 entrées
 
-Total des entrées 				11286726 entrées
+Total des entrées 				11292384 entrées
 
 Le contenu des dictionaires électroniques détaillé dans les statistiques ci-dessus est distribué avec Unitex depuis 2011 et organisé dans le reprtoire dela du module arabe sous les noms de fichiers suivants : DELAF_V, DELAF_V-d, DELAF_N, DELAF_N-d, 5noms, 5noms-d, Adv, Adv-d, particules, particules-d, pronoms, pronmos-d, prenoms, ville et pays. 
 Ces fichiers peuvent être en format bin ou inf.
