@@ -1,0 +1,48 @@
+ demo for Unitex Script and Resource package
+
+
+ here are sample of usage of package with UnitexToolLogger executable
+ (just remove the  and merges all lines)
+
+ These sample are under MS-Windows
+ put testHour.lingpkg in c:\HourTest
+ and a file named testdate.txt with this line:
+  It is soon  midnight and 14:05pm after. We go work at 8:00am, and to go home at 7:15pm.
+ you'll get result on three files result_date_merge.txt, result_date.xml and result_date.txt
+
+ to uncompress resource package on disk at c:\UnitexPkgResource and working file at c:\UnitexPkgWork
+  { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "c:\UnitexPkgResource" -v }
+  { RunScript -v -a INPUT_FILE_1=c:\HourTest\testdate.txt -a "CORPUS_WORK_DIR=c:\UnitexPkgWork" -a "PACKAGE_DIR=c:\UnitexPkgResource" -a OUTPUT_FILE_1=c:\HourTest\result_date_merge.txt -a OUTPUT_FILE_2=c:\HourTest\result_date.xml -a OUTPUT_FILE_3=c:\HourTest\result_date.txt "c:\UnitexPkgResource\script\standard.uniscript" }
+  { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "c:\UnitexPkgResource" -u -v }
+
+  to work on Virtual File (resource package on $:UnitexPkgResource and working file at $:UnitexPkgWork)
+  { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "$:UnitexPkgResource" -v }
+  { RunScript -v -a INPUT_FILE_1=c:\HourTest\testdate.txt -a "CORPUS_WORK_DIR=$:UnitexPkgWork/" -a "PACKAGE_DIR=$:UnitexPkgResource" -a OUTPUT_FILE_1=c:\HourTest\result_date_merge.txt -a OUTPUT_FILE_2=c:\HourTest\result_date.xml -a OUTPUT_FILE_3=c:\HourTest\result_date.txt "$:UnitexPkgResource\script\standard.uniscript" }
+  { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "$:UnitexPkgResource" -u -v }
+
+ to work on Unitex Optimized Virtual File (resource package on $:UnitexPkgResource and working file at $:UnitexPkgWork)
+  { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "*UnitexPkgResource" -v }
+  { RunScript -v -a INPUT_FILE_1=c:\HourTest\testdate.txt -a "CORPUS_WORK_DIR=*UnitexPkgWork/" -a "PACKAGE_DIR=*UnitexPkgResource" -a OUTPUT_FILE_1=c:\HourTest\result_date_merge.txt -a OUTPUT_FILE_2=c:\HourTest\result_date.xml -a OUTPUT_FILE_3=c:\HourTest\result_date.txt "*UnitexPkgResource\script\standard.uniscript" }
+  { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "*UnitexPkgResource" -u -v }
+
+ With Linux/Unix/Mac, just replace \ by / and c:\ by your home directory in these command line.
+
+ 
+Full command line sample under MS-Windows, after copying testHour.lingpkg to c:\HourTest:
+echo It is soon  midnight and 14:05pm after. We go work at 8:00am, and to go home at 7:15pm.> c:\HourTest\testdate.txt
+UnitexToolLogger.exe { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "$:UnitexPkgResource" -v } { RunScript -v -a INPUT_FILE_1=c:\HourTest\testdate.txt -a "CORPUS_WORK_DIR=$:UnitexPkgWork/" -a "PACKAGE_DIR=$:UnitexPkgResource" -a OUTPUT_FILE_1=c:\HourTest\result_date_merge.txt -a OUTPUT_FILE_2=c:\HourTest\result_date.xml -a OUTPUT_FILE_3=c:\HourTest\result_date.txt "$:UnitexPkgResource\script\standard.uniscript" } { InstallLingResourcePackage -r -p c:\HourTest\testHour.lingpkg -x "$:UnitexPkgResource" -u -v }
+
+
+Full command line sample under MacOSX/Linux/Unix, after copying testHour.lingpkg to ~/HourTest/:
+mkdir ~/HourTest
+echo It is soon  midnight and 14:05pm after. We go work at 8:00am, and to go home at 7:15pm.> ~/HourTest/testdate.txt
+./UnitexToolLogger { InstallLingResourcePackage -r -p ~/HourTest/testHour.lingpkg -x "$:UnitexPkgResource" -v } { RunScript -v -a INPUT_FILE_1=~/HourTest/testdate.txt -a "CORPUS_WORK_DIR=$:UnitexPkgWork/" -a "PACKAGE_DIR=$:UnitexPkgResource" -a OUTPUT_FILE_1=~/HourTest/result_date_merge.txt -a OUTPUT_FILE_2=~/HourTest/result_date.xml -a OUTPUT_FILE_3=~/HourTest/result_date.txt "$:UnitexPkgResource/script/standard.uniscript" } { InstallLingResourcePackage -r -p ~/HourTest/testHour.lingpkg -x "$:UnitexPkgResource" -u -v }
+ 
+(note the double space between soon and midnight. You can compare by adding a third space)
+ 
+ Using Unitex Library, you can install the package, and then run several RunScript
+
+ Note:
+- testHour.lingpkg is uncompressed zipfile (build using zip -0 -X ...). standard unzip can unpack it.
+- When the script file script/standard.uniscript is read, all \ are converted to / under Linux/Unix/Mac
+- When the script file script/standard.uniscript is read, all / are converted to \ under MS-Windows
