@@ -1,0 +1,5 @@
+latdelaf-SrpskiU.bin
+latDelacf-SrpskiU.bin
+latDelacf-NepromU.bin
+NewBrojSlovima.fst2
+NewBrojSlovima_norm-z.fst2
