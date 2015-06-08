@@ -1,14 +1,14 @@
 #Unigraph
-SIZE 1345 933
+SIZE 533 722
 FONT Times New Roman:  12
 OFONT Times New Roman:B 12
 BCOLOR 16777215
 FCOLOR 0
-ACOLOR 8454143
+ACOLOR 8421504
 SCOLOR 16711680
 CCOLOR 255
 DBOXES y
-DFRAME n
+DFRAME y
 DDATE y
 DFILE y
 DDIR n
@@ -17,8 +17,9 @@ DRST n
 FITS 100
 PORIENT L
 #
-4
-"<E>" 32 96 1 2 
-"" 328 96 0 
-":RN" 124 96 1 1 
-"The embeded RN graph identifies Roman Numerals" 32 216 0 
+5
+"<E>" 104 168 3 2 3 4 
+"" 336 148 0 
+"М" 196 69 1 1 
+"М М" 203 162 1 1 
+"М М М" 208 252 1 1 

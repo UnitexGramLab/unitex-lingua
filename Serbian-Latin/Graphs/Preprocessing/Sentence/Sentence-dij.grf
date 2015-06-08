@@ -1,0 +1,69 @@
+#Unigraph
+SIZE 1318 763
+FONT Times New Roman:B 14
+OFONT Courier New:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 12632256
+SCOLOR 255
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+49
+"<E>" 20 344 3 17 27 2 
+"" 997 392 0 
+".+?+!+\:+...+.\\\"" 51 164 2 14 28 
+":VelikoSlovo" 540 232 1 4 
+"." 700 232 2 5 3 
+"<MAJ> +<PRE>" 860 285 1 1 
+":VelikoSlovo" 558 501 1 31 
+"pravilo no 1 " 556 56 0 
+":VelikoSlovo" 432 392 1 9 
+"." 556 392 1 10 
+":VelikoSlovo" 636 392 2 9 1 
+"<E>" 778 133 1 1 
+"g.+gosp.+prof.+dr.+mr.+en.+eng.+engl.+fr.+lat.+nem.+sv.+ul.+bul." 311 285 2 13 12 
+"<E>" 489 285 2 3 5 
+"<E>/{S}" 196 164 3 17 15 37 
+"<MAJ> +<PRE>" 416 80 1 16 
+"<E>" 894 80 1 1 
+"<E>" 225 716 2 19 38 
+"Skracenice ili sigle, ex. : 'S.N.C.F.'+Poslednja tacka '.' moze biti +separator recenice" 464 332 0 
+"<E>" 272 392 3 8 12 3 
+"<E>" 349 716 2 25 32 
+"pravilo no 2 " 196 272 0 
+"pravilo no 3+(nije potrebno)" 328 542 0 
+"ex. : 'E.T.A. Hofman'" 644 188 0 
+"ex. : 'Prof. dr.  C. Krstev'" 412 192 0 
+"<E>" 406 716 2 33 43 
+":Nombres" 673 716 1 1 
+"<E>" 332 132 1 29 
+"<PNC>+<^>" 107 73 2 28 14 
+":skracenice+:skracenice-dij" 484 132 1 11 
+"<E>/{S}" 742 501 1 1 
+"." 690 501 1 30 
+":matematika" 408 501 1 6 
+"<MAJ>+<MIN>" 483 565 2 34 33 
+"." 595 565 1 36 
+"ex. IV.1" 455 605 0 
+"<NB>" 641 565 1 1 
+"\\\"+-" 297 98 1 15 
+"<E>" 293 716 2 20 39 
+"<MAJ>" 333 462 1 40 
+"\:" 444 462 1 41 
+"<MAJ>" 519 462 1 1 
+"interpunkcija u naslovu" 366 431 0 
+"<E>" 499 716 2 26 44 
+"<NB>" 549 622 2 45 47 
+"." 687 622 1 46 
+":Valute" 727 622 1 1 
+"mil" 632 595 1 45 
+"40 mil. EUR" 491 654 0 

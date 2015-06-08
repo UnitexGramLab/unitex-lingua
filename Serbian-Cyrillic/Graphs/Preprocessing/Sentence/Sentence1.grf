@@ -1,0 +1,58 @@
+#Unigraph
+SIZE 1047 763
+FONT Times New Roman:B 14
+OFONT Courier New:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 12632256
+SCOLOR 255
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+38
+"<E>" 20 344 3 17 27 2 
+"" 997 383 0 
+".+?+!+\:+...+.\\\"" 58 166 2 14 28 
+":VelikoSlovo" 540 232 1 4 
+"." 700 232 2 5 3 
+"<MAJ> +<МИX>+<PRE>" 860 280 1 1 
+":VelikoSlovo" 588 528 1 31 
+"pravilo no 1 " 556 56 0 
+":VelikoSlovo" 432 392 1 9 
+"." 556 392 1 10 
+":VelikoSlovo" 636 392 2 9 1 
+"<E>" 778 133 1 1 
+"г.+проф.+др.+мр." 316 280 2 13 12 
+"<E>" 452 280 2 3 5 
+"<E>/{S}" 196 164 3 17 15 37 
+"<MAJ> +<PRE>" 416 80 1 16 
+"<E>" 918 86 1 1 
+"<E>" 220 672 2 19 20 
+"Skracenice ili sigle, ex. : 'S.N.C.F.'+Poslednja tacka '.' moze biti +separator recenice" 464 332 0 
+"<E>" 272 392 3 8 12 3 
+"<E>" 344 676 2 25 32 
+"pravilo no 2 " 196 272 0 
+"pravilo no 3+(nije potrebno)" 308 472 0 
+"ex. : 'E.T.A. Hofman'" 644 188 0 
+"ex. : 'Prof. dr.  C. Krstev'" 412 192 0 
+"<E>" 400 672 2 26 33 
+":Nombres" 668 672 1 1 
+"<E>" 332 132 1 29 
+"<PNC>+<^>" 107 73 2 28 14 
+":skracenice" 484 132 1 11 
+"<E>/{S}" 772 528 1 1 
+"." 720 528 1 30 
+":matematika" 441 522 1 6 
+"<MAJ>+<MIN>" 520 596 2 34 33 
+"." 632 596 1 36 
+"ex. IV.1" 492 636 0 
+"<NB>" 668 595 1 1 
+"\\\"+-" 297 98 1 15 

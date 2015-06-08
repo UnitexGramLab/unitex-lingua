@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 70 200 7 2 3 4 5 6 7 8 
+"" 635 205 0 
+"jel'/je li" 204 61 1 1 
+"dal'/da li" 204 121 1 1 
+"rek'o/rekao" 204 180 1 1 
+"jes'/jeste" 204 234 1 1 
+"oće+'oće/hoće" 204 447 1 1 
+"oću+'oću/hoću" 204 367 1 1 
+"oćeš+'oćeš/hoćeš" 204 294 1 1 

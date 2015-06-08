@@ -1,10 +1,10 @@
 #Unigraph
-SIZE 533 722
+SIZE 952 1100
 FONT Times New Roman:  12
 OFONT Times New Roman:B 12
 BCOLOR 16777215
 FCOLOR 0
-ACOLOR 8421504
+ACOLOR 12632256
 SCOLOR 16711680
 CCOLOR 255
 DBOXES y
@@ -17,9 +17,7 @@ DRST n
 FITS 100
 PORIENT L
 #
-5
-"<E>" 104 168 3 2 3 4 
-"" 336 148 0 
-"M" 196 69 1 1 
-"M M" 203 162 1 1 
-"M M M" 208 252 1 1 
+3
+"<E>" 88 172 1 2 
+"" 436 172 0 
+"карактер+елемент+скуп+слово+део+подскуп+променљива+витамин" 208 172 1 1 
