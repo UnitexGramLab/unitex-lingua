@@ -4,5 +4,5 @@ ICON\ BAR\ POSITION=North
 MAX\ TEXT\ FILE\ SIZE=2097152
 INPUT\ FONT\ SIZE=12
 OUTPUT\ FONT\ SIZE=14
-MORPHOLOGICAL\ DICTIONARY=C\:\\Program Files\\Unitex3.1beta\\Malagasy\\Dela\\DEMA-VSflx.bin
+MORPHOLOGICAL\ DICTIONARY=(unitex system directory)/Malagasy/Dela/DEMA-VSflx.bin
 MORPHOLOGICAL\ USE\ OF\ SPACE=true
