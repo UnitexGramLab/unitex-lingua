@@ -1,0 +1,30 @@
+# Linguistic resources licensing
+
+These are the license details, copyright notice, and disclaimer for the
+linguistic resources distributed with Unitex/GramLab. Unitex/GramLab is
+an open source, cross-platform, multilingual, lexicon- and grammar-based
+corpus processing suite.
+
+## Copyright notice
+
+> Copyright (C) 2001-2015 Université Paris-Est Marne-la-Vallée <unitex-devel@univ-mlv.fr>  
+> All rights reserved.
+> 
+> This Linguistic Resource can be redistribute and/or modify under the terms
+> of the Lesser General Public License for Linguistic Resources (LGPLLR).
+> 
+> This Linguistic Resource is distributed in the hope that it will be useful,
+> but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+> or FITNESS FOR A PARTICULAR PURPOSE. See the Lesser General Public License
+> for Linguistic Resources for more details.
+> 
+> You should have received a copy of the Lesser General Public License for
+> Linguistic Resources along with this software; if not, it is available online
+> at http://www-igm.univ-mlv.fr/~unitex/lgpllr.html
+
+For authors and more information on the linguistic resources distributed with
+Unitex/GramLab, see the respective linguistic resource package.
+
+---
+
+[LGPLLR]:       http://spdx.org/licenses/LGPLLR
