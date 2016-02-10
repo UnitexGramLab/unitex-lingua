@@ -42,3 +42,11 @@ Partially and not vocalized word forms	205 entries (particules_d)
 8- Towns						7977 entries (villes)
 
 Total number of entries 				11286726 entries
+
+References
+
+1- Noureddine Doumi, Ahmed Lehireche, Denis Maurel, Ahmed Abdelali,"A Semi-Automatic and Low Cost Approach to Build Scalable Lemma-based Lexical Resources for Arabic Verbs", International Journal of Information Technology and Computer Science(IJITCS), Vol.8, No.2, pp.1-13, 2016. DOI: 10.5815/ijitcs.2016.02.01
+http://www.mecs-press.org/ijitcs/ijitcs-v8-n2/IJITCS-V8-N2-1.pdf
+
+2- Doumi, N., Lehireche, A., Maurel, D., & Ali Cherif, M. (2013). La conception d'un jeu de ressources libres pour le TAL arabe sous Unitex. Paper presented at the TRADETAL2013, 6ème Colloque international en Traductologie et TAL, Oran - Algeria, 5-6 may 2013
+https://www.researchgate.net/publication/259894480_Conception_d%27un_jeu_de_ressources_libres_pour_le_TAL_arabe_sous_Unitex
