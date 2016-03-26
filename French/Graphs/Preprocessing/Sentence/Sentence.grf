@@ -1,5 +1,5 @@
 #Unigraph
-SIZE 1396 775
+SIZE 1047 763
 FONT Times New Roman:B 12
 OFONT Courier New:B 12
 BCOLOR 16777215
@@ -28,7 +28,7 @@ PORIENT L
 "<E>" 240 84 3 3 9 12 
 "<PNC>" 408 308 4 8 10 19 34 
 "(...)+[...]" 460 60 1 36 
-"<MAJ>+<PRE>+<MIX>+<NB>" 709 336 1 17 
+"<UPPER>+<FIRST>+<NB>" 709 336 1 17 
 ":parentheses+:crochets" 700 208 1 17 
 "..." 464 96 1 13 
 "," 552 96 1 36 

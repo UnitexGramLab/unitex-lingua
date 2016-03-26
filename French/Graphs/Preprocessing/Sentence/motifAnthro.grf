@@ -26,7 +26,7 @@ PORIENT L
 ":LettreMaj+:PhTh" 340 332 2 6 9 
 "#." 468 332 2 4 9 
 "Dr.+MM.+Prof.+Pr." 376 156 2 8 21 
-"<MAJ>+<PRE>+<MIX>" 800 156 1 15 
+"<UPPER>+<FIRST>" 786 156 1 15 
 "#-#" 504 380 1 10 
 ":PhTh" 580 384 3 11 4 12 
 "#." 744 340 2 4 12 
@@ -40,8 +40,8 @@ PORIENT L
 "ex : \"M. J.P. de Lamotte\"" 500 264 0 
 "ex : \"M. J. MacEnroe\"" 756 112 0 
 "<E>" 492 230 2 8 3 
-"<PRE>" 336 462 1 23 
+"<FIRST>" 336 462 1 23 
 ":LettreMaj+:PhTh" 441 462 1 24 
 "#." 577 462 1 25 
-"<MAJ>+<PRE>+<MIX>" 718 462 0 
+"<UPPER>+<FIRST>" 718 462 0 
 "Provoque des erreurs dans+*Des O.V.{S}N.I. attaquent" 483 536 0 
