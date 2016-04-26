@@ -1,4 +1,4 @@
-#Default Unitex configuration file for 'Portuguese (Portugal)'
+#Default Unitex configuration file for 'Portuguese (Brazil)'
 INPUT\ FONT\ NAME=Times New Roman
 FRAME=true
 SELECTED\ NODES\ COLOR=-16776961
