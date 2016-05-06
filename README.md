@@ -7,30 +7,30 @@ This repository contains the Language Resources which are distributed within
 
 ## Languages
 
-| Language name                        | Native name         | Language Family   | IETF    | ISO 639-2 | ISO 639-1 |
-| ------------------------------------ | ------------------- | ----------------- | :-----: | :-------: | :-------: |
-| [Arabic](Lingua/ar)                  | العربية             | Afro-Asiatic      | ar      | ara       | ar        |
-| [English](Lingua/en)                 | English             | Indo-European     | en      | eng       | en        |
-| [Finnish](Lingua/fi)                 | Suomi               | Uralic            | fi      | fin       | fi        |
-| [French](Lingua/fr)                  | Français            | Indo-European     | fr      | fra       | fr        |
-| [Georgian (Ancient)](Lingua/oge)     | ქართული             | South Caucasian   | oge     |           |           |
-| [German](Lingua/de)                  | Deutsch             | Indo-European     | de      | deu       | de        |
-| [Greek (ancient)](Lingua/grc)        | Αρχαία  Ελληνικα    | Indo-European     | grc     | grc       |           |
-| [Greek (modern)](Lingua/el)          | Ελληνικά            | Indo-European     | el      | ell       | el        |
-| [Italian](Lingua/it)                 | Italiano            | Indo-European     | it      | ita       | it        |
-| [Korean](Lingua/ko)                  | 한국어                  |  Koreanic          | ko      | kor       | ko        |
-| [Latin](Lingua/la)                   | Latine              | Indo-European     | la      | lat       | la        |
-| [Malagasy](Lingua/mg)                | Malagasy            | Austronesian      | mg      | mlg       | mg        |
-| [Norwegian Bokmål](Lingua/no)        | Norsk bokmål        | Indo-European     | no      | nob       | nb        |
-| [Norwegian Nynorsk](Lingua/nn)       | Norsk nynorsk       | Indo-European     | nn      | nno       | nn        |
-| [Polish](Lingua/pl)                  | Polski              | Indo-European     | pl      | pol       | pl        |
-| [Portuguese (Portugal)](Lingua/pt-BR)| Português (Portugal)| Indo-European     | pt-BR   |           |           |
-| [Portuguese (Brazil)](Lingua/pt-PT)  | Português (Brasil)  | Indo-European     | pt-PT   |           |           |
-| [Russian](Lingua/ru)                 | Русский             | Indo-European     | ru      | rus       | ru        |
-| [Serbian-Cyrillic](Lingua/sr-Cyrl)   | Српски              | Indo-European     | sr-Cyrl | sro       | sr        |
-| [Serbian-Latin](Lingua/sr-Latn)      | Српски (латиница)   | Indo-European     | sr-Latn | srm       |           |
-| [Spanish](Lingua/es)                 | Español             | Indo-European     | es      | spa       | es        |
-| [Thai](Lingua/th)                    | ไทย                 | Tai–Kadai         | th      | tha       | th        |
+| Language name                 | Native name         | Language Family   | IETF    | ISO 639-2 | ISO 639-1 |
+| ----------------------------- | ------------------- | ----------------- | :-----: | :-------: | :-------: |
+| [Arabic](ar)                  | العربية             | Afro-Asiatic      | ar      | ara       | ar        |
+| [English](en)                 | English             | Indo-European     | en      | eng       | en        |
+| [Finnish](fi)                 | Suomi               | Uralic            | fi      | fin       | fi        |
+| [French](fr)                  | Français            | Indo-European     | fr      | fra       | fr        |
+| [Georgian (Ancient)](oge)     | ქართული             | South Caucasian   | oge     |           |           |
+| [German](de)                  | Deutsch             | Indo-European     | de      | deu       | de        |
+| [Greek (ancient)](grc)        | Αρχαία  Ελληνικα    | Indo-European     | grc     | grc       |           |
+| [Greek (modern)](el)          | Ελληνικά            | Indo-European     | el      | ell       | el        |
+| [Italian](it)                 | Italiano            | Indo-European     | it      | ita       | it        |
+| [Korean](ko)                  | 한국어                  |  Koreanic          | ko      | kor       | ko        |
+| [Latin](la)                   | Latine              | Indo-European     | la      | lat       | la        |
+| [Malagasy](mg)                | Malagasy            | Austronesian      | mg      | mlg       | mg        |
+| [Norwegian Bokmål](no)        | Norsk bokmål        | Indo-European     | no      | nob       | nb        |
+| [Norwegian Nynorsk](nn)       | Norsk nynorsk       | Indo-European     | nn      | nno       | nn        |
+| [Polish](pl)                  | Polski              | Indo-European     | pl      | pol       | pl        |
+| [Portuguese (Portugal)](pt-BR)| Português (Portugal)| Indo-European     | pt-BR   |           |           |
+| [Portuguese (Brazil)](pt-PT)  | Português (Brasil)  | Indo-European     | pt-PT   |           |           |
+| [Russian](ru)                 | Русский             | Indo-European     | ru      | rus       | ru        |
+| [Serbian-Cyrillic](sr-Cyrl)   | Српски              | Indo-European     | sr-Cyrl | sro       | sr        |
+| [Serbian-Latin](sr-Latn)      | Српски (латиница)   | Indo-European     | sr-Latn | srm       |           |
+| [Spanish](es)                 | Español             | Indo-European     | es      | spa       | es        |
+| [Thai](th)                    | ไทย                 | Tai–Kadai         | th      | tha       | th        |
 
 # RELEX network
 
