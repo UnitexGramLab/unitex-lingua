@@ -39,5 +39,6 @@
 .gitignore.*    export-ignore
 gitignore.*     export-ignore
 .gitkeep        export-ignore
+.pullapprove.yml export-ignore
 .travis.yml     export-ignore
 
