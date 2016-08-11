@@ -124,6 +124,7 @@ while read -r language_source ; do
        --recursive            \
        --itemize-changes      \
        --times                \
+       --delete               \
        --exclude ".*"         \
        --exclude ".*/"        \
        --exclude "*.bak"      \
