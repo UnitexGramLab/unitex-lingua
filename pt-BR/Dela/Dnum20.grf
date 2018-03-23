@@ -1,0 +1,23 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+3
+"<E>" 70 200 1 2 
+"" 403 203 0 
+"vinte+trinta+quarenta+cinquenta+sessenta+setenta+oitenta+noventa" 209 179 1 1 
