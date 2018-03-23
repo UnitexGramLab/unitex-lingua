@@ -1,0 +1,299 @@
+d000000010
+-1 Dnum-simplifieC:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum-simplifie.grf
+: 51 14 50 13 49 12 44 11 42 10 40 9 38 8 17 7 16 4 12 6 9 5 8 4 6 3 4 2 3 1 
+: 56 17 54 16 52 15 51 14 50 13 49 12 44 11 42 10 12 6 9 5 8 4 6 3 4 2 
+: -3 18 
+: -4 19 
+: 56 17 54 16 52 15 
+: -5 20 
+: -6 21 
+: -8 22 
+: -10 23 
+: -9 24 
+: -9 25 
+: -10 26 
+: 46 27 
+: 48 27 
+: 47 27 
+: 53 27 
+: 55 27 
+: 57 27 
+: 5 4 
+: 7 4 
+: 10 28 
+: 13 4 
+: 18 29 
+: 39 30 
+: 41 31 
+: 43 32 
+: 45 33 
+t 
+: 56 17 54 16 52 15 11 34 
+: 56 17 54 16 52 15 51 14 50 13 49 12 44 11 42 10 40 9 38 8 16 4 12 6 9 5 8 4 6 3 4 2 3 1 
+: 60 35 
+: 62 36 
+: 28 37 
+: 24 38 
+: 36 40 34 39 21 4 12 6 
+: 25 41 
+: 25 42 
+: 25 43 
+: 25 44 
+: -9 45 
+: -10 46 
+: 58 47 
+: 59 48 
+: 19 49 
+: 20 50 
+: 35 51 
+: 37 52 
+: 61 53 
+: 63 54 
+: 29 55 
+: 26 55 
+: 32 56 
+: 30 57 
+: 27 58 
+: 27 59 
+: 27 4 
+: 25 60 
+: 25 61 
+: 14 62 
+: 1 63 
+: 23 64 
+: 22 65 
+: -7 66 
+: -2 67 
+: 33 55 
+: 31 55 
+: 15 1 
+: 2 1 
+f 
+-2 Dnum200-mascC:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum200-masc.grf
+: 71 1 70 1 69 1 68 1 67 1 66 1 65 1 64 1 
+t 
+f 
+-3 Dnum10C:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum10.grf
+: 81 1 80 1 79 1 78 1 77 1 76 1 75 1 74 1 73 1 72 1 
+t 
+f 
+-4 Dnum20C:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum20.grf
+: 90 1 89 1 88 1 87 1 86 1 85 1 84 1 83 1 82 1 
+t 
+f 
+-5 Dnum30C:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum30.grf
+: 97 1 96 1 95 1 94 1 93 1 92 1 91 1 
+t 
+f 
+-6 Dnum2C:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum2.grf
+: 105 1 104 1 103 1 102 1 101 1 100 1 99 1 98 1 
+t 
+f 
+-7 Dnum200-femC:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum200-fem.grf
+: 113 1 112 1 111 1 110 1 109 1 108 1 107 1 106 1 
+t 
+f 
+-8 Dnum1000C:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Dnum1000.grf
+: 146 10 134 9 129 8 125 7 122 6 121 1 119 5 117 4 116 3 115 2 114 1 
+: 115 2 
+t 
+: 134 9 125 7 122 6 121 1 119 5 117 4 
+: -3 11 
+: -4 12 
+: -5 13 
+: -6 14 
+: -7 15 
+: -10 16 
+: -2 17 
+: 118 1 
+: 120 1 
+: 123 18 
+: 126 1 
+: 130 19 
+: 135 20 
+: 147 21 
+: 124 22 115 2 
+: 141 23 
+: 132 24 
+: 144 25 
+: 136 26 127 1 125 7 
+: 25 27 
+: 25 28 
+: 25 29 
+: -10 30 
+: 140 31 
+: 131 32 
+: 143 33 
+: 137 34 
+: 142 35 
+: 133 36 
+: 145 35 
+: 138 37 
+: 27 38 
+: 27 1 
+: 25 39 
+: 134 9 125 7 122 6 121 1 119 5 117 4 115 2 
+: 128 40 
+: 139 36 
+f 
+-9 Si-mascC:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Si-masc.grf
+: 149 1 148 1 
+t 
+f 
+-10 Si-femC:\Users\MOMO\Documents\Unitex-GramLab\Unitex\Spanish\Dela\Si-fem.grf
+: 151 1 150 1 
+t 
+f 
+%<E>
+%<E>/1:2:0<2
+%<E>/1:2:0>2
+%ciento/1:3:0ciento
+%<E>/1:4:0<3
+%<E>/1:4:0>3
+%<E>/1:4:1<4
+%<E>/1:4:1>4
+%veintiún/1:4:2veintiún
+%<E>/1:5:0<5
+%<E>/1:5:0>5
+%y/1:7:0y
+%<E>/1:8:0<6
+%<E>/1:8:0>6
+%<E>/1:10:0<7
+%<E>/1:10:0>7
+%cien/1:12:0cien
+%<E>/1:13:0<8
+%<E>/1:13:0>8
+%veintiuno/m1:19:0veintiuno
+%veintiuna/f1:20:0veintiuna
+%un/1:22:0un
+%una/f1:23:0una
+%uno/m1:24:0uno
+%<E>/1:29:0$|g(
+%$|g(
+%<E>/1:30:0$|g)
+%$|g)
+%<E>/1:31:0$|g(
+%<E>/1:32:0$|g)
+%<E>/1:33:0$|g(
+%<E>/1:34:0$|g)
+%<E>/1:35:0$|g(
+%<E>/1:36:0$|g)
+%<E>/1:37:0<9
+%<E>/1:37:0>9
+%<E>/1:38:0<10
+%<E>/1:38:0>10
+%<E>/1:39:0<10
+%<E>/1:39:0>10
+%<E>/1:40:0<9
+%<E>/1:40:0>9
+%<E>/1:42:0<9
+%<E>/1:42:0>9
+%<E>/1:43:0<10
+%<E>/1:43:0>10
+%<E>/,.DET+Dnum:s1:46:0<E>
+%<E>/,.DET+Dnum:ms1:47:0<E>
+%<E>/,.DET+Dnum:fs1:48:0<E>
+%un/1:49:0un
+%una/1:50:0una
+%uno/1:51:0uno
+%<E>/$g.EQUAL=#m$1:59:0<E>
+%<E>/,.DET+Dnum:mp1:60:0<E>
+%<E>/$g.UNSET$1:61:0<E>
+%<E>/,.DET+Dnum:mp:fp1:62:0<E>
+%<E>/$g.EQUAL=#f$1:63:0<E>
+%<E>/,.DET+Dnum:fp1:64:0<E>
+%<E>/f1:72:0<E>
+%<E>/m1:73:0<E>
+%<E>/1:74:0$|g(
+%<E>/1:75:0$|g)
+%<E>/1:76:0$|g(
+%<E>/1:77:0$|g)
+%doscientos/2:2:0doscientos
+%trescientos/2:2:1trescientos
+%cuatrocientos/2:2:2cuatrocientos
+%quinientos/2:2:3quinientos
+%seiscientos/2:2:4seiscientos
+%setecientos/2:2:5setecientos
+%ochocientos/2:2:6ochocientos
+%novecientos/2:2:7novecientos
+%diez/3:2:0diez
+%once/3:2:1once
+%doce/3:2:2doce
+%trece/3:2:3trece
+%catorce/3:2:4catorce
+%quince/3:2:5quince
+%dieciséis/3:2:6dieciséis
+%diecisiete/3:2:7diecisiete
+%dieciocho/3:2:8dieciocho
+%diecinueve/3:2:9diecinueve
+%veinte/4:2:0veinte
+%veintidós/4:2:1veintidós
+%veintitrés/4:2:2veintitrés
+%veinticuatro/4:2:3veinticuatro
+%veinticinco/4:2:4veinticinco
+%veintiséis/4:2:5veintiséis
+%veintisiete/4:2:6veintisiete
+%veintiocho/4:2:7veintiocho
+%veintinueve/4:2:8veintinueve
+%treinta/5:2:0treinta
+%cuarenta/5:2:1cuarenta
+%cincuenta/5:2:2cincuenta
+%sesenta/5:2:3sesenta
+%setenta/5:2:4setenta
+%ochenta/5:2:5ochenta
+%noventa/5:2:6noventa
+%dos/6:2:0dos
+%tres/6:2:1tres
+%cuatro/6:2:2cuatro
+%cinco/6:2:3cinco
+%seis/6:2:4seis
+%siete/6:2:5siete
+%ocho/6:2:6ocho
+%nueve/6:2:7nueve
+%doscientas/7:2:0doscientas
+%trescientas/7:2:1trescientas
+%cuatrocientas/7:2:2cuatrocientas
+%quinientas/7:2:3quinientas
+%seiscientas/7:2:4seiscientas
+%setecientas/7:2:5setecientas
+%ochocientas/7:2:6ochocientas
+%novecientas/7:2:7novecientas
+%cien/8:2:0cien
+%mil/8:3:0mil
+%ciento/8:5:0ciento
+%<E>/8:6:0<3
+%<E>/8:6:0>3
+%<E>/8:6:1<4
+%<E>/8:6:1>4
+%veintiún/8:6:2veintiún
+%<E>/8:7:0<5
+%<E>/8:7:0>5
+%y/8:9:0y
+%<E>/8:10:0<6
+%<E>/8:10:0>6
+%un/8:11:0un
+%una/f8:12:0una
+%<E>/8:14:0<7
+%<E>/8:14:0>7
+%veintiuna/f8:18:0veintiuna
+%<E>/8:20:0$|g(
+%<E>/8:21:0$|g)
+%<E>/8:27:0<10
+%<E>/8:27:0>10
+%<E>/8:28:0<10
+%<E>/8:28:0>10
+%<E>/8:29:0$|g(
+%<E>/8:30:0$|g)
+%<E>/f8:32:0<E>
+%<E>/8:33:0$|g(
+%<E>/8:34:0$|g)
+%<E>/m8:35:0<E>
+%<E>/8:36:0$|g(
+%<E>/8:37:0$|g)
+%<E>/8:38:0<2
+%<E>/8:38:0>2
+%<E>/$g.EQUAL=#m$9:2:0<E>
+%<E>/$g.UNSET$9:4:0<E>
+%<E>/$g.EQUAL=#f$10:2:0<E>
+%<E>/$g.UNSET$10:4:0<E>
+f
