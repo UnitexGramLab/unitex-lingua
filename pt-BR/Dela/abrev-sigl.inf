@@ -1,0 +1,13 @@
+0000000012
+.ABREV:ms
+.ABREV:mp
+.SIGL
+.ABREV:fs
+.ABREV:fs,.SIGL
+.ABREV:ms:fs
+.ABREV:ms,.SIGL
+.ABREV:ms:mp
+.ABREV:fp
+.ABREV:ms:fs:mp:fp
+1.SIGL
+.ABREV:mp:fp
