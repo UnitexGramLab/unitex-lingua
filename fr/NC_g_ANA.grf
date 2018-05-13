@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 32 50 1 2 
+"" 539 98 0 
+"<$1:Nb=$n;Gen=$g>" 64 50 1 3 
+"<$2>" 195 51 1 4 
+"<$3:Nb=$n;Gen==$g>" 250 50 1 7 
+"<E>/<Gen=$g;Nb=$n>" 126 106 1 1 
+"/e.g. petit coin tranquille" 332 139 0 
+"<$4>" 396 50 1 8 
+"<$5:Nb=$n;Gen=$g>" 458 50 1 5 
