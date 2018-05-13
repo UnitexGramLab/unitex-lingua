@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 60 143 1 2 
+"" 510 142 0 
+"<$1:Nb=$n>" 88 142 2 3 7 
+"<$2>" 201 129 1 4 
+"<$3:Gen=$g;Nb=$n>" 263 142 1 5 
+"<E>/<Gen=$g;Nb=$n>" 426 142 1 1 
+"e.g. franc maçon" 264 179 0 
+"-" 212 158 1 4 

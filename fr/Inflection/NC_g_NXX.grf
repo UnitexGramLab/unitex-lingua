@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 60 143 1 2 
+"" 635 143 0 
+"<$1:Gen==$g;Nb=$n>" 87 143 1 3 
+"<$2>" 257 143 1 4 
+"<$3>" 314 143 1 7 
+"<E>/<Gen=$g;Nb=$n>" 488 143 1 1 
+"/e.g. pomme de terre" 94 173 0 
+"<$4>" 373 143 1 8 
+"<$5>" 433 143 1 5 
