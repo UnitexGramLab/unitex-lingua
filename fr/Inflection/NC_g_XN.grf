@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 59 143 1 2 
+"" 551 143 0 
+"<$1>" 90 143 1 3 
+"<$2>" 159 143 1 4 
+"<$3:Gen==$g;Nb=$n>" 230 143 1 5 
+"<E>/<Gen=$g;Nb=$n>" 407 143 1 1 
+"/e.g. avant-garde" 152 172 0 
