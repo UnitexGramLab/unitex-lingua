@@ -32,6 +32,34 @@ This repository contains the Language Resources which are distributed within
 | [Spanish](es)                 | Español             | Indo-European     | es      | spa       | es        |
 | [Thai](th)                    | ไทย                 | Tai–Kadai         | th      | tha       | th        |
 
+## Contributing
+
+We welcome everyone to contribute to improve the Unitex/GramLab Language Resources by
+[forking this repository](https://help.github.com/articles/fork-a-repo/)
+and [sending a pull request](https://help.github.com/articles/using-pull-requests/)
+with their changes.
+
+### How to add a new language support in Unitex
+
+To add a new language to Unitex:
+
+- Copy the folder template [`zxx-t-Skel`](zxx-t-Skel) and rename it according to the ISO 639-1 code of the new language
+- Use the IETF language tag if the ISO 639-1 code is not available for your language.
+
+Your new language must provide at least: 
+
+ - An alphabet file (`Alphabet.txt`) and optionally a sorted alphabet (`Alphabet_sort.txt`)
+ - A sample corpus (`Corpus/Corpus.txt`). Make sure you have the rights to share this resource and provide the author information on `Corpus/Corpus.info`
+ - A sample dictionary (`Dela/lang-CODE.dic`) containing at least the words of the sample text
+ - A sentence delimitation graph (`Graphs/Preprocessing/Sentence/Sentence.grf`)
+
+Before share your contribution, make sure that:
+
+- File names only use 7-bits ASCII characters.
+- For each compiled graph `fst2` you are also proving the `.grf` version.
+- For each dictionary `.dic` you are also providing a `.info` file describing the dictionary content (codes used in it, number of entries, authors, etc).
+- You accept the [LGPLLR](unitexgramlab.org/lgpllr) license.
+
 # RELEX network
 
 Language Resources are mainly built and maintained by the members of the
@@ -93,13 +121,6 @@ his [LADL][LADL] (*Laboratoire d'Automatique Documentaire et Linguistique*) team
 | United States   | [New York University](http://www.nyu.edu)                                            |
 | United States   | [University of California San Diego](http://www.ucsd.edu)                            |
 | United States   | [University of North Texas](http://www.unt.edu)                                      |
-
-## Contributing
-
-We welcome everyone to contribute to improve the Unitex/GramLab Language Resources by
-[forking this repository](https://help.github.com/articles/fork-a-repo/)
-and [sending a pull request](https://help.github.com/articles/using-pull-requests/)
-with their changes.
 
 ## Documentation
 
