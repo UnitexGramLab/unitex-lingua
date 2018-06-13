@@ -1,5 +1,5 @@
 #Unigraph
-SIZE 1318 763
+SIZE 1552 763
 FONT Times New Roman:B 14
 OFONT Courier New:B 14
 BCOLOR 16777215
@@ -23,7 +23,7 @@ PORIENT L
 ".+?+!+\:+...+.\\\"" 58 166 2 14 28 
 ":VelikoSlovo" 540 232 1 4 
 "." 700 232 2 5 3 
-"<MAJ> +<MIX>+<PRE>" 860 280 1 1 
+"<MAJ> +<PRE>" 860 280 1 1 
 ":VelikoSlovo" 558 501 1 31 
 "pravilo no 1 " 556 56 0 
 ":VelikoSlovo" 432 392 1 9 
