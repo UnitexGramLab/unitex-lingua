@@ -28,7 +28,7 @@ This repository contains the Language Resources which are distributed within
 | [Portuguese (Brazil)](pt-PT)  | Português (Brasil)  | Indo-European     | pt-PT   |           |           |
 | [Russian](ru)                 | Русский             | Indo-European     | ru      | rus       | ru        |
 | [Serbian-Cyrillic](sr-Cyrl)   | Српски              | Indo-European     | sr-Cyrl | sro       | sr        |
-| [Serbian-Latin](sr-Latn)      | Српски (латиница)   | Indo-European     | sr-Latn | srm       |           |
+| [Serbian-Latin](sr-Latn)      | Serbian (Latin)   | Indo-European     | sr-Latn | srm       |           |
 | [Spanish](es)                 | Español             | Indo-European     | es      | spa       | es        |
 | [Thai](th)                    | ไทย                 | Tai–Kadai         | th      | tha       | th        |
 
