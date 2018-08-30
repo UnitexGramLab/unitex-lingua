@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 362 195 2 4 5 
+"" 859 195 0 
+":Dnum200-masc-ord" 668 221 1 15 
+":Dnum200-fem-ord" 672 163 1 13 
+":Se-fem" 425 163 1 8 
+":Se-masc" 424 221 1 10 
+"<E>/f" 515 163 1 9 
+"<E>/m" 546 221 1 11 
+"$|g(" 497 163 1 6 
+"$|g)" 538 163 1 12 
+"$|g(" 528 221 1 7 
+"$|g)" 571 221 1 14 
+"$|c(" 628 163 1 3 
+"$|c)" 786 163 1 1 
+"$|c(" 624 221 1 2 
+"$|c)" 790 221 1 1 
+"/author: Victorien Villiers" 880 347 0 

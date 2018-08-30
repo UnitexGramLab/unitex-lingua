@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 446 394 8 7 2 3 5 4 6 8 9 
+"" 789 394 0 
+"ducentésimas/duzentos" 584 222 1 1 
+"tricentésimas+trecentésimas/trezentos" 585 283 1 1 
+"sexcentésimas+seiscentésimas/seiscentos" 587 453 1 1 
+"quadringentésimas/quatrocentos" 581 341 1 1 
+"septingentésimas+setingentésimas/setecentos" 585 518 1 1 
+"quingentésimas/quinhentos" 585 394 1 1 
+"octingentésimas/oitocentos" 585 577 1 1 
+"noningentésimas+nongentésimas/novecentos" 584 632 1 1 
+"/author: Victorien Villiers" 814 637 0 
