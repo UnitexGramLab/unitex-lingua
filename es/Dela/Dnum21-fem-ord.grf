@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 395 398 9 2 3 4 5 6 7 8 9 10 
+"" 751 398 0 
+"vigésima\" \"primera+vigesimoprimera/veintiuno" 540 122 1 1 
+"vigésima\" \"segunda+vigesimosegunda/veintidós" 539 202 1 1 
+"vigésima\" \"tercera+vigesimotercera/veintitrés" 538 277 1 1 
+"vigésima\" \"cuarta+vigesimocuarta/veinticuatro" 534 343 1 1 
+"vigésima\" \"quinta+vigesimoquinta/veinticinco" 535 415 1 1 
+"vigésima\" \"sexta+vigesimosexta/veintiséis" 530 486 1 1 
+"vigésima\" \"séptima+vigesimoséptima+vigésima\" \"sétima+vigesimosétima/veintisiete" 524 571 1 1 
+"vigésima\" \"octava+vigesimoctava/veintiocho" 527 663 1 1 
+"vigésima\" \"novena+vigesimonovena+vigésima\" \"nona+vigesimonona/veintinueve" 521 749 1 1 
+"/author: Victorien Villiers" 769 702 0 

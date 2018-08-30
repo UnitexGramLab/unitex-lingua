@@ -1,0 +1,33 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+13
+"<E>" 385 419 10 2 3 4 5 6 7 8 9 10 11 
+"" 669 419 0 
+"undécimas+décimas\" \"primeras+decimoprimeras/once" 490 134 1 1 
+"duodécimas+décimas\" \"segundas+decimosegundas/doce" 489 214 1 1 
+"décimas\" \"terceras+decimoterceras/trece" 488 289 1 1 
+"décimas\" \"cuartas+decimocuartas/catorce" 484 355 1 1 
+"décimas\" \"quintas+decimoquintas/quince" 485 427 1 1 
+"décimas\" \"sextas+decimosextas/dieciséis" 487 491 1 1 
+"décimas\" \"séptimas+decimoséptimas+décimas\" \"sétimas+decimosétimas/diecisiete" 481 576 1 1 
+"décimas\" \"octavas+decimoctavas/dieciocho" 479 670 1 1 
+"décimas\" \"novenas+decimonovenas+décimas\" \"nonas+decimononas/diecinueve" 479 762 1 1 
+"décimas/diez" 509 32 1 1 
+"/author: Victorien Villiers" 750 709 0 

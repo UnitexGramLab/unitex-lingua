@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 18 345 1 23 
+"" 1281 361 0 
+"<E>" 275 287 2 4 10 
+"<E>/,$mc$$d6$$md$$d5$$mu$$d4$$m$$d3$$c$$d2$$d$$d1$$u$.DET+Num}{ésimo" 386 287 1 6 
+"<E>/$g.UNSET$" 306 335 1 5 
+"<E>/,$mc$$d6$$md$$d5$$mu$$d4$$m$$d3$$c$$d2$$d$$d1$$u$.DET+Num}{ésimo" 413 335 1 7 
+"<E>/,.A+Ord" 1046 287 1 26 
+"<E>/,.A+Ord" 1069 335 1 27 
+"/author: Victorien Villiers" 1054 631 0 
+":Dnum-ord-2-9999" 146 287 1 2 
+"<E>/$g.SET$" 308 287 1 3 
+"/$mc$ = centenas de millares+$md$ = decenas de millares+$mu$ = unidades de millares+$m$ = mil++$c$ = centenas+$d$ = decenas+$u$ = unidades++$d#$ = espacios intermedios+$g$ = género" 37 116 0 
+"<E>" 286 438 2 14 19 
+"<E>/,$mc$$d6$$md$$d5$$mu$$d4$$m$$d3$$c$$d2$$d$$d1$$u$.DET+Num}{ésimo" 401 390 1 16 
+"<E>/$g.UNSET$" 313 438 1 15 
+"<E>/,$mc$$d6$$md$$d5$$mu$$d4$$m$$d3$$c$$d2$$d$$d1$$u$.DET+Num}{ésimo" 416 438 1 17 
+"<E>/,.A+Ord" 1076 390 1 29 
+"<E>/,.A+Ord" 1064 438 1 30 
+":Dnum-ord-2-9999-plur" 148 438 1 12 
+"<E>/$g.SET$" 315 390 1 13 
+"$<" 108 345 2 9 18 
+"$>" 1246 361 1 1 
+"/NB: Por motivos de coherencia, asegúrense de que toda modificación+del Dnum-ord-2-9999 o del Dnum-ord-2-9999-plur sea aplicada en ambos grafos" 161 634 0 
+"<E>//" 45 345 1 24 
+"<E>/{" 71 345 1 20 
+"<E>" 1184 287 1 21 
+"<E>/:$g$s}" 1138 287 1 25 
+"<E>/:ms:fs}" 1136 335 1 25 
+"<E>" 1182 438 1 21 
+"<E>/:$g$p}" 1131 390 1 28 
+"<E>/:mp:fp}" 1132 438 1 28 
