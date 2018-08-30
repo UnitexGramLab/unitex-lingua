@@ -17,7 +17,8 @@ DRST n
 FITS 100
 PORIENT L
 #
-3
+4
 "<E>" 70 200 1 2 
 "" 300 200 0 
 "diez+once+doce+trece+catorce+quince+dieciséis+diecisiete+dieciocho+diecinueve" 164 194 1 1 
+"/author: Victorien Villiers" 397 341 0 
