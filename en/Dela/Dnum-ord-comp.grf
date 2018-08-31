@@ -1,0 +1,56 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+36
+"<E>" 40 432 5 3 8 18 25 27 
+"" 1088 300 0 
+":Dnum20-card" 724 345 1 5 
+"<E>" 197 256 1 14 
+":Dnum4-ord" 856 300 1 20 
+"-/-" 816 345 1 4 
+":Dnum10-ord" 842 256 1 20 
+"<E>" 815 431 1 16 
+":Dnum1000-card" 92 432 4 9 17 23 35 
+",\" \"/, " 191 397 1 13 
+"and\" \"/and " 540 342 1 33 
+":Dnum2-card" 297 342 1 12 
+"\" \"hundred\" \"/ hundred" 388 380 1 30 
+"<E>" 270 380 2 11 31 
+"<E>" 655 256 4 6 2 15 26 
+"<E>" 744 300 1 4 
+"<E>" 1037 431 1 1 
+"<E>" 472 431 1 30 
+"<E>" 130 380 1 13 
+"/author: Victorien Villiers" 1030 567 0 
+"<E>" 954 300 1 1 
+":Dnum2-card" 300 474 1 22 
+"\" \"hundred/ hundred" 470 474 1 24 
+"<E>" 239 474 2 21 32 
+"<E>" 568 431 1 29 
+"<E>" 106 475 1 23 
+":Dnum20-ord" 717 402 1 7 
+":Dnum1000-card" 117 558 1 28 
+"<E>" 608 557 1 29 
+"<E>" 664 431 1 7 
+"<E>" 512 380 2 10 34 
+"one/one" 316 380 1 12 
+"one/one" 323 515 1 22 
+"<E>" 611 380 1 14 
+"<E>/ " 566 380 1 33 
+"\" \"/ " 228 412 1 13 

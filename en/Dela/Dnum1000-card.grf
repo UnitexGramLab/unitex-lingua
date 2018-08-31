@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 123 210 3 2 5 12 
+"" 1003 210 0 
+":Dnum2-card" 181 260 1 3 
+"\" \"hundred/ hundred" 278 210 1 13 
+":Dnum20-card" 561 172 2 8 14 
+"<E>" 241 130 1 11 
+"\" \"and\" \"/ and " 387 235 1 18 
+":Dnum2-card" 760 130 1 10 
+"-/-" 681 172 1 16 
+":Dnum10-card" 749 50 1 10 
+"\" \"thousand/ thousand" 891 210 1 1 
+"<E>" 512 130 3 9 4 16 
+"one/one" 208 210 1 3 
+"<E>" 359 210 3 6 14 18 
+"<E>" 684 210 1 10 
+"/author: Victorien Villiers" 848 366 0 
+"<E>" 707 130 2 17 7 
+"one/one" 782 160 1 10 
+"<E>/ " 469 159 1 11 
