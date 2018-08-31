@@ -17,10 +17,11 @@ DRST n
 FITS 100
 PORIENT L
 #
-6
+7
 "<E>" 122 190 2 2 4 
 "" 414 189 0 
-"<E>/$g.UNEQUAL=#f$" 177 158 1 3 
+"<E>/$g.EQUAL=#m$" 177 158 1 3 
 "<E>" 366 158 1 1 
 "<E>/$g.UNSET$" 175 222 1 5 
 "<E>" 370 222 1 1 
+"/author: Victorien Villiers" 474 309 0 
