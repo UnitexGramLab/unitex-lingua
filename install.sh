@@ -56,6 +56,7 @@ declare -A UNITEX_IEFT_LINGUA=(                       \
             ["sr-Latn"]="Serbian-Latin"               \
             ["es"]="Spanish"                          \
             ["th"]="Thai"                             \
+            ["zh"]="Chinese"                          \
             ["zxx-p-XAlign"]="XAlign"                 \
 )
 # =============================================================================
