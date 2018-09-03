@@ -11,6 +11,7 @@ This repository contains the Language Resources which are distributed within
 | ----------------------------- | ------------------- | ----------------- | :-----: | :-------: | :-------: |
 | [Arabic](ar)                  | العربية             | Afro-Asiatic      | ar      | ara       | ar        |
 | [English](en)                 | English             | Indo-European     | en      | eng       | en        |
+| [Chinese](zh)                 | Chinese             | Sino-Tibetan      | zh      | chi/zho   | zh        |
 | [Finnish](fi)                 | Suomi               | Uralic            | fi      | fin       | fi        |
 | [French](fr)                  | Français            | Indo-European     | fr      | fra       | fr        |
 | [Georgian (Ancient)](oge)     | ქართული             | South Caucasian   | oge     |           |           |
