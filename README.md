@@ -10,7 +10,7 @@ This repository contains the Language Resources which are distributed within
 | Language name                 | Native name         | Language Family   | IETF    | ISO 639-2 | ISO 639-1 |
 | ----------------------------- | ------------------- | ----------------- | :-----: | :-------: | :-------: |
 | [Arabic](ar)                  | العربية             | Afro-Asiatic      | ar      | ara       | ar        |
-| [Chinese](zh)                 | Chinese             | Sino-Tibetan      | zh      | chi/zho   | zh        |
+| [Chinese](zh)                 | 汉语/漢語           | Sino-Tibetan      | zh      | chi/zho   | zh        |
 | [English](en)                 | English             | Indo-European     | en      | eng       | en        |
 | [Finnish](fi)                 | Suomi               | Uralic            | fi      | fin       | fi        |
 | [French](fr)                  | Français            | Indo-European     | fr      | fra       | fr        |
