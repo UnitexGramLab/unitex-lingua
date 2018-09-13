@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  12
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 82 250 8 2 3 4 5 6 7 8 9 
+"" 238 250 0 
+"deux/deux" 152 54 1 1 
+"trois/trois" 153 106 1 1 
+"quatre/quatre" 147 155 1 1 
+"cinq/cinq" 154 204 1 1 
+"six/six" 158 250 1 1 
+"sept/sept" 154 300 1 1 
+"huit/huit" 156 349 1 1 
+"neuf/neuf" 154 396 1 1 
+"/author: Victorien Villiers" 284 413 0 

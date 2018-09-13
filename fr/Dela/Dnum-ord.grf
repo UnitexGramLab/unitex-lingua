@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1333 569
+FONT Garamond:  18
+OFONT Garamond:B 20
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 20 150 1 3 
+"" 1129 151 0 
+":Dnum-tronq" 168 150 1 29 
+"<E>//" 46 151 1 6 
+"<E>/,$sj$.DET+Dnum+z1:mp}{" 448 150 1 9 
+"<E>/,.A+Ord+z1" 798 150 2 10 11 
+"$<" 77 150 1 8 
+"$>" 1084 151 1 1 
+"<E>/{" 109 150 2 13 28 
+"ième" 722 150 1 5 
+"s/:mp:fp}" 962 150 1 7 
+"<E>/:ms:fs}" 928 63 1 12 
+"<E>" 1003 63 1 7 
+"prem" 193 304 1 20 
+"ier" 747 304 1 16 
+"ière" 737 439 1 22 
+"<E>/,.A+Ord+z1" 794 304 2 17 18 
+"s/:mp}" 953 304 1 25 
+"<E>/:ms}" 871 241 1 26 
+"<E>/:fs}" 873 373 1 27 
+"<E>/,un.DET+Dnum+z1:ms}{" 263 304 1 21 
+"<E>" 545 304 2 14 15 
+"<E>/,.A+Ord+z1" 795 439 2 23 19 
+"s/:fp}" 950 439 1 24 
+"<E>" 1019 439 1 7 
+"<E>" 1008 304 1 7 
+"<E>" 964 241 1 25 
+"<E>" 960 373 1 24 
+"$|sj(" 135 150 1 2 
+"$|sj)" 322 150 1 4 
+"/author : Victorien Villiers" 1046 522 0 

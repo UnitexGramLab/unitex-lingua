@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  12
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 76 253 8 2 3 4 5 6 7 8 9 
+"" 294 253 0 
+"vingt/vingt" 175 55 1 1 
+"trente/trente" 172 104 1 1 
+"quarante/quarante" 163 153 1 1 
+"cinquante/cinquante" 161 202 1 1 
+"septante/septante" 164 253 1 1 
+"octante/octante" 166 302 1 1 
+"huitante/huitante" 166 349 1 1 
+"nonante/nonante" 166 398 1 1 
+"/author: Victorien Villiers" 323 428 0 

@@ -1,0 +1,55 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  12
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+35
+"<E>" 60 182 3 6 13 20 
+"" 904 297 0 
+":Dnum2-ss" 696 182 1 32 
+":Dnum20-ss" 379 182 1 26 
+"\" \"et\" \"/ et " 540 424 1 5 
+"un/un" 722 519 1 32 
+":Dnum2-ss" 98 216 1 31 
+":Dnum12-ss" 694 373 1 32 
+"soixante/soixante" 382 296 2 26 27 
+"quatre-vingt/quatre-vingt" 373 373 2 19 22 
+"-/-" 578 182 1 2 
+"-/-" 570 327 1 15 
+"<E>" 769 121 1 21 
+"<E>" 278 121 3 28 3 24 
+"<E>" 569 121 4 2 15 17 33 
+"<E>" 656 373 2 16 7 
+"dix/dix" 709 297 1 32 
+"onze/onze" 707 230 1 32 
+"\" \"et\" \"/ et " 557 230 1 17 
+"-/-" 567 373 3 15 17 5 
+"cent\" \"/cent " 216 182 3 3 23 28 
+"mille/mille" 854 297 1 1 
+"<E>" 522 182 2 10 33 
+"<E>" 300 320 2 24 25 
+"<E>" 343 320 2 8 9 
+"<E>" 356 519 1 5 
+"<E>" 476 182 3 4 22 30 
+"<E>" 517 296 3 18 11 29 
+"<E>" 442 121 1 14 
+"-et-/-et-" 562 279 1 17 
+"-et-/-et-" 536 480 1 5 
+"\" \"/ " 179 216 1 20 
+"\" \"/ " 815 297 1 21 
+"<E>" 661 121 1 12 
+"/author: Victorien Villiers" 919 538 0 
