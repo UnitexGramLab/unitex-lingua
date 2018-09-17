@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 680 400
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 28 147 2 11 17 
+"" 618 147 0 
+":2bis9" 354 55 1 1 
+"zehn" 434 147 1 1 
+"elf+zwölf" 354 95 1 1 
+"<E>+:3bis9pfx" 354 147 1 3 
+"zwanzig+dreißig+vierzig+fünfzig+sechzig+siebzig+achtzig+neunzig" 487 223 1 1 
+":1bis9" 354 259 1 8 
+"und" 432 259 1 6 
+"<E>+:1bis9" 76 298 1 10 
+"hundert" 134 298 2 12 13 
+"<E>" 241 147 4 4 5 2 14 
+"<E>+und" 195 223 3 11 14 16 
+"<E>" 552 298 1 1 
+"<E>" 322 223 2 6 7 
+"Andreas Neuman+Sebastian Nagel+CIS Uni München+2005,2006" 557 364 0 
+"eins+ein" 354 21 1 1 
+"<E>" 52 298 2 9 18 
+":11bis19" 74 355 1 10 
