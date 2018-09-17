@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 967 436
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 18 121 5 6 4 3 7 5 
+"" 924 122 0 
+"<E>/,.ADJ+OrdNum:up" 72 41 1 9 
+"e/,$STEM$.ADJ+OrdNum:aeFxp:aeFyp:aeFzp:aeNyp:amUxp:neFxp:neFzp:neUyp:nmUxp" 72 80 1 10 
+"em/,$STEM$.ADJ+OrdNum:deMxp:deNxp" 72 199 1 13 
+"en/,$STEM$.ADJ+OrdNum:aeMxp:aeMyp:aeMzp:amUyp:amUzp:deUyp:deUzp:dmUxp:dmUyp:dmUzp:geMxp:geNxp:geUyp:geUzp:gmUyp:gmUzp:nmUyp:nmUzp" 72 121 1 11 
+"er/,$STEM$.ADJ+OrdNum:deFxp:geFxp:gmUxp:neMxp:neMzp" 72 164 1 12 
+"es/,$STEM$.ADJ+OrdNum:aeNxp:aeNzp:neNxp:neNzp" 72 243 1 14 
+"Sebastian Nagel+CIS Uni München+2005" 833 372 0 
+"<E>" 865 41 1 1 
+"<E>" 865 80 1 1 
+"<E>" 865 121 1 1 
+"<E>" 865 164 1 1 
+"<E>" 865 199 1 1 
+"<E>" 865 243 1 1 
+"erst, zweit, dritt, zwanzigst, etc.+don't exist" 52 19 0 
