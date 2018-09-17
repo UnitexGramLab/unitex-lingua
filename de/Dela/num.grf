@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1333 584
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 21 252 1 13 
+"" 645 252 0 
+"eins+:2bis999+:1000bis999999+:11bis19hundert" 148 192 1 12 
+"<E>/,.DET+ADJ+Num:X" 387 192 1 6 
+"Andreas Neuman+Sebastian Nagel+CIS Uni München+2005+Update:+Victorien Villiers+2018" 662 486 0 
+"This graph is used to write a dictionary of German numerals" 73 15 0 
+"<E>" 495 192 1 14 
+"indeclinable numerals+also adjectival use:+\"die neuen zwei Bücher\"" 255 162 0 
+":halb+:halbhundert" 141 252 1 11 
+"<E>/,.Num+FF" 389 235 1 22 
+"zweieinhalb+fünfeinhalbtausend" 221 270 0 
+"<E>" 327 252 2 9 23 
+"<E>" 325 192 2 3 9 
+"$<" 67 252 5 8 2 17 26 24 
+"$>" 549 252 1 1 
+"<E>" 411 58 1 6 
+"einer+tausendundeiner" 229 81 0 
+":numflex" 164 58 1 15 
+"declinable numerals" 229 44 0 
+":numord" 149 453 1 20 
+"<E>" 449 369 1 22 
+"ordinal numerals: erster, dritter" 212 469 0 
+"<E>" 507 282 1 14 
+"<E>/,.DET+ADJ+Num+NumFract:X" 394 282 1 22 
+":fract" 149 319 1 23 
+":fractnom" 147 369 1 20 
+"<E>" 121 369 3 25 19 27 
+":numnom" 148 407 1 20 

@@ -1,0 +1,24 @@
+#Unigraph
+SIZE 300 600
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+4
+"<E>" 22 323 1 2 
+"" 252 323 0 
+"billiard+billion+dezilliard+dezillion+duodezilliard+duodezillion+fantastilliard+googolplex+googolplexplex+googolplexplexplex+milliard+million+nonilliard+nonillion+oktilliard+oktillion+quadrilliard+quadrillion+quinquilliard+quinquillion+quintilliard+quintillion+septilliard+septillion+sextilliard+sextillion+tredezillion+trilliard+trillion+undezilliard+undezillion+zentillion" 85 323 1 1 
+"same as «bignom»+but all forms without -e suffix" 12 34 0 
