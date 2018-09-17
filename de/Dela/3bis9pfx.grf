@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 421 184
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 52 87 1 2 
+"" 347 87 0 
+"drei+drey+vier+fünf+sech+sieb+acht+neun" 168 87 1 1 
+"Sebastian Nagel+CIS Uni München+2005" 301 160 0 
+"\"sech\" instead of \"sechs\"+\"sieb\" instead of \"sieben\"+prefixes of \"zehn\"" 7 26 0 

@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 400 200
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 19 59 2 2 5 
+"" 298 59 0 
+":1bis999pfx+tausend+zweitausend" 74 59 1 4 
+"halb" 241 59 1 1 
+"ein" 186 59 1 3 
+"andert" 103 116 1 3 
