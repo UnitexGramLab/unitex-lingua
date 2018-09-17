@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 700 200
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 25 117 1 6 
+"" 588 117 0 
+"German nominal (substantival) fraction numbers" 11 18 0 
+":3bisInfOrdFractStem" 171 117 1 4 
+"tel" 331 117 1 5 
+"$STEM)" 393 117 1 9 
+"$STEM(" 83 117 1 8 
+"Halbe" 172 59 1 10 
+"<E>" 119 117 2 3 7 
+":nNfractflxNS2NP1" 472 117 1 1 
+"$STEM)" 393 59 1 11 
+":nFfractflxNS0NP4" 472 59 1 1 
