@@ -1,0 +1,53 @@
+#Unigraph
+SIZE 950 500
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+33
+"<E>" 19 222 2 30 19 
+"" 892 222 0 
+"drit+vier+fünf+sechs+sieb+ach+neun" 554 82 1 17 
+"zehn" 634 222 1 17 
+"elf+zwölf" 554 173 1 17 
+"<E>+:3bis9pfx" 554 222 1 3 
+":20bis90" 633 282 1 16 
+":1bis9" 526 318 1 8 
+"und" 578 318 1 6 
+":1bis9" 307 341 1 10 
+"hundert" 364 341 2 12 13 
+"<E>" 475 222 4 4 5 2 14 
+"<E>+und" 427 282 2 11 14 
+"<E>" 690 341 1 16 
+"<E>" 502 282 2 6 7 
+"Sebastian Nagel+CIS Uni München+2006" 837 468 0 
+"st" 715 282 1 1 
+"t" 715 222 1 1 
+"<E>" 327 222 1 11 
+"<E>" 76 282 3 21 20 29 
+":1bis999pfx" 107 260 1 21 
+"tausend" 191 282 2 22 27 
+"<E>+und" 260 282 2 18 9 
+"<E>" 648 410 1 13 
+"<E>" 176 445 2 25 32 
+":bignompfx" 445 445 1 26 
+"<E>" 613 445 1 23 
+"<E>" 309 410 1 23 
+"prefixes for German ordinal and fraction numbers" 17 18 0 
+"<E>" 128 341 3 9 24 31 
+"<E>" 278 222 2 10 18 
+":11bis19" 301 369 1 10 
+":halbhundert" 445 486 1 26 
