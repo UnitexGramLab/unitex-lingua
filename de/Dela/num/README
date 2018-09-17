@@ -1,0 +1,18 @@
+Graphs in this directory describe German numerals.
+The result is a dictionary (num.bin), located in the Dela/ directory.
+Please read the corresponding documentation (num.txt) for additional
+information.
+
+You need a 64-bit platform with main memory >30GB to compile the dictionary.
+
+See Makefile.
+
+[matrix:num] ~/bin/Unitex/Src/C++/Compress /temp/wastl/num2.lst
+Compressing...
+Minimizing...                      
+Minimization done.                     
+Binary file: 11955 bytes
+181243035 lines read            
+34 INF entries created
+899 states, 1952 transitions
+
