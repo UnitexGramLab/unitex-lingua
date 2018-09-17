@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 680 400
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 28 147 1 16 
+"" 618 147 0 
+":2bis9" 354 55 1 1 
+"zehn" 434 147 1 1 
+"elf+zwölf" 354 95 1 1 
+"<E>+:3bis9pfx" 354 147 1 3 
+":20bis90" 480 206 1 1 
+":1bis9" 363 242 1 8 
+"und" 425 242 1 6 
+"hundert" 149 147 2 11 17 
+"<E>" 305 147 4 4 5 2 13 
+"<E>+und" 234 147 3 10 13 15 
+"<E>" 545 281 1 1 
+"<E>" 331 206 2 6 7 
+"Andreas Neuman+Sebastian Nagel+CIS Uni München+2005,2006" 557 364 0 
+"ein" 354 21 1 1 
+":11bis19" 67 147 1 9 
+"<E>" 234 281 1 12 
+"This graph is identical to graph \"11bis19hundert\"+except for the last element \"eins\"+e.g. «elfhundert_ein_jährig»" 10 35 0 
