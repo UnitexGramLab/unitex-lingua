@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 556 185
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 54 85 2 2 3 
+"" 481 85 0 
+":1bis999pfx" 124 112 1 3 
+"tausend" 229 85 2 1 6 
+":1bis999sfx" 392 47 1 1 
+"Andreas Neuman+Sebastian Nagel+CIS Uni München+2005" 448 148 0 
+"<E>+und" 322 47 1 4 
