@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 967 436
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 50 109 2 3 2 
+"" 398 109 0 
+"<E>/,$STEM$.N+Dnom+Num+NumFract:neF:geF:deF:aeF" 120 146 1 5 
+"n/,$STEM$.N+Dnom+Num+NumFract:nmF:gmF:dmF:amF" 120 71 1 4 
+"<E>" 342 71 1 1 
+"<E>" 342 146 1 1 
