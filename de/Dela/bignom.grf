@@ -1,0 +1,23 @@
+#Unigraph
+SIZE 300 600
+FONT Lucida Sans:  8
+OFONT Lucida Sans:B 8
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+3
+"<E>" 20 260 1 2 
+"" 250 260 0 
+"billiarde+billion+dezilliarde+dezillion+duodezilliarde+duodezillion+fantastilliarde+googolplex+googolplexplex+googolplexplexplex+milliarde+million+nonilliarde+nonillion+oktilliarde+oktillion+quadrilliarde+quadrillion+quinquilliarde+quinquillion+quintilliarde+quintillion+septilliarde+septillion+sextilliarde+sextillion+tredezillion+trilliarde+trillion+undezilliarde+undezillion+zentillion" 83 260 1 1 
