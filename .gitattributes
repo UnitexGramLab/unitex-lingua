@@ -13,14 +13,14 @@
 *.md            text
 
 # unitex resources
-*.def           eol=crlf
-*.dic           eol=crlf
-*.elg           eol=crlf
-*.fst2          eol=crlf
-*.grf           eol=crlf
-*.lst           eol=crlf
-*.rul           eol=crlf
-*.snt           eol=crlf
+#*.def           eol=crlf
+#*.dic           eol=crlf
+#*.elg           eol=crlf
+#*.fst2          eol=crlf
+#*.grf           eol=crlf
+#*.lst           eol=crlf
+#*.rul           eol=crlf
+#*.snt           eol=crlf
 
 # unitex binaries
 *.bin           binary
