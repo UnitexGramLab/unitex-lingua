@@ -1,6 +1,6 @@
 # Unitex/GramLab Language Resources
 
-> [Unitex/GramLab][unitexgramlab] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite
+> [Unitex/GramLab][unitexgramlab] is the open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite
 
 This repository contains the Language Resources which are distributed within
 [Unitex/GramLab][unitexgramlab].
@@ -142,7 +142,7 @@ asking technical support questions can be found
 ## Reporting Bugs
 
 See the [Bug Reporting
-Guide](http://unitexgramlab.org/index.php?page=6) for information on
+Guide](https://unitexgramlab.org/how-to-report-a-bug) for information on
 how to report bugs.
 
 ## Governance Model
@@ -181,4 +181,4 @@ Copyright (C) 2019 Université Paris-Est Marne-la-Vallée
 [LADL]:           http://infolingu.univ-mlv.fr/LADL/Historique.html
 [LGPLLR]:         http://spdx.org/licenses/LGPLLR
 [RELEX]:          http://infolingu.univ-mlv.fr/english/Relex/Relex.html
-[unitexgramlab]:  http://unitexgramlab.org
+[unitexgramlab]:  https://unitexgramlab.org
