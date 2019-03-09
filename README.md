@@ -173,7 +173,7 @@ Language Resources are distributed under the terms of the
 [Lesser General Public License For Linguistic Resources](/LICENSE) (LGPLLR).
 Contact unitex-devel@univ-mlv.fr for further inquiries.
 
---
+---
 
 Copyright (C) 2019 Université Paris-Est Marne-la-Vallée
 
