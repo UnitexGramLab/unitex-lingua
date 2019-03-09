@@ -42,7 +42,7 @@ with their changes.
 
 ### How to add a new language support in Unitex
 
-To add a new language to Unitex:
+o add a new language to Unitex:
 
 - Copy the folder template [`zxx-t-Skel`](zxx-t-Skel) and rename it according to the ISO 639-1 code of the new language
 - Use the IETF language tag if the ISO 639-1 code is not available for your language.
