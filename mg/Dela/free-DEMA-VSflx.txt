@@ -1,0 +1,5 @@
+The free-DEMA-VSflx dictionary of verbs contains 11418 lines for 11418 simple entries.
+The text version of this dictionary is distributed with Unitex too.
+Ranaivoarison, Joro Ny Aina (2014). Modélisation de la morpho-syntaxe du malgache. Construction d'un dictionnaire électronique des verbes simples. Thèse de doctorat, Université d'Antananarivo, 510 pages.
+Ranaivoarison, Joro Ny Aina; Laporte, Éric; Ralalaoherivony, Baholisoa Simone (2013). Formalization of Malagasy conjugation. Language and Technology Conference, Poznan, Poland. pp.457-462, https://hal.archives-ouvertes.fr/hal-00910883/file/ltc-24-ranaivoarison.pdf
+Contact: jororanaivo@yahoo.fr

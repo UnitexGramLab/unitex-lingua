@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1872 903
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>/" 30 258 1 2 
+"" 890 242 0 
+"$<" 77 258 1 3 
+"<E>//" 107 258 2 5 13 
+"$>" 834 242 1 1 
+":t6" 182 294 1 7 
+":oo" 629 294 1 4 
+"<E>/{" 313 294 1 9 
+"<E>/,$V.LEMMA$.$V.CODE$}" 547 294 1 6 
+"<V+imprt+vvv2vo>/$V$" 368 294 1 8 
+"<V+ina+vvv2vo>/$V$" 366 221 1 11 
+"<E>/,$V.LEMMA$.$V.CODE$}" 553 221 1 12 
+":ps99" 637 221 1 4 
+":t3" 191 221 1 14 
+"<E>/{" 319 221 1 10 
