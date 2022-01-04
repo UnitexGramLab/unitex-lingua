@@ -1,0 +1,54 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+34
+"<E>" 63 294 3 3 16 29 
+"" 431 534 0 
+"Graphe de flexion pour le verbe jeter" 24 36 0 
+"L" 92 382 4 4 14 30 5 
+"L" 166 675 2 18 32 
+"Lant/:G" 191 556 1 8 
+"jetant" 232 550 0 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 197 504 1 8 
+"<E>" 327 430 1 1 
+"jette" 231 493 0 
+"nt/:P3p:S3p" 194 444 1 8 
+"jettent" 255 442 0 
+"s/:P2s:S2s" 196 393 1 8 
+"jettes" 232 397 0 
+"z/:P2p:Y2p" 197 342 1 8 
+"jetez" 225 346 0 
+"<E>/:W" 204 224 1 8 
+"jeter" 238 220 0 
+"<E>" 196 730 3 19 25 27 
+"i" 235 698 2 20 23 
+"ez/:S2p" 270 670 1 21 
+"<E>" 380 692 1 1 
+"jetiez" 302 668 0 
+"ons/:S1p" 265 727 1 21 
+"jetions" 313 724 0 
+"ons/:P1p:Y1p" 265 787 1 21 
+"jetons" 309 787 0 
+"é/:K" 242 846 1 33 
+"jeter" 30 265 0 
+"LLte" 110 303 1 31 
+"Lte" 137 403 3 10 12 7 
+":V_Fut+:V_Cond" 180 291 1 8 
+":V_Imp+:V_PS3+:V_SubjImp3" 230 610 1 21 
+":V_PPass" 287 846 1 21 

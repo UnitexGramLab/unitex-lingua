@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 119 300 2 10 2 
+"" 520 418 0 
+"LL" 162 390 7 5 6 9 12 11 3 4 
+"ez/:P2p:Y2p" 297 473 1 15 
+"ent/:P3p:S3p" 294 524 1 15 
+"ons/:P1p:Y1p" 289 576 1 15 
+"L" 262 751 2 7 8 
+"s/:P1s:P2s:Y2s" 315 724 1 16 
+"<E>/:P3s" 313 781 1 16 
+"u/:K" 258 631 1 14 
+"<E>/:W" 286 208 1 1 
+"ant/:G" 296 424 1 15 
+":V_Fut+:V_Cond+:V_Subj+:V_PS2+:V_SubjImp2+:V_Imp" 267 349 1 15 
+"Graphe de flexion du verbe battre" 18 33 0 
+":V_PPass" 292 631 1 15 
+"<E>" 417 476 1 1 
+"<E>" 371 752 1 1 
+"battre" 329 239 0 
+"battant" 340 435 0 
+"battez" 333 471 0 
+"battent" 335 516 0 
+"battons" 331 568 0 
+"bats" 353 733 0 
+"bat" 347 772 0 

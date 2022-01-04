@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>" 147 255 4 3 4 5 10 
+"" 530 408 0 
+"Graphe de flexion pour le verbe fiche" 14 28 0 
+"<E>/:W" 276 144 1 17 
+"L" 271 483 4 11 12 13 14 
+":V_Cond+:V_Fut" 256 214 1 17 
+"<E>/:P1s:P3s:Y2s" 285 260 1 17 
+"s/:P2s" 284 304 1 17 
+"z/:P2p:Y2p" 285 356 1 17 
+"nt/:P3p" 282 404 1 17 
+"<E>" 230 321 4 6 7 8 9 
+":V_Imp+:V_Subj" 360 483 1 16 
+"ant/:G" 371 529 1 16 
+"ons/:P1p:Y1p" 369 577 1 16 
+"u/:K" 318 638 1 15 
+":V_PPass" 356 638 1 16 
+"<E>" 462 527 1 1 
+"<E>" 387 308 1 1 
+"fiche" 315 170 0 
+"fiche" 319 268 0 
+"fiches" 316 307 0 
+"fichez" 310 345 0 
+"fichent" 315 402 0 
+"fichant" 411 536 0 
+"fichons" 409 567 0 

@@ -1,0 +1,57 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+37
+"<E>" 43 280 2 2 19 
+"" 489 549 0 
+"<E>/:W" 251 155 1 35 
+"recevoir" 281 184 0 
+"ns/:P1p:Y1p" 247 217 1 35 
+"recevons" 281 223 0 
+"oi" 236 618 3 7 8 23 
+"t/:P3s" 348 611 1 36 
+"s/:P1s:P2s:Y2s" 347 562 1 36 
+"LLLç" 171 589 3 6 30 33 
+"recevions" 290 495 0 
+"receviez" 282 461 0 
+"ant/:G" 245 288 1 35 
+"recevant" 284 302 0 
+"i" 199 475 2 15 16 
+"ez/:S2p" 247 461 1 35 
+"ons/:S1p" 243 513 1 35 
+"ez/:P2p:Y2p" 248 407 1 35 
+"recevez" 289 405 0 
+"LL" 74 332 2 4 20 
+"L" 126 425 5 17 14 32 12 9 
+"reçois" 371 567 0 
+"reçoit" 373 617 0 
+"ve" 271 691 3 24 26 28 
+"<E>/:S1s:S3s" 348 662 1 36 
+"reçoivent" 376 664 0 
+"nt/:P3p:S3p" 345 709 1 36 
+"reçoivent" 380 707 0 
+"s/:S2s" 347 754 1 36 
+"reçoives" 375 752 0 
+"u/:K" 290 761 1 34 
+"Graphe de flexion pour le verbe recevoir" 13 27 0 
+":V_Cond+:V_Fut+:V_Imp" 231 361 1 35 
+":V_PS+:V_SubjImp" 313 884 1 36 
+":V_PPass" 327 811 1 36 
+"<E>" 369 422 1 1 
+"<E>" 440 691 1 1 

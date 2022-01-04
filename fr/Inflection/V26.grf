@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 46 348 2 2 10 
+"" 455 503 0 
+"L" 95 389 3 6 13 23 
+"e" 208 544 2 4 5 
+"z/:P2p:Y2p" 261 519 1 27 
+"nt/:P3p" 258 568 1 27 
+"L" 153 537 5 8 3 9 24 7 
+"ant/:G" 255 678 1 27 
+"ons/:P1p:Y1p" 253 626 1 27 
+"L" 240 745 2 11 12 
+"<E>/:W" 192 280 1 26 
+"s/:P1s:P2s:Y2s" 295 722 1 14 
+"t/:P3s" 292 777 1 14 
+"<E>/:K" 134 393 1 25 
+"<E>" 381 752 1 1 
+"Graphe de flexion pour le verbe endormir" 20 27 0 
+"endormir" 230 289 0 
+"endormez" 287 523 0 
+"endorment" 290 568 0 
+"endormons" 293 608 0 
+"endormant" 292 666 0 
+"endors" 323 720 0 
+"endort" 321 773 0 
+":V_Cond+:V_Fut" 179 341 1 26 
+":V_Imp+:V_PS2+:V_SubjImp2+:V_Subj" 253 439 1 27 
+":V_PPass" 175 393 1 26 
+"<E>" 326 346 1 1 
+"<E>" 373 568 1 1 

@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 90 264 2 4 2 
+"" 501 422 0 
+"<E>/:W" 231 194 1 20 
+"écrire" 290 202 0 
+"LL" 129 342 3 11 14 15 
+"s/:P1s:P2s:Y2s" 300 637 1 27 
+"t" 227 719 2 24 25 
+"ons/:P1p:Y1p" 230 477 1 19 
+"écris" 328 641 0 
+"écrit" 336 693 0 
+"écrivons" 274 460 0 
+"<E>" 191 698 2 5 6 
+"ant/:G" 232 414 1 19 
+"écrivant" 268 421 0 
+":V_Cond+:V_Fut" 217 271 1 20 
+"v" 179 410 5 16 7 12 17 18 
+":V_Imp+:V_Subj+:V_PS2+:V_SubjImp2" 213 347 1 19 
+"ez/:P2p:Y2p" 239 543 1 19 
+"ent/:P3p" 237 598 1 19 
+"<E>" 371 455 1 1 
+"<E>" 340 249 1 1 
+"écrivent" 292 604 0 
+"écrivez" 297 541 0 
+"Graphe de flexion du verbe écrire" 15 29 0 
+"<E>/:P3s" 301 683 1 27 
+"<E>/:K" 254 744 1 26 
+":V_PPass" 280 744 1 27 
+"<E>" 383 689 1 1 

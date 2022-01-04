@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>" 73 230 2 2 3 
+"" 482 431 0 
+"<E>/:W" 299 93 1 12 
+"LL" 143 278 3 4 8 13 
+":V_Imp+:V_PS2+:V_Fut+:V_Subj+:V_SubjImp2+:V_Cond" 268 223 1 12 
+"ant/:G" 290 475 1 12 
+"i/:K" 249 525 1 7 
+":V_PPass" 275 525 1 12 
+"<E>" 212 407 5 5 6 9 10 11 
+"ons/:P1p:Y1p" 288 313 1 12 
+"ez/:P2p:Y2p" 293 358 1 12 
+"ent/:P3p" 290 415 1 12 
+"<E>" 436 326 1 1 
+"L" 230 639 2 14 15 
+"s/:P1s:P2s:Y2s" 286 608 1 16 
+"t/:P3s" 287 654 1 16 
+"<E>" 353 634 1 1 
+"Graphe de flexion du verbe suivre" 16 29 0 
+"suivre" 339 130 0 
+"suivons" 344 315 0 
+"suivez" 343 354 0 
+"suivent" 333 406 0 
+"suivant" 329 456 0 
+"suis" 320 612 0 
+"suit" 321 652 0 

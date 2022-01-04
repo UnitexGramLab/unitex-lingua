@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 70 200 2 2 17 
+"" 536 435 0 
+"LL" 135 288 2 3 21 
+"L" 181 361 4 6 20 4 5 
+"s/:P1s:P2s:Y2s" 277 323 1 24 
+"t/:P3s" 278 385 1 24 
+"L" 229 524 1 7 
+"gn" 275 554 4 23 10 8 18 
+"ons/:P1p:Y1p" 363 670 1 26 
+"z/:P2p:Y2p" 371 566 1 26 
+"e" 327 573 2 9 11 
+"nt/:P3p:S3p" 368 619 1 26 
+"peins" 303 326 0 
+"peint" 306 383 0 
+"peignons" 404 666 0 
+"peignez" 440 555 0 
+"peignent" 465 626 0 
+"<E>/:W" 221 132 1 24 
+"ant/:G" 365 723 1 26 
+"peignant" 402 715 0 
+"t/:K" 225 409 1 22 
+":V_Cond+:V_Fut" 198 242 1 24 
+":V_PPass" 257 434 1 24 
+":V_Subj+:V_PS2+:V_SubjImp2+:V_Imp" 341 496 1 26 
+"<E>" 349 376 1 1 
+"peindre" 261 165 0 
+"<E>" 481 596 1 1 
+"Graphe de flexion du verbe peindre" 19 29 0 

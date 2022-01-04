@@ -1,0 +1,55 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+35
+"<E>" 97 233 2 24 14 
+"" 556 375 0 
+"Graphe de flexion pour le verbe manger" 33 42 0 
+"L" 250 876 2 16 31 
+"ant/:G" 212 311 1 1 
+"mangeant" 254 296 0 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 286 360 1 26 
+"mange" 325 355 0 
+"nt/:P3p:S3p" 284 409 1 26 
+"mangent" 317 393 0 
+"s/:P2s:S2s" 286 472 1 26 
+"manges" 326 474 0 
+"z/:P2p:Y2p" 287 522 1 26 
+"mangez" 330 524 0 
+"<E>/:W" 214 125 1 1 
+"manger" 247 123 0 
+"<E>" 285 874 2 17 23 
+"i" 323 827 2 18 21 
+"ez/:S2p:I2p" 373 784 1 19 
+"<E>" 462 824 1 1 
+"mangiez" 411 782 0 
+"ons/:S1p:I1p" 378 856 1 19 
+"mangions" 418 849 0 
+"é/:K" 322 891 1 29 
+"L" 134 276 3 25 30 4 
+"<E>" 175 529 9 6 8 10 12 3 27 32 33 34 
+"<E>" 435 525 1 1 
+"ons/:Y1p:P1p" 279 572 1 26 
+"mangeons" 321 567 0 
+":V_PPass" 365 931 1 19 
+":V_Fut+:V_Cond+:V_SubjImp3+:V_PS3_V5" 194 220 1 1 
+"èrent/:J3p" 377 1000 1 19 
+"ais/:I1s:I2s" 290 634 1 26 
+"ait/:I3s" 290 693 1 26 
+"aient/:I3p" 284 756 1 1 

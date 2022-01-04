@@ -1,0 +1,60 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+40
+"<E>" 99 279 2 3 4 
+"" 539 519 0 
+"Graphe de flexion pour le verbe croire" 20 29 0 
+"<E>/:W" 250 175 1 11 
+"LL" 149 368 3 9 12 23 
+"s/:P1s:P2s:Y2s" 268 318 1 11 
+"t/:P3s" 270 366 1 11 
+"ent/:P3p:S3p" 269 413 1 11 
+"e/:S1s:S3s" 273 469 1 11 
+"<E>" 194 413 5 5 6 7 8 10 
+"es/:S2s" 271 516 1 11 
+"<E>" 379 412 1 1 
+"L" 211 590 2 13 21 
+"y" 253 590 3 14 15 39 
+"<E>" 295 573 3 16 17 18 
+"i" 320 668 2 19 20 
+"ant/:G" 353 524 1 26 
+"ons/:P1p:Y1p" 351 573 1 26 
+"ez/:P2p:Y2p" 356 628 1 26 
+"ons/:S1p" 352 682 1 26 
+"ez/:S2p" 357 733 1 26 
+"L" 280 867 2 22 24 
+"u/:K" 311 908 1 25 
+":V_Fut+:V_Cond" 238 271 1 11 
+":V_PS+:V_SubjImp" 341 841 1 27 
+":V_PPass" 354 908 1 27 
+"<E>" 453 639 1 1 
+"<E>" 443 862 1 1 
+"croire" 289 216 0 
+"crois" 297 323 0 
+"croit" 304 372 0 
+"croient" 313 411 0 
+"croie" 307 455 0 
+"croies" 300 515 0 
+"croyant" 403 553 0 
+"croyons" 393 577 0 
+"croyez" 392 624 0 
+"croyions" 392 673 0 
+"croyiez" 391 729 0 
+":V_Imp" 350 792 1 1 

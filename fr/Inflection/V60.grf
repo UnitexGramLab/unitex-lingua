@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 56 324 2 9 3 
+"" 473 420 0 
+"Graphe de flexion pour le verbe vaincre" 24 36 0 
+"<E>/:W" 191 220 1 29 
+"vaincre" 225 237 0 
+"e/f" 626 2025 1 6 
+"s/p" 700 2025 0 
+"e/f" 646 2045 1 8 
+"s/p" 720 2045 0 
+"LL" 82 375 5 10 11 16 26 23 
+"<E>/:P3s" 195 415 1 29 
+"s/:P1s:P2s:Y2s" 194 464 1 29 
+"vainc" 221 402 0 
+"vaincs" 221 456 0 
+"nt/:P3p" 292 621 1 30 
+"z/:P2p:Y2p" 295 674 1 30 
+"L" 136 568 1 24 
+"ons/:P1p:Y1p" 287 734 1 30 
+"vainquent" 335 624 0 
+"vainquez" 327 667 0 
+"vainquons" 327 723 0 
+"ant/:G" 289 791 1 30 
+"vainquant" 326 778 0 
+"u/:K" 140 370 1 28 
+"qu" 179 615 4 25 17 27 21 
+"e" 243 638 2 14 15 
+":V_Cond+:V_Fut" 175 309 1 29 
+":V_Imp+:V_PS2+:V_SubjImp2+:V_Subj" 265 559 1 30 
+":V_PPass" 174 370 1 29 
+"<E>" 302 354 1 1 
+"<E>" 410 645 1 1 

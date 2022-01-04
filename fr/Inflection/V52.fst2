@@ -1,0 +1,57 @@
+0000000005
+-1 V52
+: 8 2 1 1 
+t 
+: 5 1 4 1 3 1 2 3 
+: -3 1 9 5 7 1 6 4 
+: -2 1 
+: -4 1 -5 1 
+f 
+-2 V_PPass
+: 12 1 10 1 
+: 13 2 11 2 
+t 
+f 
+-3 V_PS
+: 18 1 17 1 16 1 15 1 14 1 
+t 
+f 
+-4 V_Cond
+: 23 1 22 1 21 1 20 1 19 1 
+t 
+f 
+-5 V_Fut
+: 29 1 28 1 27 1 26 1 25 1 24 1 
+t 
+f 
+%<E>
+%<E>/:W
+%LL
+%s/:P1s:P2s
+%t/:P3s
+%ent/:P3p
+%u/:K
+%ût/:T3s
+%L
+%er
+%e/f
+%s/p
+%<E>/m
+%<E>/s
+%us/:J1s:J2s
+%ut/:J3s
+%ûmes/:J1p
+%ûtes/:J2p
+%urent/:J3p
+%rais/:C1s:C2s
+%rait/:C3s
+%rions/:C1p
+%riez/:C2p
+%raient/:C3p
+%rai/:F1s
+%ras/:F2s
+%ra/:F3s
+%rons/:F1p
+%rez/:F2p
+%ront/:F3p
+f

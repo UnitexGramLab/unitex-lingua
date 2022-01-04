@@ -1,0 +1,81 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+61
+"<E>" 67 161 2 3 4 
+"" 660 485 0 
+"Graphe de flexion du verbe asseoir" 13 29 0 
+"<E>/:W" 249 63 1 38 
+"LLL" 106 355 2 5 7 
+"y" 180 264 5 6 23 29 30 31 
+":V_Imp+:V_Subj" 268 152 1 38 
+"L" 213 629 7 8 10 11 18 19 32 36 
+"oy" 319 615 6 9 15 16 22 26 27 
+":V_Imp" 411 486 1 20 
+"ié" 300 782 1 35 
+"oi" 350 1072 7 12 13 14 17 24 25 28 
+":V_Fut+:V_Cond" 414 959 1 21 
+"e/:S1s:S3s" 433 999 1 21 
+"es/:S2s" 430 1047 1 21 
+"ions/:S1p" 417 522 1 20 
+"iez/:S2p" 421 567 1 20 
+"ent/:S3p" 428 1097 1 21 
+":V_SubjImp2" 390 457 1 20 
+"is" 348 382 3 57 58 59 
+"<E>" 538 541 1 1 
+"<E>" 542 1075 1 1 
+"ant/:G" 419 612 1 20 
+"ant/:G" 279 198 1 38 
+"s/:P1s:P2s" 433 1145 1 21 
+"t/:P3s" 434 1194 1 21 
+"ons/:P1p" 420 660 1 20 
+"ez/:P2p" 429 713 1 20 
+"ent/:P3p" 428 1241 1 21 
+"ons/:P1p:Y1p" 277 240 1 38 
+"ez/:P2p:Y2p" 282 285 1 38 
+"ent/:P3p" 279 340 1 38 
+"ied" 313 875 2 33 34 
+"s/:P1s:P2s:Y2s" 373 855 1 37 
+"<E>/:P3s" 374 911 1 37 
+":V_Fut+:V_Cond" 354 803 1 37 
+":V_PS2" 359 754 1 37 
+"<E>" 458 811 1 1 
+"<E>" 432 244 1 1 
+"asseoir" 297 95 0 
+"asseyant" 333 207 0 
+"asseyons" 336 242 0 
+"asseyez" 326 281 0 
+"asseyent" 323 331 0 
+"assoyions" 472 523 0 
+"assoyiez" 468 561 0 
+"assoyant" 469 599 0 
+"assoyons" 461 638 0 
+"assoyez" 462 687 0 
+"assieds" 414 840 0 
+"assied" 409 897 0 
+"assoie" 466 1007 0 
+"assoies" 470 1051 0 
+"assoient" 475 1091 0 
+"assois" 471 1129 0 
+"assoit" 464 1184 0 
+"assoient" 473 1223 0 
+"<E>/:Kms:Kmp" 420 284 1 60 
+"e/:Kfs" 429 337 1 60 
+"es/:Kfp" 432 395 1 60 
+"<E>" 489 371 1 1 

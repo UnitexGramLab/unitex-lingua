@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 67 236 2 9 3 
+"" 460 436 0 
+"Graphe de flexion pour le verbe coudre" 24 36 0 
+"<E>/:W" 188 151 1 30 
+"coudre" 223 172 0 
+"e/f" 626 2025 1 6 
+"s/p" 700 2025 0 
+"e/f" 646 2045 1 8 
+"s/p" 720 2045 0 
+"LL" 101 328 4 10 11 17 26 
+"<E>/:P3s" 188 317 1 30 
+"s/:P1s:P2s:Y2s" 187 373 1 30 
+"coud" 218 309 0 
+"couds" 217 362 0 
+"e" 247 585 2 15 16 
+"nt/:P3p" 287 584 1 28 
+"z/:P2p:Y2p" 290 638 1 28 
+"L" 138 458 1 18 
+"s" 172 559 5 14 19 25 27 23 
+"ons/:P1p:Y1p" 282 530 1 28 
+"cousent" 318 587 0 
+"cousez" 321 628 0 
+"cousons" 324 533 0 
+"ant/:G" 284 692 1 28 
+"cousant" 324 687 0 
+"u/:K" 231 751 1 29 
+":V_Cond+:V_Fut" 168 262 1 30 
+":V_Subj+:V_Imp+:V_PS2+:V_SubjImp2" 260 463 1 28 
+"<E>" 383 587 1 1 
+":V_PPass" 273 750 1 28 
+"<E>" 291 274 1 1 

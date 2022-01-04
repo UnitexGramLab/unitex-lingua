@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  8
+OFONT Times New Roman:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 52 435 2 2 3 
+"" 706 441 0 
+"<e$er>" 108 430 2 6 7 
+"<E>/:W" 310 37 1 1 
+"ant/:G" 316 97 1 1 
+":V_Imp+:V_PS3+:V_SubjImp3" 307 226 1 1 
+"e$" 189 350 7 5 4 9 14 15 16 17 
+"è$e" 177 505 4 8 11 12 13 
+":V_Fut+:V_Cond" 330 694 1 1 
+"é/:K" 309 160 1 10 
+":V_PPass" 343 160 1 1 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 293 505 1 1 
+"s/:P2s:S2s" 337 582 1 1 
+"nt/:P3p:S3p" 336 637 1 1 
+"ons/:P1p:Y1p" 309 272 1 1 
+"ez/:P2p:Y2p" 315 324 1 1 
+"ions/:S1p" 313 379 1 1 
+"iez/:S2p" 325 443 1 1 

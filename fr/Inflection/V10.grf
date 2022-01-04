@@ -1,0 +1,76 @@
+#Unigraph
+SIZE 1000 2000
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+56
+"<E>" 40 301 2 3 31 
+"" 639 464 0 
+"Graphe de flexion pour le verbe assiéger" 24 36 0 
+"L" 71 366 7 29 50 4 51 44 52 53 
+"a" 212 724 4 5 6 17 19 
+"<E>/:J3s" 332 855 1 16 
+"i" 270 723 4 7 8 9 10 
+"<E>/:J1s" 332 631 1 16 
+"ent/:I3p" 326 689 1 16 
+"s/:I1s:I2s" 331 749 1 16 
+"t/:I3s" 332 808 1 16 
+"assiégea" 377 827 0 
+"assiégeai" 375 649 0 
+"assiégeaient" 369 692 0 
+"assiégeais" 361 729 0 
+"assiégeait" 394 765 0 
+"<E>" 515 719 1 1 
+"nt/:G" 329 583 1 16 
+"assiégeant" 369 604 0 
+"s/:J2s" 337 906 1 16 
+"<E>" 519 927 1 1 
+"assiégeas" 384 870 0 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 240 314 1 23 
+"<E>" 389 364 1 1 
+"assiège" 295 314 0 
+"nt/:P3p:S3p" 237 358 1 23 
+"assiègent" 296 362 0 
+"s/:P2s:S2s" 239 421 1 23 
+"assièges" 298 402 0 
+"z/:P2p:Y2p" 240 483 1 23 
+"assiégez" 268 469 0 
+"<E>/:W" 235 177 1 1 
+"assiéger" 288 176 0 
+"<E>" 211 1145 3 34 42 55 
+"i" 291 1171 2 35 38 
+"ez/:I2p:S2p" 361 1133 1 36 
+"<E>" 468 1157 1 40 
+"assiégiez" 401 1137 0 
+"ons/:I1p:S1p" 362 1190 1 36 
+"assiégions" 410 1181 0 
+"<E>" 531 1118 1 1 
+"assiégeons" 278 526 0 
+"èrent/:J3p" 281 1091 1 40 
+"assiégèrent" 345 1092 0 
+"â" 166 1010 2 45 48 
+"mes/:J1p" 216 1046 1 46 
+"<E>" 320 1007 1 20 
+"assiégeâmes" 257 1043 0 
+"tes/:J2p" 216 973 1 46 
+"assiégeâtes" 255 979 0 
+"LLLège" 141 358 3 27 25 22 
+"L" 138 1063 1 33 
+"ons/:P1p:Y1p" 237 538 1 23 
+":V_Fut+:V_Cond+:V_SubjImp3" 218 256 1 1 
+":V_PPass" 408 1251 1 40 
+"é/:K" 283 1251 1 54 

@@ -1,0 +1,81 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+61
+"<E>" 29 296 2 3 32 
+"" 720 808 0 
+"Graphe de flexion pour le verbe rapiécer" 24 36 0 
+"L" 72 328 4 4 56 57 60 
+"L" 114 571 2 34 55 
+"a" 210 634 4 6 7 18 20 
+"<E>/:J3s" 393 512 1 17 
+"i" 280 639 4 8 9 10 11 
+"<E>/:J1s" 371 560 1 17 
+"ent/:I3p" 371 608 1 17 
+"s/:I1s:I2s" 371 663 1 17 
+"t/:I3s" 373 723 1 17 
+"rapiéça" 448 528 0 
+"rapiéçai" 419 570 0 
+"rapiéçaient" 417 611 0 
+"rapiéçais" 414 647 0 
+"rapiéçait" 444 690 0 
+"<E>" 551 629 1 1 
+"nt/:G" 381 771 1 17 
+"rapiéçant" 427 746 0 
+"s/:J2s" 376 815 1 21 
+"<E>" 501 826 1 1 
+"rapiéças" 421 813 0 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 270 321 1 24 
+"<E>" 425 400 1 25 
+"<E>" 478 289 1 1 
+"rapiéce" 326 326 0 
+"nt/:P3p:S3p" 267 376 1 24 
+"rapiècent" 311 370 0 
+"s/:P2s:S2s" 269 433 1 24 
+"rapièces" 334 394 0 
+"rapiécez" 260 263 0 
+"<E>/:W" 203 138 1 25 
+"rapiécer" 242 156 0 
+"<E>" 196 1150 3 35 43 54 
+"i" 244 1206 2 36 38 
+"ez/:I2p:S2p" 325 1220 1 40 
+"rapiéciez" 385 1194 0 
+"ons/:I1p:S1p" 325 1275 1 40 
+"rapiécions" 393 1246 0 
+"<E>" 495 1108 1 1 
+"ons/:P1p:Y1p" 298 1097 1 40 
+"rapiéçons" 391 1101 0 
+"èrent/:J3p" 325 1166 1 40 
+"rapiécièrent" 403 1134 0 
+"â" 284 924 2 46 49 
+"mes/:J1p" 369 906 1 47 
+"<E>" 489 953 1 1 
+"rapiéçâmes" 416 913 0 
+"t" 324 976 2 50 52 
+"<E>/:T3s" 369 954 1 47 
+"rapiéçât" 400 957 0 
+"es/:J2p" 370 1009 1 47 
+"rapiéçâtes" 418 993 0 
+"é/:K" 226 1304 1 59 
+"Lç" 160 638 4 5 41 45 58 
+":V_Fut+:V_Cond" 189 202 1 25 
+"LLLèce" 160 423 3 23 27 29 
+":V_SubjImp3" 353 864 1 21 
+":V_PPass" 325 1345 1 40 
+"z/:P2p:Y2p" 220 263 1 25 

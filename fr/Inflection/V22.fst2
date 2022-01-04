@@ -1,0 +1,88 @@
+0000000008
+-1 V22
+: 2 2 1 1 
+t 
+: -2 1 -3 1 9 4 2 3 
+: -5 1 -6 1 -7 1 -8 1 11 6 10 1 8 5 5 1 
+: -4 1 
+: 7 1 6 1 
+: 4 1 3 1 
+f 
+-2 V_Cond
+: 16 1 15 1 14 1 13 1 12 1 
+t 
+f 
+-3 V_Fut
+: 22 1 21 1 20 1 19 1 18 1 17 1 
+t 
+f 
+-4 V_PPass
+: 25 1 23 1 
+: 26 2 24 2 
+t 
+f 
+-5 V_Imp
+: 31 1 30 1 29 1 28 1 27 1 
+t 
+f 
+-6 V_PS2
+: 36 1 35 1 34 1 33 1 32 1 
+t 
+f 
+-7 V_SubjImp2
+: 42 1 41 1 40 1 39 1 38 1 37 1 
+t 
+f 
+-8 V_Subj
+: 47 1 46 1 45 1 44 1 43 1 
+t 
+f 
+%<E>
+%<E>/:W
+%L
+%s/:P1s:P2s:Y2s
+%t/:P3s
+%ons/:P1p:Y1p
+%z/:P2p:Y2p
+%nt/:P3p
+%e
+%<E>/:K
+%ant/:G
+%LLL
+%rais/:C1s:C2s
+%rait/:C3s
+%rions/:C1p
+%riez/:C2p
+%raient/:C3p
+%rai/:F1s
+%ras/:F2s
+%ra/:F3s
+%rons/:F1p
+%rez/:F2p
+%ront/:F3p
+%e/f
+%s/p
+%<E>/m
+%<E>/s
+%ais/:I1s:I2s
+%ait/:I3s
+%ions/:I1p
+%iez/:I2p
+%aient/:I3p
+%is/:J1s:J2s
+%it/:J3s
+%îmes/:J1p
+%îtes/:J2p
+%irent/:J3p
+%isse/:T1s
+%isses/:T2s
+%ît/:T3s
+%issions/:T1p
+%issiez/:T2p
+%issent/:T3p
+%e/:S1s:S3s
+%es/:S2s
+%ions/:S1p
+%iez/:S2p
+%ent/:S3p
+f

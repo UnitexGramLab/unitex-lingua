@@ -1,0 +1,53 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+33
+"<E>" 97 354 3 3 27 15 
+"" 583 420 0 
+"Graphe de flexion pour le verbe appeler" 18 29 0 
+"L" 185 396 2 4 13 
+"L" 269 506 3 17 29 5 
+"ant/:G" 386 532 1 32 
+"appelant" 431 545 0 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 258 273 1 31 
+"appelle" 325 264 0 
+"nt/:P3p:S3p" 266 329 1 31 
+"appellent" 294 332 0 
+"s/:P2s:S2s" 268 378 1 31 
+"appelles" 307 381 0 
+"z/:P2p:Y2p" 266 437 1 31 
+"appelez" 300 436 0 
+"<E>/:W" 257 148 1 31 
+"appeler" 284 131 0 
+"<E>" 300 597 3 18 23 25 
+"i" 344 612 2 19 21 
+"ez/:S2p" 389 586 1 32 
+"appeliez" 432 587 0 
+"ons/:S1p" 384 643 1 32 
+"appelions" 429 638 0 
+"ons/:P1p:Y1p" 384 698 1 32 
+"appelons" 430 688 0 
+"é/:K" 344 764 1 30 
+"appeler" 68 331 0 
+"LLle" 185 275 4 28 7 9 11 
+":V_Fut+:V_Cond" 248 211 1 31 
+":V_Imp+:V_PS3+:V_SubjImp3" 362 470 1 32 
+":V_PPass" 389 763 1 32 
+"<E>" 426 280 1 1 
+"<E>" 547 595 1 1 

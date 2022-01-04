@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 70 199 6 2 3 4 5 6 7 
+"" 451 201 0 
+"<E>/:ms" 265 73 1 1 
+"ne/:fs" 265 123 1 1 
+"e/:fs" 270 171 1 1 
+"s/:mp" 273 220 1 1 
+"nes/:fp" 271 269 1 1 
+"es/:fp" 273 324 1 1 
+"/ex: lapon" 519 89 0 

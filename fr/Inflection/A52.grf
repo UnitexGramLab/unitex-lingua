@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 69 195 4 2 3 4 5 
+"" 535 199 0 
+"<E>/:ms" 296 123 1 1 
+"Lgne/:fs" 296 182 1 1 
+"s/:mp" 309 244 1 1 
+"Lgnes/:fp" 300 312 1 1 
+"/ex: malin" 532 98 0 

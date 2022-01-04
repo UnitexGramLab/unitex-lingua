@@ -1,0 +1,49 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+29
+"<E>" 102 229 2 3 5 
+"" 441 393 0 
+"Graphe de flexion du verbe confire" 15 26 0 
+"<E>/:W" 260 127 1 27 
+"confire" 297 158 0 
+"LL" 141 310 4 7 11 6 23 
+"t" 192 315 2 20 21 
+"s" 189 422 5 25 12 18 8 16 
+"e" 234 611 2 9 14 
+"nt/:P3p" 262 597 1 28 
+"confisent" 296 593 0 
+"L" 190 725 1 26 
+"ant/:G" 259 435 1 28 
+"confisant" 300 430 0 
+"z/:P2p:Y2p" 265 654 1 28 
+"confisez" 292 652 0 
+"ons/:P1p:Y1p" 257 540 1 28 
+"confisons" 299 540 0 
+"<E>/:P1s:P2s:Y2s" 265 484 1 28 
+"confis" 297 486 0 
+"<E>/:K" 221 341 1 24 
+"<E>/:P3s:J3s" 273 281 1 27 
+"confit" 309 283 0 
+":V_Cond+:V_Fut" 253 223 1 27 
+":V_PPass" 252 341 1 27 
+":V_Imp+:V_Subj" 256 388 1 27 
+":V_PS2+:V_SubjImp2" 233 725 1 28 
+"<E>" 373 306 1 1 
+"<E>" 364 532 1 1 

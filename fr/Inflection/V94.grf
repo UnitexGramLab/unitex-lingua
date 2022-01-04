@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 71 268 2 5 3 
+"" 452 490 0 
+"Graphe de flexion pour le verbe lire" 44 52 0 
+"<E>/:W" 250 172 1 1 
+"lire" 292 208 0 
+"LL" 115 427 4 11 17 19 22 
+"ant/:G" 261 490 1 26 
+"lisant" 308 487 0 
+"nt/:P3p" 264 599 1 26 
+"z/:P2p:Y2p" 267 663 1 26 
+"lisons" 307 530 0 
+"s" 183 495 5 12 14 20 23 6 
+"<E>/:P1s:P2s:Y2s" 267 382 1 26 
+"lis" 296 387 0 
+"e" 232 633 2 8 9 
+"lisent" 294 589 0 
+"lisez" 290 649 0 
+"L" 177 754 2 18 24 
+"u/:K" 205 819 1 25 
+"t/:P3s" 267 334 1 26 
+"ons/:P1p:Y1p" 259 543 1 26 
+"lit" 294 337 0 
+":V_Cond+:V_Fut" 247 284 1 26 
+":V_Imp+:V_Subj" 250 441 1 26 
+":V_PS+:V_SubjImp" 242 743 1 27 
+":V_PPass" 253 819 1 27 
+"<E>" 399 492 1 1 
+"<E>" 381 775 1 1 

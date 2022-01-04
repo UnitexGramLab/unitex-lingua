@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 101 300 2 2 17 
+"" 517 436 0 
+"LL" 132 380 4 21 4 5 15 
+"<E>/:P1s:P2s:Y2s" 284 676 1 25 
+"t/:P3s" 284 371 1 25 
+"s" 201 546 5 3 6 7 22 19 
+"ons/:P1p:Y1p" 276 617 1 25 
+"e" 250 524 2 8 9 
+"z/:P2p:Y2p" 284 486 1 25 
+"nt/:P3p" 281 555 1 25 
+"tais" 310 666 0 
+"taisons" 320 595 0 
+"taisent" 320 541 0 
+"taisez" 323 488 0 
+"tait" 310 376 0 
+"LL" 239 842 2 23 16 
+"u/:K" 278 870 1 24 
+"<E>/:W" 248 220 1 1 
+"taire" 290 241 0 
+"ant/:G" 278 740 1 25 
+"taisant" 313 725 0 
+":V_Cond+:V_Fut" 264 322 1 25 
+":V_Imp+:V_Subj" 267 439 1 25 
+":V_PS+:V_SubjImp" 304 798 1 26 
+":V_PPass" 318 870 1 26 
+"<E>" 401 542 1 1 
+"<E>" 406 834 1 1 
+"Graphe de flexion du verbe taire" 18 29 0 

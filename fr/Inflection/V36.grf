@@ -1,0 +1,43 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+23
+"<E>" 94 351 2 3 5 
+"" 721 478 0 
+"Graphe de flexion pour le verbe gésir" 16 29 0 
+"<E>/:W" 315 250 1 22 
+"gésir" 353 268 0 
+"LLLL" 149 457 2 6 7 
+"i" 251 457 1 8 
+"ît/:P3s" 322 383 1 22 
+"s" 342 491 6 9 10 12 11 13 21 
+"<E>/:P1s:P2s" 499 391 1 14 
+"ant/:G" 504 438 1 14 
+"ez/:P2p" 510 531 1 14 
+"ons/:P1p" 504 483 1 14 
+"ent/:P3p" 515 575 1 14 
+"<E>" 630 503 1 1 
+"gît" 360 371 0 
+"gis" 555 434 0 
+"gisant" 545 463 0 
+"gisons" 553 490 0 
+"gisez" 543 521 0 
+"gisent" 557 553 0 
+":V_Imp" 502 633 1 1 
+"<E>" 455 313 1 1 

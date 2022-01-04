@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 69 199 4 2 3 4 5 
+"" 496 192 0 
+"<E>/:ms" 290 108 1 1 
+"LLLLLante/:fs" 271 170 1 1 
+"s/:mp" 300 227 1 1 
+"LLLLLantes/:fp" 279 290 1 1 
+"ex: serviteur" 554 95 0 

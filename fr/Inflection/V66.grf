@@ -1,0 +1,63 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+43
+"<E>" 48 219 2 3 5 
+"" 522 596 0 
+"Graphe de flexion du verbe prendre" 13 28 0 
+"<E>/:W" 157 136 1 41 
+"prendre" 186 121 0 
+"LL" 97 306 3 28 29 38 
+"<E>/:P3s" 183 295 1 41 
+"s/:P1s:P2s:Y2s" 182 356 1 41 
+"ne" 234 797 3 14 12 13 
+"i" 234 630 2 17 18 
+"prend" 218 291 0 
+"prends" 215 341 0 
+"nt/:P3p:S3p" 275 797 1 42 
+"s/:S2s" 277 866 1 42 
+"<E>/:S1s:S3s" 278 751 1 42 
+"prenne" 304 735 0 
+"prennent" 305 793 0 
+"ez/:S2p" 275 695 1 42 
+"ons/:S1p" 270 637 1 42 
+"prenions" 318 633 0 
+"preniez" 311 683 0 
+"prenant" 316 590 0 
+"is" 274 1059 2 23 24 
+"e/:Kf" 313 1078 2 25 37 
+"<E>/:Kms:Kmp" 336 1002 1 26 
+"s/p" 375 1102 1 26 
+"<E>" 441 1027 1 1 
+"ant/:G" 272 584 1 42 
+"<E>" 150 326 2 6 7 
+"L" 178 508 6 36 33 39 27 9 8 
+"prennes" 302 852 0 
+"ez/:P2p:Y2p" 275 522 1 42 
+"ons/:P1p:Y1p" 270 463 1 42 
+"<E>" 228 498 2 32 31 
+"prenons" 319 468 0 
+"prenez" 308 522 0 
+"LL" 230 1001 2 40 22 
+"<E>/s" 370 1057 1 26 
+":V_Cond+:V_Fut" 163 243 1 41 
+":V_Imp" 263 417 1 42 
+":V_PS2+:V_SubjImp2" 315 953 1 26 
+"<E>" 279 289 1 1 
+"<E>" 431 627 1 1 

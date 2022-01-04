@@ -1,0 +1,79 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+59
+"<E>" 129 325 2 37 25 
+"" 647 623 0 
+"Graphe de flexion pour le verbe placer" 33 42 0 
+"L" 341 1171 2 27 55 
+"<E>/:J3s" 389 292 1 12 
+"i" 343 418 4 6 40 41 42 
+"<E>/:J1s" 389 334 1 12 
+"plaça" 425 303 0 
+"plaçai" 436 335 0 
+"plaçaient" 436 394 0 
+"plaçais" 429 453 0 
+"plaçait" 427 509 0 
+"<E>" 513 395 1 1 
+"nt/:G" 386 558 1 57 
+"plaçant" 419 567 0 
+"s/:J2s" 388 618 1 57 
+"plaças" 412 612 0 
+"<E>/:P1s:P3s:Y2s" 321 891 1 50 
+"place" 352 894 0 
+"nt/:P3p" 318 957 1 50 
+"placent" 349 965 0 
+"s/:P2s" 320 1020 1 50 
+"places" 350 1005 0 
+"z/:P2p:Y2p" 321 1070 1 50 
+"placez" 360 1042 0 
+"<E>/:W" 337 196 1 12 
+"placer" 382 223 0 
+"<E>" 388 1210 3 28 34 36 
+"i" 417 1172 2 29 32 
+"ez/:I2p" 463 1131 1 30 
+"<E>" 556 1161 1 1 
+"placiez" 492 1140 0 
+"ons/:I1p" 463 1188 1 30 
+"placions" 500 1180 0 
+"èrent/:J3p" 463 1241 1 30 
+"placèrent" 505 1217 0 
+"é/:K" 418 1263 1 56 
+"L" 187 402 3 38 39 53 
+"<E>" 249 984 5 17 19 21 23 3 
+"LLç" 219 507 3 43 54 58 
+"ent/:I3p" 383 391 1 12 
+"t/:I3s" 389 510 1 12 
+"s/:I1s:I2s" 388 451 1 12 
+"a" 267 451 4 4 5 13 15 
+"â" 366 814 2 45 47 
+"mes/:J1p" 419 783 1 49 
+"plaçâmes" 461 786 0 
+"tes/:J2p" 421 843 1 49 
+"plaçâtes" 456 824 0 
+"<E>" 532 786 1 1 
+"<E>" 407 984 1 49 
+"ons/:Y1p:P1p" 414 721 1 49 
+"plaçons" 457 716 0 
+":V_Fut+:V_Cond" 239 320 1 12 
+":V_SubjImp3" 359 664 1 57 
+":V_Subj" 447 1083 1 30 
+":V_PPass" 463 1296 1 30 
+"<E>" 489 608 1 1 
+"<E>" 335 751 2 51 44 

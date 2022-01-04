@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 70 200 2 2 3 
+"" 450 200 0 
+"<E>/:ms:fs:mp:fp" 257 138 1 1 
+"x/:mp:fp" 268 216 1 1 
+"/ex: marteau" 504 106 0 

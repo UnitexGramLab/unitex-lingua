@@ -1,0 +1,57 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+37
+"<E>" 65 359 2 3 30 
+"" 650 584 0 
+"Graphe de flexion pour le verbe surseoir" 20 29 0 
+"<E>/:W" 335 248 1 1 
+"LLL" 142 563 3 5 33 35 
+"o" 195 527 1 8 
+"i" 280 454 1 9 
+"y" 278 567 1 10 
+"<E>" 228 505 2 7 6 
+"<E>" 306 449 5 11 13 12 14 15 
+"<E>" 323 619 4 20 32 17 18 
+"e/:S1s:S3s" 360 354 1 16 
+"s/:P1s:P2s:Y1s" 363 444 1 16 
+"es/:S2s" 358 398 1 16 
+"t/:P3s" 361 490 1 16 
+"ent/:P3p:S3p" 358 535 1 16 
+"<E>" 475 447 1 1 
+"ons/:P1p:S1p:Y1p" 399 686 1 19 
+"ez/:P2p:S2p:Y2p" 404 736 1 19 
+"<E>" 510 646 1 1 
+"ant/:G" 399 593 1 19 
+"surseoir" 374 275 0 
+"sursoie" 392 361 0 
+"sursoies" 395 404 0 
+"sursois" 390 443 0 
+"sursoit" 391 488 0 
+"sursoient" 400 519 0 
+"sursoyant" 444 588 0 
+"sursoyons" 438 660 0 
+"sursoyez" 472 694 0 
+"L" 102 396 2 31 4 
+":V_Cond+:V_Fut" 181 362 0 
+":V_Imp" 392 641 1 19 
+":V_PS2+:V_SubjImp2" 374 805 1 1 
+"s/:Kms:Kmp" 404 864 1 1 
+"i" 355 865 2 34 36 
+"se/:Kfs" 407 916 1 1 

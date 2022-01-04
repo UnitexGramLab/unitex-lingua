@@ -1,0 +1,43 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+23
+"<E>" 64 240 2 15 3 
+"" 481 335 0 
+"Graphe de flexion du verbe choir" 15 28 0 
+"<E>/:W" 221 168 1 1 
+"choir" 264 180 0 
+"LL" 191 519 4 12 13 19 20 
+"s/:P1s:P2s" 229 282 1 16 
+"chois" 258 280 0 
+"t/:P3s" 232 327 1 16 
+"choit" 260 328 0 
+"ent/:P3p" 230 382 1 16 
+"choient" 265 367 0 
+"u/:K" 240 552 1 17 
+"ût/:T3s" 296 487 1 22 
+"chût" 327 490 0 
+"L" 152 324 5 6 8 10 5 18 
+"<E>" 327 328 1 1 
+":V_PPass" 278 565 1 22 
+":V_Fut+:V_Cond" 209 234 0 
+":V_PS" 287 438 1 22 
+"er" 252 620 1 21 
+":V_Cond+:V_Fut" 285 620 1 22 
+"<E>" 392 534 1 1 

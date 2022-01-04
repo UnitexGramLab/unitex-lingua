@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 60 251 2 15 16 
+"" 462 396 0 
+"Graphe de flexion pourle verbe conclure" 10 23 0 
+"conclure" 282 204 0 
+"t/:P3s" 243 410 1 23 
+"e" 211 591 2 6 7 
+"z/:P2p:Y2p" 243 569 1 23 
+"nt/:P3p" 240 629 1 23 
+"concluez" 268 564 0 
+"concluent" 272 617 0 
+"s/:P1s:P2s:J1s:J2s:Y2s" 243 516 1 23 
+"conclus" 278 500 0 
+"ons/:P1p:Y1p" 235 350 1 23 
+"ant/:G" 240 466 1 23 
+"concluant" 280 464 0 
+"<E>/:W" 241 176 1 1 
+"LL" 105 328 3 17 20 21 
+"<E>" 154 394 5 4 12 5 13 10 
+"concluons" 285 353 0 
+"conclut" 280 415 0 
+"L" 202 745 1 22 
+":V_Cond+:V_Fut+:V_Imp+:V_Subj" 223 274 1 23 
+":V_PS+:V_SubjImp" 269 745 1 1 
+"<E>" 367 454 1 1 

@@ -1,0 +1,58 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+38
+"<E>" 70 201 2 4 7 
+"" 575 392 0 
+"Graphe de flexion du verbe pleuvoir" 20 27 0 
+"t/:P3s" 261 572 1 1 
+"LLL" 110 289 2 8 9 
+"ai" 209 335 1 6 
+"t/:I3s" 259 335 1 26 
+"<E>/:W" 279 124 1 1 
+"L" 182 585 2 13 3 
+"<E>" 154 286 4 5 10 12 25 
+"r" 192 443 3 11 20 36 
+"a/:F3s" 244 444 1 24 
+"e/:S3s" 217 286 1 26 
+"LL" 232 651 1 16 
+"û" 307 654 1 15 
+"t/:T3s" 353 654 1 23 
+"<E>" 268 669 2 14 17 
+"u" 305 706 2 18 22 
+"t/:J3s" 355 706 1 23 
+"pleuvoir" 380 156 0 
+"ai" 241 495 1 21 
+"t/:C3s" 280 495 1 24 
+"<E>/:K" 364 749 1 23 
+"<E>" 464 706 1 1 
+"<E>" 339 438 1 1 
+"ant/:G" 217 233 1 26 
+"<E>" 346 278 1 1 
+"pleuvant" 260 255 0 
+"pleuve" 257 294 0 
+"pleuvait" 283 333 0 
+"pleuvra" 274 442 0 
+"pleuvrait" 313 482 0 
+"pleut" 299 557 0 
+"plût" 389 657 0 
+"plu" 407 734 0 
+"plut" 394 708 0 
+"ont/:F3p" 236 393 1 24 
+"pleuvront" 288 403 0 

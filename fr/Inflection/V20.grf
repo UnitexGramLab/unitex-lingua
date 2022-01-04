@@ -1,0 +1,68 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+48
+"<E>" 49 354 2 4 2 
+"" 619 622 0 
+"<E>/:W" 154 229 1 25 
+"acquérir" 191 234 0 
+"L" 92 404 3 5 23 24 
+"L" 127 493 5 6 44 33 12 13 
+"L" 176 649 1 7 
+"L" 226 688 4 45 46 8 35 
+"i" 277 829 2 14 9 
+"er" 322 938 2 10 11 
+"s/:P1s:P2s:Y2s" 396 932 1 16 
+"t/:P3s" 384 1001 1 16 
+"ons/:P1p:Y1p" 230 603 1 17 
+"ez/:P2p:Y2p" 235 531 1 17 
+"ère" 334 814 3 15 28 29 
+"nt/:P3p:S3p" 414 851 1 30 
+"<E>" 496 968 1 1 
+"<E>" 344 498 1 1 
+"acquiers" 436 936 0 
+"acquiert" 415 995 0 
+"acquièrent" 447 837 0 
+"acquérons" 274 580 0 
+"acquérez" 276 519 0 
+"ons/:S1p" 147 304 1 25 
+"ez/:S2p" 152 374 1 25 
+"<E>" 254 294 1 1 
+"acquérions" 186 282 0 
+"acquériez" 191 353 0 
+"<E>/:S1s:S3s" 417 741 1 30 
+"s/:S2s" 416 796 1 30 
+"<E>" 516 808 1 1 
+"acquière" 452 747 0 
+"acquières" 442 796 0 
+"ant/:G" 232 428 1 17 
+"acquérant" 274 429 0 
+"is/:K" 276 1135 2 36 37 
+"<E>/m" 351 1101 2 38 42 
+"e/f" 357 1162 2 38 39 
+"<E>/s" 426 1101 1 40 
+"s/p" 431 1162 1 40 
+"<E>" 473 1128 1 1 
+"acquis+acquis+acquis+acquises" 514 1125 0 
+"<E>/p" 415 1065 1 40 
+"Graphe de flexion du verbe acquérir" 16 27 0 
+":V_Imp" 223 483 1 17 
+":V_SubjImp2+:V_PS2" 348 619 1 1 
+"er" 283 703 1 47 
+":V_Fut+:V_Cond" 351 696 1 1 

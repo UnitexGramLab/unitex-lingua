@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 71 200 4 2 3 4 5 
+"" 491 200 0 
+"<E>/:ms" 301 113 1 1 
+"Luse/:fs" 300 180 1 1 
+"s/:mp" 312 241 1 1 
+"Luses/:fp" 312 296 1 1 
+"ex: streaker" 507 94 0 

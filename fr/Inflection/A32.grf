@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Garamond:  18
+OFONT Garamond:B 20
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 98 194 4 2 3 4 5 
+"" 564 194 0 
+"<E>/:ms" 329 65 1 1 
+"e/:fs" 326 145 1 1 
+"s/:mp" 327 239 1 1 
+"es/:fp" 322 333 1 1 
+"/ex: ami" 474 83 0 

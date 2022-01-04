@@ -1,0 +1,58 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+38
+"<E>" 42 262 2 23 12 
+"" 511 483 0 
+"Graphe de flexion pour le verbe mourir" 24 36 0 
+"ant/:G" 222 322 1 36 
+"mourant" 255 333 0 
+"<E>" 471 753 1 1 
+"nt/:P3p:S3p" 364 715 1 5 
+"meurent" 402 715 0 
+"s/:P1s:P2s:Y2s" 366 659 1 5 
+"meurs" 399 661 0 
+"ez/:P2p:Y2p" 222 479 1 35 
+"mourez" 255 470 0 
+"<E>/:W" 225 157 1 36 
+"mourir" 254 147 0 
+"<E>" 152 453 3 15 20 10 
+"i" 188 396 2 16 18 
+"ez/:S2p" 222 368 1 35 
+"mourions" 252 416 0 
+"ons/:S1p" 217 425 1 35 
+"mouriez" 254 371 0 
+"ons/:P1p:Y1p" 217 540 1 35 
+"mourons" 259 528 0 
+"rt/:K" 212 619 1 33 
+"LL" 72 320 4 32 3 14 34 
+"e" 315 737 3 6 26 25 
+"s/:S2s" 375 819 1 5 
+"<E>/:S1s:S3s" 367 762 1 5 
+"eur" 260 737 3 24 8 30 
+"meure" 400 765 0 
+"meures" 401 809 0 
+"t/:P3s" 377 877 1 5 
+"meurt" 405 871 0 
+":V_Cond+:V_Fut+:V_Imp+:V_PS+:V_SubjImp" 197 243 1 36 
+":V_PPass" 261 619 1 1 
+"LL" 148 619 2 22 37 
+"<E>" 315 424 1 1 
+"<E>" 315 243 1 1 
+"L" 202 737 1 27 

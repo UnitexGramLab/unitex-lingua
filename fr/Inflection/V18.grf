@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 78 285 2 5 3 
+"" 616 451 0 
+"Graphe de flexion pour le verbe finir" 26 39 0 
+"<E>/:W" 305 200 1 1 
+"finir" 389 243 0 
+"L" 143 335 5 22 26 14 7 29 
+"finis" 369 498 0 
+"s" 221 584 2 8 9 
+"<E>/:P1s:P2s:Y2s" 349 501 1 21 
+"s" 264 632 4 11 23 12 16 
+"nt/:P3p" 416 740 1 20 
+"e" 358 782 2 10 18 
+"ant/:G" 343 577 1 21 
+"finissant" 391 574 0 
+"t/:P3s" 281 260 1 28 
+"finit" 321 275 0 
+"ons/:P1p:Y1p" 341 702 1 21 
+"finissons" 395 686 0 
+"z/:P2p:Y2p" 413 796 1 20 
+"finissez" 447 797 0 
+"<E>" 504 780 1 1 
+"<E>" 487 604 1 1 
+":V_Fut+:V_Cond" 271 327 1 28 
+":V_Imp+:V_Subj" 332 644 1 21 
+":V_SubjImp2+:V_PS2" 296 452 1 1 
+"finissent" 466 747 0 
+"<E>/:K" 226 362 1 27 
+":V_PPass" 270 378 1 28 
+"<E>" 374 323 1 1 
+"L" 231 434 1 24 

@@ -1,0 +1,85 @@
+0000000007
+-1 V84
+: 2 2 1 1 
+t 
+: -2 1 -3 1 8 3 7 1 6 1 5 1 4 1 3 1 
+: 9 5 8 4 
+: -4 1 -5 1 16 6 
+: -7 1 13 1 12 1 11 1 10 7 
+: -6 1 
+: 15 1 14 1 
+f 
+-2 V_Fut
+: 22 1 21 1 20 1 19 1 18 1 17 1 
+t 
+f 
+-3 V_Cond
+: 27 1 26 1 25 1 24 1 23 1 
+t 
+f 
+-4 V_PS
+: 32 1 31 1 30 1 29 1 28 1 
+t 
+f 
+-5 V_SubjImp
+: 38 1 37 1 36 1 35 1 34 1 33 1 
+t 
+f 
+-6 V_PPass
+: 41 1 39 1 
+: 42 2 40 2 
+t 
+f 
+-7 V_Imp
+: 47 1 46 1 45 1 44 1 43 1 
+t 
+f 
+%<E>
+%<E>/:W
+%LL
+%s/:P1s:P2s:Y2s
+%t/:P3s
+%ent/:P3p:S3p
+%e/:S1s:S3s
+%es/:S2s
+%L
+%y
+%i
+%ant/:G
+%ons/:P1p:Y1p
+%ez/:P2p:Y2p
+%ons/:S1p
+%ez/:S2p
+%u/:K
+%rai/:F1s
+%ras/:F2s
+%ra/:F3s
+%rons/:F1p
+%rez/:F2p
+%ront/:F3p
+%rais/:C1s:C2s
+%rait/:C3s
+%rions/:C1p
+%riez/:C2p
+%raient/:C3p
+%us/:J1s:J2s
+%ut/:J3s
+%ûmes/:J1p
+%ûtes/:J2p
+%urent/:J3p
+%usse/:T1s
+%usses/:T2s
+%ût/:T3s
+%ussions/:T1p
+%ussiez/:T2p
+%ussent/:T3p
+%e/f
+%s/p
+%<E>/m
+%<E>/s
+%ais/:I1s:I2s
+%ait/:I3s
+%ions/:I1p
+%iez/:I2p
+%aient/:I3p
+f
