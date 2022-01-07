@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Garamond:  18
+OFONT Garamond:B 20
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 72 200 4 2 3 4 5 
+"" 539 200 0 
+"<E>/:ms" 300 72 1 1 
+"Lve/:fs" 284 157 1 1 
+"s/:mp" 298 252 1 1 
+"Lves/:fp" 280 344 1 1 
+"ex: veuf" 484 92 0 

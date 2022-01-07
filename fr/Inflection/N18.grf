@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 72 200 2 3 2 
+"" 442 196 0 
+"<E>/:ms" 267 151 1 1 
+"in/:mp" 275 244 1 1 
+"ex: moudjahid" 453 115 0 

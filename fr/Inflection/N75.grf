@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 72 200 4 2 3 4 5 
+"" 503 205 0 
+"<E>/:ms" 286 117 1 1 
+"e/:fs" 291 177 1 1 
+"Ls/:mp" 288 234 1 1 
+"es/:fp" 292 289 1 1 
+"ex: tout" 499 98 0 

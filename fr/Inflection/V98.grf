@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 115 317 2 4 2 
+"" 496 570 0 
+"<E>/:W" 236 209 1 1 
+"circoncire" 271 209 0 
+"LL" 151 349 4 17 20 6 19 
+"<E>/:P1s:P2s:Y2s:Kms:Kmp" 331 753 1 1 
+"s" 206 434 3 11 22 18 
+"ons/:P1p:Y1p" 314 479 1 23 
+"z/:P2p:Y2p" 322 537 1 23 
+"e" 292 634 4 8 10 26 27 
+"nt/:P3p" 324 696 1 23 
+"<E>" 242 630 3 7 9 5 
+"circoncisons" 351 479 0 
+"circoncit" 277 328 0 
+"circoncis" 357 731 0 
+"circoncisez" 347 536 0 
+"circoncisent" 352 686 0 
+"L" 246 808 1 21 
+"ant/:G" 270 453 1 1 
+"t/:P3s" 245 321 1 1 
+":V_Cond+:V_Fut" 225 278 1 1 
+":V_PS2+:V_SubjImp2" 304 819 1 1 
+":V_Subj+:V_Imp" 248 393 1 1 
+"<E>" 401 553 1 1 
+"circoncisant" 334 443 0 
+"Graphe de flexion du verbe circoncire" 22 29 0 
+"<E>/:Kfs" 336 591 1 1 
+"s/:Kfp" 396 634 1 1 

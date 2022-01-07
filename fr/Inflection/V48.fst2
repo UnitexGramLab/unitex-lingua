@@ -1,0 +1,57 @@
+0000000004
+-1 V48
+: 14 2 1 1 
+t 
+: 2 3 
+: -3 1 -4 1 4 5 3 4 
+: 5 7 4 6 
+: 16 1 15 1 
+: 10 1 9 1 8 1 7 1 6 1 
+: -2 1 13 1 12 1 11 1 
+f 
+-2 V_Imp
+: 21 1 20 1 19 1 18 1 17 1 
+t 
+f 
+-3 V_PS2
+: 26 1 25 1 24 1 23 1 22 1 
+t 
+f 
+-4 V_SubjImp2
+: 32 1 31 1 30 1 29 1 28 1 27 1 
+t 
+f 
+%<E>
+%<E>/:W
+%LLL
+%o
+%i
+%y
+%e/:S1s:S3s
+%s/:P1s:P2s:Y1s
+%es/:S2s
+%t/:P3s
+%ent/:P3p:S3p
+%ons/:P1p:S1p:Y1p
+%ez/:P2p:S2p:Y2p
+%ant/:G
+%L
+%s/:Kms:Kmp
+%se/:Kfs
+%ais/:I1s:I2s
+%ait/:I3s
+%ions/:I1p
+%iez/:I2p
+%aient/:I3p
+%is/:J1s:J2s
+%it/:J3s
+%îmes/:J1p
+%îtes/:J2p
+%irent/:J3p
+%isse/:T1s
+%isses/:T2s
+%ît/:T3s
+%issions/:T1p
+%issiez/:T2p
+%issent/:T3p
+f

@@ -1,0 +1,68 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+48
+"<E>" 78 376 2 17 25 
+"" 586 785 0 
+"être" 217 323 0 
+"suis" 436 798 0 
+"es" 337 608 0 
+"est" 343 651 0 
+"sommes" 427 877 0 
+"êtes" 228 283 0 
+"sont" 426 833 0 
+"soit" 419 952 0 
+"soyons" 437 1067 0 
+"soyez" 420 1030 0 
+"soient" 419 984 0 
+"sois" 431 908 0 
+"été" 327 534 0 
+"étant" 335 489 0 
+"<E>/:W" 179 330 1 26 
+"LLLL" 120 442 4 18 19 20 21 
+"es" 252 624 2 22 23 
+"f" 212 396 1 44 
+"ét" 213 475 3 28 45 29 
+"s" 230 825 3 30 31 41 
+"<E>/:P2s" 309 602 1 27 
+"t/:P3s" 313 653 1 27 
+"LLes/:P2p" 179 279 1 26 
+"<E>" 126 308 2 24 16 
+"<E>" 256 306 1 47 
+"<E>" 367 628 1 1 
+"é/:G" 289 549 1 47 
+"ant/:K" 282 500 1 47 
+"uis/:P1s" 377 773 1 42 
+"o" 263 905 4 32 33 34 38 
+"nt/:P3p" 380 820 1 42 
+"mmes/:P1p" 370 864 1 42 
+"i" 326 935 3 35 36 37 
+"s/:S1s:S2s:Y3s" 382 909 1 42 
+"t/:S3s" 383 952 1 42 
+"ent/:S3p" 377 997 1 42 
+"y" 316 977 2 39 40 
+"ez/:S2p:Y2p" 380 1065 1 42 
+"ons/:S1p:Y1p" 375 1110 1 42 
+"er" 274 771 1 46 
+"<E>" 544 930 1 1 
+"Graphe de flexion du verbe être" 14 25 0 
+":V_PS+:V_SubjImp" 262 396 1 47 
+":V_Imp" 270 452 1 47 
+":V_Fut+:V_Cond" 373 723 1 1 
+"<E>" 412 457 1 1 

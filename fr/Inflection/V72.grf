@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 70 207 2 3 4 
+"" 430 349 0 
+"Graphe de flexion du verbe naître" 15 27 0 
+"<E>/:W" 156 131 1 17 
+"LL" 92 246 3 5 6 8 
+":V_Fut+:V_Cond" 157 271 1 17 
+"<E>/:P3s" 171 202 1 17 
+"naît" 205 210 0 
+"LL" 128 341 3 9 25 27 
+"i" 183 402 2 10 14 
+"s/:P1s:P2s:Y2s" 269 307 1 16 
+"ons/:P1p:Y1p" 262 373 1 16 
+"ez/:P2p:Y2p" 267 417 1 16 
+"ent/:P3p" 264 464 1 16 
+"ss" 209 450 5 11 12 13 15 23 
+":V_Imp+:V_Subj" 260 576 1 16 
+"<E>" 368 444 1 1 
+"<E>" 244 240 1 1 
+"naître" 182 141 0 
+"nais" 299 309 0 
+"naissons" 307 374 0 
+"naissez" 304 416 0 
+"naissent" 301 465 0 
+"ant/:G" 268 517 1 16 
+"naissant" 307 505 0 
+"qu" 189 658 1 26 
+":V_PS+:V_SubjImp" 237 658 1 16 
+"L" 188 748 1 28 
+"é/:K" 226 749 1 29 
+":V_PPass" 264 745 1 1 

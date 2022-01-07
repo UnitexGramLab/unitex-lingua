@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 64 202 6 2 3 4 5 6 7 
+"" 460 199 0 
+"<E>/:ms" 266 90 1 1 
+"LLLrice/:fs" 255 150 1 1 
+"Lse/:fs" 266 198 1 1 
+"s/:mp" 274 252 1 1 
+"LLLrices/:fp" 264 329 1 1 
+"Lses/:fp" 275 393 1 1 
+"ex: enquêteur" 487 108 0 

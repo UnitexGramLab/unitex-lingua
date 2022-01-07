@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 70 200 6 2 3 4 5 6 7 
+"" 495 199 0 
+"<E>/:ms" 286 107 1 1 
+"Lse/:fs" 287 157 1 1 
+"LLresse/:fs" 277 208 1 1 
+"s/:mp" 298 256 1 1 
+"Lses/:fp" 291 323 1 1 
+"LLresses/:fp" 289 391 1 1 
+"ex: pipeur" 523 99 0 

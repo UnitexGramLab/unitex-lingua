@@ -1,0 +1,24 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+4
+"<E>" 70 200 1 2 
+"" 481 200 0 
+"<E>/:ms:mp" 299 200 1 1 
+"/ex: cabus, preux" 430 104 0 

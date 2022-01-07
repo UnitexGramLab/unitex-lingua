@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 118 281 2 3 5 
+"" 551 382 0 
+"Graphe de flexiondu verbe foutre" 18 26 0 
+"<E>/:W" 287 161 1 1 
+"foutre" 348 174 0 
+"LL" 152 343 2 6 24 
+"<E>" 203 460 6 7 9 10 20 23 22 
+"<E>/:P3s" 307 405 1 11 
+"s/:P1s:P2s:Y2s" 339 521 1 11 
+"ons/:P1p:Y1p" 308 463 1 11 
+"e" 270 598 2 15 16 
+"<E>" 411 453 1 1 
+"fout" 359 433 0 
+"fous" 365 510 0 
+"foutons" 354 464 0 
+"z/:P2p:Y2p" 328 579 1 17 
+"nt/:P3p" 326 629 1 17 
+"<E>" 403 600 1 1 
+"foutez" 361 582 0 
+"foutent" 365 629 0 
+"ant/:G" 306 357 1 11 
+"foutant" 355 392 0 
+"u/:K" 274 693 1 25 
+"L" 289 521 1 8 
+":V_Imp+:V_Fut+:V_Cond+:V_SubjImp2+:V_Subj" 268 277 1 1 
+":V_PPass" 322 692 1 1 

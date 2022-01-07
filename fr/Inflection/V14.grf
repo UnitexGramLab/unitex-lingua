@@ -1,0 +1,55 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+35
+"<E>" 38 411 4 3 13 27 34 
+"" 534 385 0 
+"Graphe de flexion pour le verbe payer" 19 32 0 
+"LLL" 74 312 1 4 
+"i" 130 266 1 5 
+"e" 174 215 4 6 7 8 30 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 272 88 1 12 
+"s/:P2s:S2s" 271 140 1 12 
+"nt/:P3p:S3p" 269 189 1 12 
+"paie" 306 78 0 
+"paies" 307 131 0 
+"paient" 327 191 0 
+"<E>" 401 187 1 1 
+"LL" 90 469 7 14 15 18 22 29 31 5 
+"ons/:P1p:Y1p" 231 386 1 33 
+"ez/:P2p:Y2p" 234 446 1 33 
+"payons" 270 401 0 
+"payez" 272 440 0 
+"a" 170 556 1 20 
+"<E>" 404 577 1 1 
+"nt/:G" 248 601 1 19 
+"payant" 293 597 0 
+"i" 171 614 2 23 24 
+"ons/:S1p" 242 656 1 19 
+"ez/:S2p" 248 742 1 19 
+"payions" 288 659 0 
+"payiez" 283 724 0 
+"<E>/:W" 235 342 1 33 
+"payer" 281 368 0 
+"é/:K" 153 693 1 32 
+":V_Cond+:V_Fut" 252 250 1 12 
+":V_PS3+:V_Imp+:V_SubjImp3" 216 535 1 33 
+":V_PPass" 232 802 1 19 
+"<E>" 373 430 1 1 
+"L" 208 309 1 30 

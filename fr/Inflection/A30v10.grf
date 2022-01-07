@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 199 4 2 3 4 5 
+"" 503 202 0 
+"<E>/:ms" 291 113 1 1 
+"LLLLLlvatrice/:fs" 265 173 1 1 
+"s/:mp" 300 236 1 1 
+"LLLLLlvatrices/:fp" 269 298 1 1 
+"/sauveur" 521 117 0 

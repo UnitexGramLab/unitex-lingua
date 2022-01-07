@@ -1,0 +1,47 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+27
+"<E>" 116 236 2 4 3 
+"" 499 420 0 
+"Graphe de flexion pour le verbe plaire" 25 30 0 
+"<E>/:W" 266 148 1 1 
+"LL" 149 296 3 5 13 22 
+"s" 217 398 5 9 23 7 8 12 
+"plais" 318 348 0 
+"<E>/:P1s:P2s:Y2s" 280 352 1 26 
+"nt/:G" 277 414 1 26 
+"e" 249 529 2 10 11 
+"z/:P2p:Y2p" 280 527 1 26 
+"nt/:P3p" 277 577 1 26 
+"ons/:P1p:Y1p" 272 469 1 26 
+"L" 234 664 2 15 16 
+"plaît" 376 664 0 
+"ît/:P3s" 327 654 1 25 
+"L" 270 734 1 24 
+"plaire" 297 180 0 
+"plaisant" 320 410 0 
+"plaisez" 322 520 0 
+"plaisent" 328 578 0 
+"plaisons" 328 462 0 
+":V_Cond+:V_Fut" 260 236 1 26 
+":V_Imp+:V_Subj" 263 306 1 26 
+":V_PS+:V_SubjImp" 307 734 1 25 
+"<E>" 428 684 1 1 
+"<E>" 398 408 1 1 

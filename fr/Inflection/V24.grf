@@ -1,0 +1,53 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+33
+"<E>" 46 382 2 4 3 
+"" 519 613 0 
+"Graphe de flexion pour le verbe cueillir" 34 36 0 
+"<E>/:W" 229 287 1 30 
+"L" 94 433 4 5 6 7 8 
+"ons/:S1p" 230 372 1 30 
+"ez/:S2p" 230 428 1 30 
+"<E>/:K" 181 469 1 29 
+"L" 166 688 5 9 15 28 17 32 
+"e" 244 839 1 16 
+"<E>/:P1s:P3s:S1s:S3s:Y2s" 362 821 1 11 
+"<E>" 470 917 1 1 
+"s/:P2s:S2s" 356 869 1 11 
+"z/:P2p:Y2p" 355 932 1 11 
+"nt/:P3p:S3p" 356 990 1 11 
+"ons/:P1p:Y1p" 276 752 1 31 
+"<E>" 288 925 4 10 12 13 14 
+"ant/:G" 278 701 1 31 
+"cueillir" 274 276 0 
+"cueillions" 278 392 0 
+"cueilliez" 266 429 0 
+"cueillant" 315 697 0 
+"cueillons" 319 741 0 
+"cueille" 388 825 0 
+"cueilles" 385 872 0 
+"cueillez" 386 921 0 
+"cueillent" 393 981 0 
+":V_Cond+:V_Fut" 265 582 1 31 
+":V_Imp+:V_PS2+:V_SubjImp2" 254 645 1 31 
+":V_PPass" 230 484 1 30 
+"<E>" 352 448 1 1 
+"<E>" 410 688 1 1 
+"e" 208 612 1 27 

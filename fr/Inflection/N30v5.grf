@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 72 200 4 2 3 4 5 
+"" 503 197 0 
+"<E>/:ms" 268 115 1 1 
+"Laresse/:fs" 263 179 1 1 
+"s/:mp" 283 236 1 1 
+"Laresses/:fp" 265 297 1 1 
+"ex: doge" 494 79 0 

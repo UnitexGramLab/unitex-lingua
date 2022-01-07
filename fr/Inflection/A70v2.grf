@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 200 4 2 4 3 5 
+"" 445 202 0 
+"<E>/:ms" 267 128 1 1 
+"LLaïque/:fs" 263 185 1 1 
+"x/:mp" 278 234 1 1 
+"LLaïques/:fp" 261 294 1 1 
+"/ex: hébreu" 539 104 0 

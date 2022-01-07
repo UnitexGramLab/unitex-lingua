@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 69 200 4 2 3 4 5 
+"" 478 202 0 
+"<E>/:ms" 286 114 1 1 
+"LLLine/:fs" 273 172 1 1 
+"s/:mp" 289 226 1 1 
+"LLLines/:fp" 275 281 1 1 
+"ex: copain" 503 88 0 

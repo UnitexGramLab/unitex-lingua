@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 68 200 4 2 3 4 5 
+"" 461 199 0 
+"<E>/:ms:fs:mp:fp" 277 112 1 1 
+"La/:fs" 279 160 1 1 
+"s/:mp" 283 210 1 1 
+"Las/:fp" 278 259 1 1 
+"/ex: flamenco" 465 85 0 

@@ -1,0 +1,63 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+43
+"<E>" 76 245 2 3 4 
+"" 583 643 0 
+"Graphe de flexion pour le verbe mouvoir" 15 27 0 
+"<E>/:W" 225 193 1 24 
+"LL" 108 299 2 5 6 
+"ns/:P1p:Y1p" 221 265 1 24 
+"L" 155 407 5 7 8 9 20 17 
+"ez/:P2p:Y2p" 221 390 1 24 
+"ant/:G" 230 447 1 24 
+"LLL" 227 713 4 21 12 22 36 
+"s/:P1s:P2s:Y2s" 388 858 1 23 
+"t/:P3s" 387 907 1 23 
+"û/:Kms" 390 486 1 1 
+"v" 327 1051 3 14 15 16 
+"e/:S1s:S3s" 388 963 1 23 
+"es/:S2s" 385 1008 1 23 
+"ent/:P3p:S3p" 383 1056 1 23 
+"i" 218 521 2 18 19 
+"ons/:S1p" 247 494 1 42 
+"ez/:S2p" 252 546 1 42 
+":V_Imp+:V_Fut+:V_Cond" 198 333 1 24 
+":V_PS+:V_SubjImp" 361 797 1 23 
+"eu" 272 911 3 10 11 13 
+"<E>" 533 937 1 1 
+"<E>" 391 369 1 1 
+"mouvoir" 268 227 0 
+"mouvons" 257 269 0 
+"mouvez" 257 393 0 
+"mouvant" 274 440 0 
+"meus" 423 865 0 
+"meut" 419 917 0 
+"meuve" 415 959 0 
+"meuves" 416 1008 0 
+"meuvent" 419 1046 0 
+"meuvions" 286 490 0 
+"meuviez" 283 533 0 
+"u/:K" 333 634 2 37 40 
+"<E>/m" 392 634 1 38 
+"s/p" 451 634 1 39 
+"<E>" 487 601 1 1 
+"e/f" 386 546 2 41 38 
+"<E>/s" 440 550 1 39 
+"<E>" 299 516 1 24 

@@ -1,0 +1,49 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+29
+"<E>" 92 262 2 4 2 
+"" 562 535 0 
+"<E>/:W" 250 201 1 25 
+"bouillir" 299 237 0 
+"L" 148 309 3 5 19 22 
+"L" 183 514 4 12 24 20 27 
+"s/:P1s:P2s:Y2s" 327 729 1 13 
+"t/:P3s" 327 811 1 13 
+"ons/:P1p:Y1p" 329 544 1 26 
+"z/:P2p:Y2p" 336 594 1 26 
+"nt/:P3p" 332 660 1 26 
+"e" 300 628 2 9 10 
+"<E>" 248 572 2 8 11 
+"<E>" 400 772 1 1 
+"bous" 367 726 0 
+"bout" 367 810 0 
+"bouillons" 374 536 0 
+"bouillez" 365 587 0 
+"bouillent" 365 644 0 
+"<E>/:K" 191 354 1 23 
+"ant/:G" 329 487 1 26 
+"bouillant" 370 494 0 
+":V_Cond+:V_Fut" 236 293 1 25 
+":V_PPass" 235 354 1 25 
+":V_Imp+:V_PS2+:V_SubjImp2+:V_Subj" 305 430 1 26 
+"<E>" 415 342 1 1 
+"<E>" 470 533 1 1 
+"LLL" 245 784 2 6 7 
+"Graphe de flexion du verbe bouillir" 15 27 0 

@@ -1,0 +1,54 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+34
+"<E>" 147 143 2 2 9 
+"" 669 323 0 
+"<E>/:W" 352 83 1 1 
+"aller" 397 109 0 
+"ant/:G" 346 230 1 1 
+"allant" 462 257 0 
+"z/:P2p:Y2p" 352 169 1 1 
+"allez" 442 209 0 
+"L" 226 302 5 10 12 14 28 4 
+"L" 192 221 2 8 6 
+"é/:K" 340 459 1 31 
+"allons" 413 367 0 
+"ons/:P1p:Y1p" 344 381 1 1 
+"ill" 382 524 1 32 
+"LL" 274 554 2 13 15 
+"L" 337 683 2 16 24 
+"i" 367 619 2 29 30 
+"<E>/:P3s:Y2s" 495 662 1 33 
+"is/:P1s" 493 737 1 33 
+"s/:P2s" 494 808 1 33 
+"va" 528 655 0 
+"vais" 519 713 0 
+"vas" 518 784 0 
+"a" 444 707 3 18 19 17 
+"v" 383 769 2 23 26 
+"vont" 521 847 0 
+"ont/:P3p" 488 876 1 33 
+"Graphe de flexion pour le verbe aller" 25 31 0 
+":V_Imp+:V_PS3+:V_SubjImp3" 322 300 1 1 
+":V_Fut" 481 561 1 33 
+":V_Cond" 475 609 1 33 
+":V_PPass" 447 452 1 1 
+":V_Subj" 478 511 1 33 
+"<E>" 591 627 1 1 

@@ -1,0 +1,87 @@
+0000000007
+-1 V7
+: 2 2 1 1 
+: 6 4 4 3 
+t 
+: 5 5 
+: 5 6 
+: -2 2 -3 2 -4 2 15 2 14 2 13 2 12 2 8 8 7 7 3 2 
+: 7 9 
+: -5 2 -6 2 
+: -7 2 
+: 11 2 10 2 9 2 
+f 
+-2 V_Imp
+: 20 1 19 1 18 1 17 1 16 1 
+t 
+f 
+-3 V_PS3
+: 26 1 25 1 24 1 23 1 22 1 21 1 
+t 
+f 
+-4 V_SubjImp3
+: 32 1 31 1 30 1 29 1 28 1 27 1 
+t 
+f 
+-5 V_Fut
+: 38 1 37 1 36 1 35 1 34 1 33 1 
+t 
+f 
+-6 V_Cond
+: 43 1 42 1 41 1 40 1 39 1 
+t 
+f 
+-7 V_PPass
+: 46 1 44 1 
+: 47 2 45 2 
+t 
+f 
+%<E>
+%<é$er>
+%<E>/:W
+%ant/:G
+%é
+%$
+%è
+%e
+%é/:K
+%<E>/:P1s:P3s:S1s:S3s:Y2s
+%s/:P2s:S2s
+%nt/:P3p:S3p
+%ons/:P1p:Y1p
+%ez/:P2p:Y2p
+%ions/:S1p
+%iez/:S2p
+%ais/:I1s:I2s
+%ait/:I3s
+%ions/:I1p
+%iez/:I2p
+%aient/:I3p
+%ai/:J1s
+%a/:J3s
+%âmes/:J1p
+%âtes/:J2p
+%èrent/:J3p
+%as/:J2s
+%asse/:T1s
+%asses/:T2s
+%ât/:T3s
+%assions/:T1p
+%assiez/:T2p
+%assent/:T3p
+%rai/:F1s
+%ras/:F2s
+%ra/:F3s
+%rons/:F1p
+%rez/:F2p
+%ront/:F3p
+%rais/:C1s:C2s
+%rait/:C3s
+%rions/:C1p
+%riez/:C2p
+%raient/:C3p
+%e/f
+%s/p
+%<E>/m
+%<E>/s
+f

@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 70 200 5 2 3 4 5 6 
+"" 478 203 0 
+"<E>/:ms" 279 110 1 1 
+"le/:fs" 281 163 1 1 
+"s/:mp" 285 214 1 1 
+"LLaux/:mp" 275 263 1 1 
+"les/:fp" 284 317 1 1 
+"/ex: sapientiel;préjudiciel" 537 89 0 

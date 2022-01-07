@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 66 293 2 5 2 
+"" 490 421 0 
+"<E>/:W" 221 171 1 1 
+"Graphe de flexion pour le verbe prévaloir" 19 34 0 
+"prévaloir" 252 181 0 
+"LL" 93 372 2 6 7 
+"ns/:P1p:Y1p" 218 239 1 1 
+"L" 140 465 4 12 25 9 22 
+"ant/:G" 233 484 1 28 
+"<E>" 188 441 3 20 23 8 
+"prévalons" 255 240 0 
+"prévalant" 271 480 0 
+"L" 185 605 1 17 
+"d" 268 601 1 27 
+"x/:P1s:P2s:Y1s" 327 638 1 29 
+"t/:P3s" 330 690 1 29 
+"prévaux" 357 637 0 
+"u" 228 636 2 13 18 
+"<E>" 265 662 2 14 15 
+"prévaut" 355 686 0 
+"ent/:P3p" 231 388 1 28 
+"prévalent" 273 392 0 
+"u/:K" 181 511 1 26 
+"ez/:P2p:Y2p" 233 435 1 28 
+"prévalez" 269 428 0 
+":V_Imp+:V_PS+:V_SubjImp+:V_Subj" 216 331 1 28 
+":V_PPass" 216 534 1 28 
+":V_Cond+:V_Fut" 322 587 1 29 
+"<E>" 344 421 1 1 
+"<E>" 411 648 1 1 

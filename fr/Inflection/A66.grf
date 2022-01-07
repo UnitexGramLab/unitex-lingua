@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 72 200 3 2 3 4 
+"" 500 203 0 
+"<E>/:ms:mp" 305 148 1 1 
+"LLille/:fs" 305 211 1 1 
+"LLilles/:fp" 299 279 1 1 
+"/ex: vieux" 479 108 0 

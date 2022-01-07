@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 70 200 5 2 3 4 5 6 
+"" 521 207 0 
+"<E>/:ms" 263 90 1 1 
+"s/:mp" 266 153 1 1 
+"Lux/:mp" 260 203 1 1 
+"e/:fs" 265 260 1 1 
+"es/:fp" 261 315 1 1 
+"/ex: jovial" 489 77 0 

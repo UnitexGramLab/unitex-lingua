@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 109 369 2 4 2 
+"" 484 435 0 
+"<E>/:W" 282 262 1 27 
+"maudire" 314 286 0 
+"LL" 148 446 4 6 7 21 18 
+"<E>/:P1s:P2s:Y2s" 343 486 1 28 
+"t" 204 446 2 24 25 
+"s" 227 585 2 5 8 
+"s" 254 653 4 9 11 22 19 
+"ons/:P1p:Y1p" 335 597 1 28 
+"z/:P2p:Y2p" 343 652 1 28 
+"e" 300 670 2 10 12 
+"nt/:P3p" 340 711 1 28 
+"maudis" 375 485 0 
+"maudissons" 370 595 0 
+"maudissez" 394 645 0 
+"maudissent" 365 715 0 
+"maudit" 313 399 0 
+"L" 226 825 1 23 
+"ant/:G" 337 765 1 28 
+"maudissant" 382 779 0 
+":V_Fut+:V_Cond" 267 337 1 27 
+":V_Imp+:V_Subj" 326 553 1 28 
+":V_PS2+:V_SubjImp2" 295 856 1 28 
+"<E>/:P3s:J3s" 287 399 1 27 
+"<E>/:K" 233 446 1 26 
+":V_PPass" 266 446 1 27 
+"<E>" 376 400 1 1 
+"<E>" 452 657 1 1 
+"Graphe de flexion du verbe maudire" 31 27 0 

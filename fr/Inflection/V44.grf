@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1050 1485
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 70 200 2 2 4 
+"" 596 465 0 
+"<E>/:W" 185 141 1 28 
+"pouvoir" 214 158 0 
+"LL" 106 277 4 5 8 24 10 
+"ons/:P1p" 177 252 1 28 
+"pouvons" 218 248 0 
+"ez/:P2p" 227 373 1 29 
+"L" 159 407 3 7 12 15 
+"pouvez" 261 379 0 
+"ant/:G" 179 310 1 28 
+"pouvant" 217 293 0 
+"ons/:P1p" 226 435 1 29 
+"pouvons" 270 424 0 
+"r" 270 524 1 25 
+"L" 224 523 2 14 19 
+"eu" 326 663 1 17 
+"vent/:P3p" 421 663 1 30 
+"peuvent" 463 666 0 
+"LL" 279 619 3 16 20 26 
+"u" 321 738 2 21 22 
+"<E>/:Kms" 368 721 1 30 
+"iss" 355 794 1 27 
+"Graphe de flexion pour le verbe pouvoir" 23 31 0 
+":V_Imp" 170 212 1 28 
+":V_Cond+:V_Fut" 310 523 1 1 
+":V_PS+:V_SubjImp" 404 601 1 30 
+":V_Subj" 414 794 1 30 
+"<E>" 258 226 1 1 
+"<E>" 298 403 1 1 
+"<E>" 504 686 1 1 

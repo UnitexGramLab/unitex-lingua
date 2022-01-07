@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 199 4 2 3 4 5 
+"" 529 198 0 
+"<E>/:ms" 325 117 1 1 
+"esse/:fs" 325 177 1 1 
+"s/:mp" 335 231 1 1 
+"esses/:fp" 323 292 1 1 
+"ex: clown" 518 98 0 
