@@ -40,7 +40,7 @@ We welcome everyone to contribute to improve the Unitex/GramLab Language Resourc
 and [sending a pull request](https://help.github.com/articles/using-pull-requests/)
 with their changes.
 
-### How to add a new language support in Unitex
+### How to support a new language in Unitex
 
 To add a new language to Unitex:
 
